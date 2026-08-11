@@ -398,8 +398,15 @@ async function main() {
   console.log(`tech-news.json actualizado con ${selected.length} items (${withImage} con imagen).`)
 }
 
-main().catch((err) => {
-  // Cualquier error inesperado se loguea pero no falla el proceso: el workflow diario debe
-  // terminar en éxito incluso en un mal día (conserva el tech-news.json existente).
-  console.error(err)
-})
+main()
+  .catch((err) => {
+    // Cualquier error inesperado se loguea pero no falla el proceso: el workflow diario debe
+    // terminar en éxito incluso en un mal día (conserva el tech-news.json existente).
+    console.error(err)
+  })
+  .finally(() => {
+    // Los fetch (og:image y, a veces, los propios feeds) dejan sockets keep-alive abiertos que
+    // undici no libera de inmediato: sin esto el proceso queda vivo (event loop no vacío) hasta
+    // que el runner de CI lo mata por timeout, aunque el trabajo ya haya terminado.
+    process.exit(0)
+  })
