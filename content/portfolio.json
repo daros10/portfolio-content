@@ -1,0 +1,452 @@
+{
+  "personalInfo": {
+    "name": "Dario Herrera",
+    "role": "Senior Software Engineer",
+    "email": "darioherrera.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dario-herrera-1212541a7/",
+    "github": "https://github.com/daros10",
+    "twitter": "https://twitter.com/darii__O",
+    "cvUrl": "/files/CV-Dario-Herrera.pdf",
+    "stats": {
+      "years": "5+",
+      "projects": "15+",
+      "technologies": "40+"
+    }
+  },
+  "experiences": [
+    {
+      "company": "Datafast",
+      "role": "Senior Software Developer",
+      "startDate": "Jul 2023",
+      "endDate": "Present",
+      "website": "https://www.datafast.com.ec/",
+      "tasksKey": "datafastTask",
+      "taskKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ]
+    },
+    {
+      "company": "Kushki",
+      "role": "Senior Software Developer",
+      "startDate": "Sep 2020",
+      "endDate": "Jul 2023",
+      "website": "https://kushkipagos.com/",
+      "tasksKey": "kushkiTask",
+      "taskKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "company": "Ioet Inc",
+      "role": "Member Of Technical Staff",
+      "startDate": "May 2019",
+      "endDate": "Apr 2020",
+      "website": "https://www.ioet.com/",
+      "tasksKey": "ioetTask",
+      "taskKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "company": "Casa Pazmiño S.A",
+      "role": "Junior Software Developer",
+      "startDate": "Feb 2019",
+      "endDate": "Apr 2019",
+      "website": "https://casapazmino.com.ec/",
+      "tasksKey": "pazminoTask",
+      "taskKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
+    }
+  ],
+  "professionalProjects": [
+    {
+      "name": "GoSpace AI",
+      "descriptionKey": "projectDescriptions.goSpace",
+      "url": "https://www.gospace.com/",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "GraphQL",
+        "SQLite",
+        "BLoC"
+      ]
+    },
+    {
+      "name": "Time Tracker UI",
+      "descriptionKey": "projectDescriptions.timeTracker",
+      "url": "https://time-tracker-ui.azurewebsites.net/login",
+      "tags": [
+        "Angular",
+        "NgRX",
+        "Sass",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Feed Control System",
+      "descriptionKey": "projectDescriptions.dish",
+      "url": "https://github.com/daros10/Web-App-Casa-Pazmino",
+      "tags": [
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "personalProjects": [
+    {
+      "name": "Home Automation System",
+      "descriptionKey": "projectDescriptions.home",
+      "url": "https://github.com/daros10/Tesis_Security_System_Iot_mobile_app",
+      "tags": [
+        "Kotlin",
+        "Python",
+        "Firebase",
+        "Raspberry Pi",
+        "Flask",
+        "Android"
+      ]
+    },
+    {
+      "name": "Pico & Placa Predictor",
+      "descriptionKey": "projectDescriptions.prediction",
+      "url": "https://github.com/daros10/Pico-and-Placa",
+      "tags": [
+        "React",
+        "Material-UI"
+      ]
+    },
+    {
+      "name": "News App",
+      "descriptionKey": "projectDescriptions.news",
+      "url": "https://github.com/daros10/Flutter-NewsApp",
+      "tags": [
+        "Flutter",
+        "Provider",
+        "News API"
+      ]
+    },
+    {
+      "name": "Spoty App",
+      "descriptionKey": "projectDescriptions.spoty",
+      "url": "https://github.com/daros10/Course-Angular/tree/master/spotiapp",
+      "tags": [
+        "Angular",
+        "Bootstrap",
+        "Spotify API"
+      ]
+    },
+    {
+      "name": "Dockerized REST API",
+      "descriptionKey": "projectDescriptions.rest",
+      "url": "https://github.com/daros10/Avalith-Api-Rest",
+      "tags": [
+        "Node.js",
+        "Express",
+        "Docker",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Weather App",
+      "descriptionKey": "projectDescriptions.weather",
+      "url": "https://github.com/daros10/WeatherAppAndroid",
+      "tags": [
+        "Kotlin",
+        "Retrofit",
+        "OpenWeather API",
+        "Android"
+      ]
+    },
+    {
+      "name": "REST API with Auth",
+      "descriptionKey": "projectDescriptions.protect",
+      "url": "https://github.com/daros10/RestServer-NodeJS",
+      "tags": [
+        "Node.js",
+        "Express",
+        "Google Auth"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "name": "Angular: De cero a experto (Angular 10+)",
+      "url": "https://www.udemy.com/certificate/UC-65c50b1b-1db4-4a19-9098-6c782203f8ea/"
+    },
+    {
+      "name": "Android con Kotlin, Firebase y Google",
+      "url": "https://www.udemy.com/certificate/UC-a85ccaf3-c77e-4bff-ba2a-254a4c4a3dbd/"
+    },
+    {
+      "name": "Flutter: Tu guía completa de desarrollo para IOS y Android",
+      "url": "https://www.udemy.com/certificate/UC-ac949cfe-a5f9-4b89-ade0-f071310ba7dc/"
+    },
+    {
+      "name": "Flutter: Diseños nivel profesionales y animaciones",
+      "url": "https://www.udemy.com/certificate/UC-6fad40f9-115f-43da-88cb-4b46c184b546"
+    },
+    {
+      "name": "Node: De cero a experto",
+      "url": "https://ude.my/UC-e68e4669-cc00-4ab7-b302-2ba3394a5aaf"
+    },
+    {
+      "name": "Jetpack Compose: Curso definitivo desde 0",
+      "url": "https://www.udemy.com/share/1075SS3@k2gFj-0r38YUewVqGR02OmPLBHitrydneqD00rkbkuo-khNB1h1FkK4STXk2NPKc/"
+    },
+    {
+      "name": "Flutter Avanzado: Lleva tu conocimiento al siguiente nivel",
+      "url": "https://www.udemy.com/share/103vX63@QEazNIs39Q7oQR9iiagANl4mkwsfhAairKNa-3ApQLmN666ewMTI4rsOqoIZJMvl/"
+    },
+    {
+      "name": "REDUX en Angular con NGRX: Desde las bases hasta la práctica",
+      "url": "https://www.udemy.com/share/101u1Q3@Np00DcJnswBO_mJRU31d7mNPC7SYlqMTXOc9fzSYvpKqNgISiYgYhh0f1T5Bv9Hc/"
+    },
+    {
+      "name": "React: De cero a experto ( Hooks y MERN )",
+      "url": "https://www.udemy.com/share/103dum3@EdWOuzFH5ckWGME2ZUICOZPlRc7UYwlpjTEC8g0do_jZdxL4hy5elCCmsiDILZa-/"
+    },
+    {
+      "name": "Vim, aumenta tu velocidad de desarrollo",
+      "url": "https://www.udemy.com/share/101O9n3@A3NleLlGLqOukTsCNSR-WFOatAoXxRcC5vEgxqd4uaBwhnvtZw98UvqzOPEwPg2X/"
+    },
+    {
+      "name": "Flutter Intermedio: Diseños profesionales y animaciones",
+      "url": "https://www.udemy.com/share/102LrO3@CTpsx_b0Pr08I_pzJtTaJdkGxkgvkR3UdWtrVUBzs66SZOCwirlUEmk8wjG3dVN0/"
+    }
+  ],
+  "skillCategories": [
+    {
+      "key": "ai",
+      "skills": [
+        {
+          "name": "Machine Learning",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+        },
+        {
+          "name": "Deep Learning",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+        },
+        {
+          "name": "NLP",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        },
+        {
+          "name": "Transformers",
+          "icon": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+        },
+        {
+          "name": "Neural Networks",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+        },
+        {
+          "name": "Fine-Tuning",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+        },
+        {
+          "name": "Predictive Analytics",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+        },
+        {
+          "name": "Feature Engineering",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+        },
+        {
+          "name": "Hyperparameter Opt.",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+        },
+        {
+          "name": "Model Evaluation",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
+        },
+        {
+          "name": "Attention Mechanisms",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+        },
+        {
+          "name": "Applied AI",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+        }
+      ]
+    },
+    {
+      "key": "mobile",
+      "skills": [
+        {
+          "name": "Flutter",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+        },
+        {
+          "name": "Dart",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+        },
+        {
+          "name": "Kotlin",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+        },
+        {
+          "name": "Jetpack Compose",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg"
+        },
+        {
+          "name": "Android",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+        },
+        {
+          "name": "iOS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
+        }
+      ]
+    },
+    {
+      "key": "frontend",
+      "skills": [
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Angular",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "HTML5",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Material-UI",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        },
+        {
+          "name": "Redux",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        }
+      ]
+    },
+    {
+      "key": "backend",
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        },
+        {
+          "name": "Python",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        },
+        {
+          "name": "Go",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+        },
+        {
+          "name": "Java",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+        },
+        {
+          "name": "Spring",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "GraphQL",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        },
+        {
+          "name": "DynamoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg"
+        }
+      ]
+    },
+    {
+      "key": "tools",
+      "skills": [
+        {
+          "name": "AWS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+        },
+        {
+          "name": "Terraform",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+        },
+        {
+          "name": "Docker",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        },
+        {
+          "name": "Kubernetes",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+        },
+        {
+          "name": "Git",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        },
+        {
+          "name": "GitHub",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        },
+        {
+          "name": "Linux",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        },
+        {
+          "name": "Bitrise",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
+        }
+      ]
+    }
+  ]
+}

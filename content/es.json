@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Dario Herrera",
+    "role": "Ingeniero de Software Senior",
+    "description": "Construyo soluciones digitales escalables e innovadoras utilizando tecnologías modernas. Especializado en desarrollo web y móvil, arquitectura en la nube e inteligencia artificial para resolver problemas reales y generar valor.",
+    "cta": "Ver Mi Trabajo",
+    "download": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "Conóceme",
+    "description": "Ingeniero en Sistemas Informáticos y de Computación graduado de la Escuela Politécnica Nacional, con experiencia en el diseño y desarrollo de aplicaciones web y móviles escalables. A lo largo de mi trayectoria profesional, he participado en todo el ciclo de vida del desarrollo de software, adquiriendo experiencia en desarrollo frontend y backend, tecnologías cloud y arquitectura de software. Actualmente curso una Maestría en Inteligencia Artificial Aplicada, con enfoque en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural (NLP), arquitecturas Transformer y sistemas inteligentes. Me apasiona aprovechar la tecnología para construir soluciones digitales innovadoras, escalables y de alto impacto que resuelvan problemas del mundo real.",
+    "yearsExp": "Años de Experiencia",
+    "projectsCompleted": "Proyectos Completados",
+    "technologies": "Tecnologías"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "subtitle": "Mi trayectoria profesional"
+  },
+  "education": {
+    "title": "Educación y Cursos",
+    "subtitle": "Mi formación académica y aprendizaje continuo",
+    "universityTitle": "Pregrado",
+    "degree": "Ingeniería en Sistemas Informáticos y de Computación",
+    "university": "Escuela Politécnica Nacional",
+    "mastersTitle": "Maestría",
+    "mastersDegree": "Maestría en Inteligencia Artificial Aplicada",
+    "mastersUniversity": "Universidad Internacional del Ecuador (UIDE)",
+    "inProgress": "En Curso",
+    "completed": "Completado",
+    "coursesTitle": "Cursos y Certificaciones",
+    "coursesCompleted": "cursos completados"
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "subtitle": "Herramientas con las que trabajo",
+    "ai": "Inteligencia Artificial",
+    "mobile": "Desarrollo Móvil",
+    "frontend": "Frontend",
+    "backend": "Backend & Cloud",
+    "tools": "Herramientas e Infraestructura"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Lo que he construido",
+    "professional": "Profesionales",
+    "personal": "Personales",
+    "viewProject": "Ver Proyecto"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Trabajemos juntos",
+    "description": "Siempre estoy abierto a discutir nuevas oportunidades, proyectos interesantes o simplemente conversar sobre tecnología.",
+    "formName": "Tu Nombre",
+    "formEmail": "Tu Email",
+    "formMessage": "Tu Mensaje",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "successMessage": "¡Mensaje enviado con éxito! Te responderé pronto.",
+    "errorEmpty": "Por favor completa todos los campos",
+    "errorSend": "Error al enviar el mensaje. Por favor intenta de nuevo.",
+    "errorConfig": "El servicio de email no está configurado. Contáctame directamente.",
+    "email": "Enviar Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "datafastTask": {
+    "A": "Desarrollo de microservicios con: Node, TypeScript, Java, Spring, Quarkus.",
+    "B": "Generación de infraestructura como código usando Terraform.",
+    "C": "Desarrollo de aplicaciones móviles para Android con Kotlin y Jetpack Compose.",
+    "D": "Desarrollo de aplicaciones móviles multiplataforma usando Flutter.",
+    "E": "Desarrollo y cobertura de pruebas para front-end y back-end.",
+    "F": "Administración y publicación de aplicaciones Android en Google Play.",
+    "G": "Integración continua de aplicaciones móviles con Bitrise.",
+    "H": "Uso de diversos recursos de AWS: Lambda, Step Functions, DynamoDB, CloudWatch, CodeBuild, CodePipeline, S3, EC2, API Gateway.",
+    "I": "Desarrollo de software haciendo uso de metodologías ágiles."
+  },
+  "kushkiTask": {
+    "A": "Desarrollo de Micro-Servicios con: TypeScript, Go, Python, RxJS, AWS, Serverless Framework.",
+    "B": "Desarrollo de Micro-Frontends con React usando TypeScript, Single-spa, MaterialUI y Redux.",
+    "C": "Uso de servicios de AWS: DynamoDB, SystemManager, API-Gateway, Lambda Functions, X-Ray, S3.",
+    "D": "Desarrollo de software haciendo uso de los principios SOLID.",
+    "E": "Desarrollo de software haciendo uso de TDD.",
+    "F": "CI/CD, E2E.",
+    "G": "Desarrollo de software haciendo uso de metodologías ágiles."
+  },
+  "ioetTask": {
+    "A": "Desarrollo de aplicaciones móviles nativas para Android y iOS con Flutter y el patrón BLoC.",
+    "B": "Desarrollo de aplicaciones web con Angular y NgRX.",
+    "C": "Consumo de datos con REST y GraphQL.",
+    "D": "Manejo de diferentes servicios de Firebase.",
+    "E": "Desarrollo de pruebas unitarias.",
+    "F": "Manejo de Git y GitHub.",
+    "G": "Desarrollo de software haciendo uso de metodologías ágiles."
+  },
+  "pazminoTask": {
+    "A": "Generación de reportes con JasperReport.",
+    "B": "Análisis para el desarrollo de aplicativos web.",
+    "C": "Diseño de base de datos (MySQL, SQLServer, PostgreSQL).",
+    "D": "Desarrollo de aplicativos web (PHP, HTML5, JavaScript, Bootstrap).",
+    "E": "Soporte al cliente.",
+    "F": "Documentación de desarrollo de software.",
+    "G": "Pruebas funcionales a sistemas en JavaEE."
+  },
+  "projectDescriptions": {
+    "goSpace": "Aidra es una IA espacial que transforma la colaboración en oficina al comprender las necesidades del equipo, reuniéndolos autónomamente en el espacio adecuado.",
+    "timeTracker": "Aplicación web para el personal interno de ioet que expande las funcionalidades de la herramienta de pago TSheets.",
+    "dish": "Sistema web para controlar y planificar la alimentación de empleados. Maneja roles de administrador y usuario para optimizar costos de catering.",
+    "home": "Sistema domótico con componentes de hardware y software para monitorear y controlar estancias del hogar en tiempo real vía Android.",
+    "prediction": "Aplicación web que predice medidas regulatorias de movilidad según placas de vehículos del territorio ecuatoriano.",
+    "news": "Aplicación móvil que entrega noticias del mundo actual con tópicos como General, Salud, Tecnología y Deportes.",
+    "spoty": "Aplicación web que usa la API de Spotify para listar hits, buscar canciones y artistas para reproducción.",
+    "rest": "Servicio REST API dockerizado para operaciones CRUD de desarrolladores de software con sus tecnologías.",
+    "weather": "Aplicación móvil para clima actual, histórico de 5 días y pronóstico de 7 días.",
+    "protect": "REST API con autenticación y protección de rutas para administración de productos de cafetería."
+  }
+}

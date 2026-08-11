@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Dario Herrera",
+    "role": "Senior Software Engineer",
+    "description": "I build scalable and innovative digital solutions using modern technologies. I specialize in web and mobile development, cloud architecture, and artificial intelligence to solve real-world problems and generate value.",
+    "cta": "View My Work",
+    "download": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me",
+    "description": "Software Engineer graduated from the National Polytechnic School, with experience in designing and developing scalable web and mobile applications. Throughout my career, I have worked across the entire software development lifecycle, gaining expertise in frontend and backend development, cloud technologies, and software architecture. Currently pursuing a Master’s degree in Applied Artificial Intelligence, with a focus on Machine Learning, Deep Learning, Natural Language Processing (NLP), Transformer Architectures, and intelligent systems. Passionate about leveraging technology to build innovative, scalable, and impactful digital solutions that solve real-world challenges.",
+    "yearsExp": "Years Experience",
+    "projectsCompleted": "Projects Completed",
+    "technologies": "Technologies"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey"
+  },
+  "education": {
+    "title": "Education & Courses",
+    "subtitle": "My academic background and continuous learning",
+    "universityTitle": "Undergraduate",
+    "degree": "Computer and Information Systems Engineering",
+    "university": "National Polytechnic School",
+    "mastersTitle": "Master's Degree",
+    "mastersDegree": "Master in Applied Artificial Intelligence",
+    "mastersUniversity": "Universidad Internacional del Ecuador (UIDE)",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "coursesTitle": "Courses & Certifications",
+    "coursesCompleted": "courses completed"
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "Tools I work with",
+    "ai": "Artificial Intelligence",
+    "mobile": "Mobile Development",
+    "frontend": "Frontend",
+    "backend": "Backend & Cloud",
+    "tools": "Tools & Infrastructure"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "What I've built",
+    "professional": "Professional",
+    "personal": "Personal",
+    "viewProject": "View Project"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "description": "I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology.",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Message sent successfully! I'll get back to you soon.",
+    "errorEmpty": "Please fill in all fields",
+    "errorSend": "Failed to send message. Please try again.",
+    "errorConfig": "Email service is not configured. Please contact me directly.",
+    "email": "Send Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "datafastTask": {
+    "A": "Development of microservices using: Node, TypeScript, Java, Spring, Quarkus.",
+    "B": "Infrastructure as code generation using Terraform.",
+    "C": "Development of mobile applications for Android platforms using Kotlin and Jetpack Compose.",
+    "D": "Development of cross-platform mobile applications using Flutter.",
+    "E": "Development and test coverage for front-end and back-end applications.",
+    "F": "Management and publishing of Android applications on Google Play.",
+    "G": "Continuous integration of mobile applications using Bitrise.",
+    "H": "Use of various AWS resources: Lambda, Step Functions, DynamoDB, CloudWatch, CodeBuild, CodePipeline, S3, EC2, API Gateway, among others.",
+    "I": "Software development using agile methodologies."
+  },
+  "kushkiTask": {
+    "A": "Development of microservices using: TypeScript, Go, Python, RxJS, AWS, Serverless Framework.",
+    "B": "Development of micro-frontends with React using TypeScript, Single-spa Framework, Material-UI, and Redux.",
+    "C": "Use of AWS services such as: DynamoDB, System Manager, API Gateway, Lambda Functions, X-Ray, S3.",
+    "D": "Software development using SOLID principles.",
+    "E": "Software development using TDD.",
+    "F": "CI/CD, E2E.",
+    "G": "Software development using agile methodologies."
+  },
+  "ioetTask": {
+    "A": "Development of native mobile applications for Android and iOS using Flutter and the BLoC pattern.",
+    "B": "Development of web applications using Angular and NgRX.",
+    "C": "Data consumption with REST and GraphQL.",
+    "D": "Handling various Firebase services.",
+    "E": "Development of unit tests.",
+    "F": "Management of Git and GitHub.",
+    "G": "Software development using agile methodologies."
+  },
+  "pazminoTask": {
+    "A": "Report generation with JasperReport.",
+    "B": "Analysis for the development of web applications.",
+    "C": "Database design (MySQL, SQLServer, PostgreSQL).",
+    "D": "Development of web applications (PHP, HTML5, JavaScript, Bootstrap).",
+    "E": "Customer support.",
+    "F": "Software development documentation.",
+    "G": "Functional testing of systems in JavaEE."
+  },
+  "projectDescriptions": {
+    "goSpace": "Aidra is spatial AI that transforms in-office collaboration by understanding your team's needs, autonomously bringing them together in the right space at the right time.",
+    "timeTracker": "A web application developed for ioet's internal staff that expands the functionalities of the TSheets payment tool.",
+    "dish": "A web system to control and plan employee nutrition. Manages roles for administrators and users to optimize catering costs.",
+    "home": "A home automation system with hardware and software components for monitoring and controlling home rooms in real time via Android.",
+    "prediction": "A web application that predicts mobility regulatory measures according to vehicle license plates from Ecuadorian territories.",
+    "news": "A mobile application that delivers current world news with topics like General, Health, Technology, and Sports.",
+    "spoty": "A web application that uses the Spotify API to list hits, search for songs and artists for playback.",
+    "rest": "A dockerized REST API service for CRUD operations on software developers with their known technologies.",
+    "weather": "A mobile application for current weather, 5-day history, and 7-day forecast.",
+    "protect": "A REST API with authentication and route protection for cafeteria product management."
+  }
+}
