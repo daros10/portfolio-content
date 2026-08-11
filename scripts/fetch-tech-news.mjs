@@ -27,6 +27,8 @@ const CATEGORY_QUOTA = 8
 const MAX_TOTAL_ITEMS = 48
 const MIN_ITEMS_TO_PUBLISH = 5
 const FETCH_TIMEOUT_MS = 15000
+const FEED_RETRY_ATTEMPTS = 2
+const FEED_RETRY_DELAY_MS = 2000
 const UA = 'Mozilla/5.0 (compatible; portfolio-content-bot/1.0)'
 
 // Fallback de imagen vía og:image: solo se ejecuta sobre los ítems ya seleccionados (no sobre los
@@ -235,7 +237,29 @@ async function mapWithConcurrency(items, limit, fn) {
   await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker))
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+/**
+ * Reintenta antes de dar por perdido un feed: algunas fuentes (p. ej. Apple, detrás de Akamai)
+ * bloquean de forma intermitente las IPs de datacenter usadas por los runners de GitHub Actions y
+ * devuelven una página de error HTML en vez del XML — un segundo intento suele bastar.
+ */
 async function fetchFeed({ url, source, defaultCategory }) {
+  let lastError
+  for (let attempt = 1; attempt <= FEED_RETRY_ATTEMPTS; attempt++) {
+    try {
+      return await fetchFeedOnce({ url, source, defaultCategory })
+    } catch (err) {
+      lastError = err
+      if (attempt < FEED_RETRY_ATTEMPTS) await sleep(FEED_RETRY_DELAY_MS)
+    }
+  }
+  throw lastError
+}
+
+async function fetchFeedOnce({ url, source, defaultCategory }) {
   const feed = await parser.parseURL(url)
   return (feed.items ?? [])
     .filter((item) => item.title && item.link)
@@ -357,10 +381,11 @@ async function main() {
   )
 
   if (selected.length < MIN_ITEMS_TO_PUBLISH) {
+    // No se sobrescribe tech-news.json (se conserva el feed del día anterior), pero el proceso
+    // sale con éxito: un mal día de feeds no debe marcar el workflow diario como fallido.
     console.error(
       `Solo se obtuvieron ${selected.length} items (mínimo ${MIN_ITEMS_TO_PUBLISH}). No se sobrescribe tech-news.json — se conserva el feed del día anterior.`
     )
-    process.exitCode = 1
     return
   }
 
@@ -374,6 +399,7 @@ async function main() {
 }
 
 main().catch((err) => {
+  // Cualquier error inesperado se loguea pero no falla el proceso: el workflow diario debe
+  // terminar en éxito incluso en un mal día (conserva el tech-news.json existente).
   console.error(err)
-  process.exitCode = 1
 })

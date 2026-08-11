@@ -22,7 +22,12 @@ jobs:
       - run: npm install
 
       - name: Fetch tech news
+        # El script ya no falla el proceso por errores de feeds individuales o por no alcanzar el
+        # mínimo de items (conserva el tech-news.json anterior en ese caso). continue-on-error queda
+        # como red de seguridad extra para que un fallo inesperado (p. ej. en npm install o en el
+        # propio script) tampoco tumbe el workflow diario.
         run: npm run fetch:tech-news
+        continue-on-error: true
 
       - name: Commit and push if changed
         run: |
