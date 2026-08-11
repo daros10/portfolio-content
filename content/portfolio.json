@@ -6,7 +6,8 @@
     "linkedin": "https://www.linkedin.com/in/dario-herrera-1212541a7/",
     "github": "https://github.com/daros10",
     "twitter": "https://twitter.com/darii__O",
-    "cvUrl": "/files/CV-Dario-Herrera.pdf",
+     "photoUrl": "https://raw.githubusercontent.com/<usuario>/portfolio-content/main/content/assets/photo.png",
+     "cvUrl": "https://raw.githubusercontent.com/<usuario>/portfolio-content/main/content/assets/cv.pdf",
     "stats": {
       "years": "5+",
       "projects": "15+",
