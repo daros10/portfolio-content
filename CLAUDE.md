@@ -4,12 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Propósito del repositorio
 
-Este es un repositorio puramente de contenido/datos para el portafolio personal de Dario Herrera. No contiene código de aplicación, herramientas de build, tests ni dependencias — solo tres archivos JSON mantenidos a mano que un frontend de portafolio separado (que no está en este repo) consume para renderizar el texto de la UI y los datos estructurados.
+Este es un repositorio puramente de contenido/datos para el portafolio personal de Dario Herrera. No contiene código de aplicación, herramientas de build, tests ni dependencias — solo tres archivos JSON mantenidos a mano y un par de archivos binarios, que un frontend de portafolio separado (que no está en este repo) consume para renderizar el texto de la UI y los datos estructurados.
 
 ## Archivos
 
 - `content/en.json` / `content/es.json` — Textos de la UI (labels de navegación, títulos de sección, descripciones, textos de formularios) en inglés y español. Ambos archivos comparten **la misma estructura de claves**; al agregar, renombrar o eliminar una clave en uno, hay que hacer el mismo cambio en el otro.
 - `content/portfolio.json` — Datos estructurados, independientes del idioma: información personal, experiencia laboral, proyectos, cursos y categorías de habilidades (con URLs de íconos de los CDNs de devicon/jsdelivr y huggingface).
+- `content/assets/cv.pdf`, `content/assets/photo.png` — CV y foto de perfil, servidos directamente desde este repo vía raw.githubusercontent.com. Sus URLs están hardcodeadas en `personalInfo` de `portfolio.json` (`cvUrl`, `photoUrl`) y apuntan a `content/assets/...`, así que si se renombran o mueven estos archivos hay que actualizar esas URLs también.
 
 ## Referencias cruzadas entre archivos (la parte que no es obvia con solo mirar un archivo)
 
