@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-08-11T23:03:46.692Z",
+  "items": [
+    {
+      "id": "b11b9d0ae1ab",
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-11T18:38:17.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-10.43.51-AM.png?resize=281%2C300"
+    },
+    {
+      "id": "9514940f045b",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0d554a85f00b",
+      "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
+      "url": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_584dqua.max-1000x1000.png"
+    },
+    {
+      "id": "898ee426f5b9",
+      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_Ei9b2UE.gif"
+    },
+    {
+      "id": "3eae35082480",
+      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_Image_KjCoerO.max-600x600.jpg"
+    },
+    {
+      "id": "d5d3aa6c1ad4",
+      "title": "Media3 1.11 - What's new?",
+      "url": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFmJ7cctYTrLDGDFhZpNbKvN_eKBf7y1UYhJuvp4yERf_-bWyK7kVYhqCxj0WrLcPBOA2C9Unj-Y1pyRtPShF_hNxmjvXVZAF198-Ci7YLOToR6Pxzblw0piXk0a4hyphenhyphenZeBlg_-lmUw-QY6b-F-Ej1R3ci_AJ0Mmk5x9HCOgL2n5tpqobgirOI5M3OgNQ/s72-c/AFD%20-%20%5BABL_101%5D%20Media3%201.11%20is%20out%20_Meta.png"
+    },
+    {
+      "id": "6900f112a68b",
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQNQBJ1WH5E5QSQP8KFDVJV.png"
+    },
+    {
+      "id": "510ab8d6337b",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/01-intro.png"
+    },
+    {
+      "id": "f8a47c9e9863",
+      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
+      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
+    },
+    {
+      "id": "db6826b82650",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-10T19:30:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
+    },
+    {
+      "id": "1c3be43751ef",
+      "title": "Everything we launched during Agents Week",
+      "url": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-10T18:34:10.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZEF2H4G3BD74C5TP4BWMS76.png"
+    },
+    {
+      "id": "6f027f788573",
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "eeac610da22a",
+      "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+      "url": "https://blog.cloudflare.com/fedramp-class-d-certification/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-10T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KWJ8S81EFDW5RYDPNZEQSX7A.png"
+    },
+    {
+      "id": "22cea24b9563",
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-07T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
+    },
+    {
+      "id": "674eec9789b1",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
+    },
+    {
+      "id": "5ad4fe50403c",
+      "title": "Inside Android Skills - Built for deprecation",
+      "url": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-06T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8ln8L4mIkAKvPGo4pncpuh0f3-nhaEgXAqmsg2-QiDpkz0Bfowftt9pZJZxvgK78Eg5JXrvqdfvtiP7y7_MsGNhAAuZGy1ExKE01KfZisOs_0hCeCodS0v-bmQJA1WQO7k3tbeUUrRZjQM-mHbPECDLoQa1OmqqORsLJXF8ge0gB5MzV8gl5eIiUJBI0/s72-c/Inside%20Android%20Skills%20-%20Built%20for%20deprecation_Blog_V01.png"
+    },
+    {
+      "id": "f5f908b6ffe4",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-08-06T15:06:15.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Get ready for new creative assets on the App Store",
+      "url": "https://developer.apple.com/news/?id=kug6m2ea",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-08-05T15:00:58.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg"
+    },
+    {
+      "id": "8413213e3000",
+      "title": "Governance Is a Developer Experience Problem",
+      "url": "https://www.docker.com/blog/governance-is-a-developer-experience-problem/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/07/image1-2.png"
+    },
+    {
+      "id": "fbf8636c0bb4",
+      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T22:03:00.000Z"
+    },
+    {
+      "id": "c08e04c4f1bc",
+      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T20:25:00.000Z"
+    },
+    {
+      "id": "915757a19ca2",
+      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T15:22:00.000Z"
+    },
+    {
+      "id": "5eb3c49c6262",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-08-11T13:37:10.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg"
+    },
+    {
+      "id": "de2ca3d7578d",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "id": "b274e00978a8",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "id": "acaf1384be63",
+      "title": "Your tokenmaxxing is not valuemaxxing",
+      "url": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-11T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "14bcf5d77b19",
+      "title": "This Week in Spring - August 11th, 2026",
+      "url": "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "7a678e9a26d7",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-08-10T17:00:00.000Z"
+    },
+    {
+      "id": "431d44c7018d",
+      "title": "Animating CSS border-image",
+      "url": "https://css-tricks.com/animating-css-border-image/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-10T15:58:47.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
+    },
+    {
+      "id": "91cc29534dec",
+      "title": "SmashingConf Freiburg 2026, September 7-10",
+      "url": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-10T15:57:39.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
+    },
+    {
+      "id": "05a0ea4e749d",
+      "title": "Using and Styling the Dialog Element",
+      "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-07T14:06:43.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+    },
+    {
+      "id": "4427aa482e81",
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-06T19:49:34.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/MSFTBuild_Blog_Header_01.jpg"
+    },
+    {
+      "id": "0c64f0a14cd0",
+      "title": "Astro 7.2",
+      "url": "https://astro.build/blog/astro-720/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
+    },
+    {
+      "id": "1b586b4dc4d2",
+      "title": "A Bootiful Podcast: Data guru Gregory Green on RabbitMQ, Valkey, Gemfire, Data Flow, and more",
+      "url": "https://spring.io/blog/2026/08/06/a-bootiful-podcast-gregory-green",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "c82981f77bb6",
+      "title": "Node.js 26.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.7.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-05T16:25:55.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
+    },
+    {
+      "id": "262ccdecc9b3",
+      "title": "Explorers, exploiters, and the myth of the 100x engineer",
+      "url": "https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-05T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/89a7c761862499db37bf759db9607b85625d3d19-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "3535ff0c4d7e",
+      "title": "The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense",
+      "url": "https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-04T15:10:16.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/07/Omdia_02_1920x1080-5.png"
+    },
+    {
+      "id": "507dacfb085c",
+      "title": "Enabling the next iteration of the borrow checker on nightly",
+      "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/polonius_top10k_leaf.png"
+    },
+    {
+      "id": "7e369abf00d9",
+      "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+      "url": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
+      "source": "Kubernetes Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-03T16:00:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
+    },
+    {
+      "id": "187f156686f9",
+      "title": "Empty sandboxes break developer experience",
+      "url": "https://www.docker.com/blog/empty-sandboxes-break-developer-experience/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-03T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/Screenshot-2026-07-31-at-23.05.29-2320x705.png"
+    },
+    {
+      "id": "64ccd04dea0a",
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T15:20:46.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
+    },
+    {
+      "id": "9e04e3d85f99",
+      "title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
+      "url": "https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-07-31T13:49:33.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/07/image-55.png"
+    },
+    {
+      "id": "369c8ac30c15",
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-august-2026/aug-26-fishionista-preview-opt.png"
+    },
+    {
+      "id": "915aeeb7b951",
+      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "url": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
+      "source": "Kubernetes Blog",
+      "category": "backend",
+      "publishedAt": "2026-07-29T18:00:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
+    },
+    {
+      "id": "257ed072984a",
+      "title": "Qodana 2026.2: More Security, Better Coverage, Less Configuration",
+      "url": "https://blog.jetbrains.com/qodana/2026/07/qodana-2026-2-more-security-better-coverage-less-configuration/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-07-29T13:47:03.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/07/Untitled-design-45-1.png"
+    },
+    {
+      "id": "920d1e97155e",
+      "title": "Delivering safer, age-appropriate experiences on Google Play",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-07-29T13:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Em0UEKqDqhBIensqI38iULJEsiDOwA6nhPMuJHDAlX2PO-t4D_23woJNm_YFcijJCszieB98dpJi7sNgNpqe5tunH9Cr5O6M1YAMHMhEpB_O-Hoq14a1Yw4oFvuopsDkn719Bu6s4NR0BSfOcsN3DQpfsO1HW-TGpv3FTYk2eINnH-smtlNf8ihOVr0/s72-c/Google-Play-Age-Signals-API-Blog-Metadata.png"
+    },
+    {
+      "id": "bef33eff583c",
+      "title": "This Week in Spring - August 4th, 2026",
+      "url": "https://spring.io/blog/2026/08/04/this-week-in-spring-august-4-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "f42210d67fd3",
+      "title": "Node.js 26.6.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.6.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-03T13:51:29.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
+    }
+  ]
+}

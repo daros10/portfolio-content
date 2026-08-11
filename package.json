@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-content",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:tech-news": "node scripts/fetch-tech-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

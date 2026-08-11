@@ -1,0 +1,37 @@
+name: Update tech news
+
+on:
+  schedule:
+    # 12:00 UTC = 07:00 en Ecuador (UTC-5, sin horario de verano)
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - name: Fetch tech news
+        run: npm run fetch:tech-news
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- content/tech-news.json; then
+            echo "Sin cambios en tech-news.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/tech-news.json
+          git commit -m "chore: update tech news feed"
+          git push
