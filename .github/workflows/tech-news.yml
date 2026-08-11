@@ -2,8 +2,8 @@ name: Update tech news
 
 on:
   schedule:
-    # 12:00 UTC = 07:00 en Ecuador (UTC-5, sin horario de verano)
-    - cron: '0 12 * * *'
+    # 05:00 Ecuador (UTC-5)
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - run: npm install
 
