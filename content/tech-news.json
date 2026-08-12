@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T23:45:10.683Z",
+  "generatedAt": "2026-08-12T10:54:18.534Z",
   "items": [
     {
       "id": "b11b9d0ae1ab",
@@ -198,6 +198,14 @@
       "publishedAt": "2026-08-11T20:25:00.000Z"
     },
     {
+      "id": "75cdef5e58da",
+      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+      "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T18:00:00.000Z"
+    },
+    {
       "id": "915757a19ca2",
       "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
@@ -223,14 +231,6 @@
       "publishedAt": "2026-08-11T10:00:00.000Z"
     },
     {
-      "id": "b274e00978a8",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T10:00:00.000Z"
-    },
-    {
       "id": "acaf1384be63",
       "title": "Your tokenmaxxing is not valuemaxxing",
       "url": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
@@ -247,33 +247,6 @@
       "category": "backend",
       "publishedAt": "2026-08-11T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "431d44c7018d",
-      "title": "Animating CSS border-image",
-      "url": "https://css-tricks.com/animating-css-border-image/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-10T15:58:47.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
-    },
-    {
-      "id": "91cc29534dec",
-      "title": "SmashingConf Freiburg 2026, September 7-10",
-      "url": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-10T15:57:39.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
-    },
-    {
-      "id": "05a0ea4e749d",
-      "title": "Using and Styling the Dialog Element",
-      "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-07T14:06:43.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
     },
     {
       "id": "4427aa482e81",
@@ -312,15 +285,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
     },
     {
-      "id": "262ccdecc9b3",
-      "title": "Explorers, exploiters, and the myth of the 100x engineer",
-      "url": "https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-05T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/89a7c761862499db37bf759db9607b85625d3d19-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&auto=format"
-    },
-    {
       "id": "3535ff0c4d7e",
       "title": "The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense",
       "url": "https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/",
@@ -357,6 +321,15 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/08/Screenshot-2026-07-31-at-23.05.29-2320x705.png"
     },
     {
+      "id": "beede8354a28",
+      "title": "Modeling Device Capabilities for Analytics",
+      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-07-31T16:01:02.000Z",
+      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
+    },
+    {
       "id": "64ccd04dea0a",
       "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
       "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
@@ -382,15 +355,6 @@
       "category": "frontend",
       "publishedAt": "2026-07-31T08:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-august-2026/aug-26-fishionista-preview-opt.png"
-    },
-    {
-      "id": "915aeeb7b951",
-      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "url": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
-      "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-07-29T18:00:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
     },
     {
       "id": "257ed072984a",
@@ -427,6 +391,42 @@
       "category": "backend",
       "publishedAt": "2026-08-03T13:51:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
+    },
+    {
+      "id": "6a9e66b65afd",
+      "title": "Node.js 24.19.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.19.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-03T13:49:39.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.19.0%20(LTS)"
+    },
+    {
+      "id": "a37af9a1509b",
+      "title": "What's new in Astro - July 2026",
+      "url": "https://astro.build/blog/whats-new-july-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
+    },
+    {
+      "id": "6ca78f9d3768",
+      "title": "Intermittent error with symlinks in package registry zip file",
+      "url": "https://forums.swift.org/t/intermittent-error-with-symlinks-in-package-registry-zip-file/88406",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-07-20T18:25:31.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "379bca69c054",
+      "title": "Is `module.modulemap` required for C/Objc targets?",
+      "url": "https://forums.swift.org/t/is-module-modulemap-required-for-c-objc-targets/88332",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-07-16T12:57:47.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
