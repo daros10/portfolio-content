@@ -1,14 +1,68 @@
 {
-  "generatedAt": "2026-08-12T10:54:18.534Z",
+  "generatedAt": "2026-08-13T10:55:11.628Z",
   "items": [
     {
-      "id": "b11b9d0ae1ab",
-      "title": "From coder to orchestrator: How agents shift the role of a developer",
-      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
-      "source": "GitHub Blog",
+      "id": "e0061c3e1424",
+      "title": "Enhance your app for the new Pixel lineup: Unveiled at Made by Google",
+      "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvP5fwFCLkCaMlfThpNjoyBcKLZwTrlG06PWRCSa6vIaRu87xaN7K0HhCGlQJO8i4HyHuMvN-O-rT5LCY-124LhD5sokUz9oxfwsCQpF4E89UWSdcUTi89ZOod5jxY2RfC2FWuAumxcF0I6Uhfw65HfwKce20yUDOEcZC96847eGPvkVgp7b8X8VCSeKM/s72-c/Blogger-multiple%20(1).png"
+    },
+    {
+      "id": "1c40279e0988",
+      "title": "Docker VMM Public Beta: A Complete Overhaul, Built for Performance",
+      "url": "https://www.docker.com/blog/docker-vmm-public-beta/",
+      "source": "Docker Blog",
       "category": "tools",
-      "publishedAt": "2026-08-11T18:38:17.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-10.43.51-AM.png?resize=281%2C300"
+      "publishedAt": "2026-08-12T18:13:20.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/IMG_9344-1.png"
+    },
+    {
+      "id": "b47c3bae9681",
+      "title": "A new security baseline for enterprise agentic adoption",
+      "url": "https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-12T17:25:31.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image.png"
+    },
+    {
+      "id": "56df7e7cafc0",
+      "title": "Bring one-handed gestures to your Wear OS app",
+      "url": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-12T17:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaeeM1JYV7L4tEddXDUrgZGLlprNlBrlghIljPvSwDyq756kf5-J7Ogw6IroXrIzyECmybkmiCz_cEhHvSmrx6gkMCJZ81Q4Tty4JKfZUrXkl7Alm3g1FnXLXpryfOnb5hGAaP9Ro4Y5QttFU3Rd1pZPxHB9WY4j4f0OlqjSBzIeabTGyB62bP45OASTo/s72-c/Bring-one-handed-gestures_Meta.png"
+    },
+    {
+      "id": "530435336567",
+      "title": "When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages",
+      "url": "https://blog.jetbrains.com/research/2026/08/programming-language-migration/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-08-12T16:15:18.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/pl_dynamics_2017_2025.png"
+    },
+    {
+      "id": "8e265ea3eb39",
+      "title": "What's new in the Jetpack Compose August '26 release",
+      "url": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-12T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvR5TrjJE4Z1NMYxATN7zx3pmkOMm1lDAhV3u8h7RKVvQJzUsf2XJEwK7dY1b_d8eEEBvAV6wYIqtgKrh4xnkBv6EHGKr524At__nz0qbmlPNC402UFGtH1OrwlWtlxNB0XPRWdQd4FUwlaeOkOaDw-lCn47U_snuzIC-wZIaKkTceBrGcfCM8k2ifMsM/s72-c/Social%20-%20Android%20-%20Jetpack%20Compose%20January%20%E2%80%9924.png"
+    },
+    {
+      "id": "9c2d2be8f210",
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-08-12T14:01:59.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "9514940f045b",
@@ -29,15 +83,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_584dqua.max-1000x1000.png"
     },
     {
-      "id": "898ee426f5b9",
-      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
-      "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_Ei9b2UE.gif"
-    },
-    {
       "id": "3eae35082480",
       "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
       "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
@@ -47,13 +92,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_Image_KjCoerO.max-600x600.jpg"
     },
     {
-      "id": "d5d3aa6c1ad4",
-      "title": "Media3 1.11 - What's new?",
-      "url": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html",
-      "source": "Android Developers",
-      "category": "mobile",
+      "id": "898ee426f5b9",
+      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
       "publishedAt": "2026-08-11T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFmJ7cctYTrLDGDFhZpNbKvN_eKBf7y1UYhJuvp4yERf_-bWyK7kVYhqCxj0WrLcPBOA2C9Unj-Y1pyRtPShF_hNxmjvXVZAF198-Ci7YLOToR6Pxzblw0piXk0a4hyphenhyphenZeBlg_-lmUw-QY6b-F-Ej1R3ci_AJ0Mmk5x9HCOgL2n5tpqobgirOI5M3OgNQ/s72-c/AFD%20-%20%5BABL_101%5D%20Media3%201.11%20is%20out%20_Meta.png"
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_Ei9b2UE.gif"
     },
     {
       "id": "6900f112a68b",
@@ -81,15 +126,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-11T00:00:00.000Z",
       "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
-    },
-    {
-      "id": "db6826b82650",
-      "title": "Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "source": "GitHub Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-10T19:30:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
     },
     {
       "id": "1c3be43751ef",
@@ -137,15 +173,6 @@
       "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
-      "id": "5ad4fe50403c",
-      "title": "Inside Android Skills - Built for deprecation",
-      "url": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-06T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8ln8L4mIkAKvPGo4pncpuh0f3-nhaEgXAqmsg2-QiDpkz0Bfowftt9pZJZxvgK78Eg5JXrvqdfvtiP7y7_MsGNhAAuZGy1ExKE01KfZisOs_0hCeCodS0v-bmQJA1WQO7k3tbeUUrRZjQM-mHbPECDLoQa1OmqqORsLJXF8ge0gB5MzV8gl5eIiUJBI0/s72-c/Inside%20Android%20Skills%20-%20Built%20for%20deprecation_Blog_V01.png"
-    },
-    {
       "id": "f5f908b6ffe4",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -164,38 +191,73 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/MQ-AppMod-Blog-Thumbnail-1-1-1024x576.webp"
     },
     {
+      "id": "a36261e809b0",
+      "title": "GitHub availability report: July 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-12T22:17:32.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2025/08/wallpaper-generic-.png"
+    },
+    {
+      "id": "c68037b8183e",
+      "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-12T22:00:00.000Z"
+    },
+    {
+      "id": "d0656ae81e3d",
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-6.38.49-PM.png?fit=1095%2C626"
+    },
+    {
+      "id": "6acbb8c7572b",
+      "title": "Your contributors are AI-first now. Is your project?",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-12T18:00:08.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/00ab37fbbb9bc343b007734b0e5805a26e747c90d955750bd976cb9ce84f6a2a-1920x1080-1.png"
+    },
+    {
+      "id": "8afdba3c7a53",
+      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-12T18:00:00.000Z"
+    },
+    {
+      "id": "4012eb5770f4",
+      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-12T18:00:00.000Z"
+    },
+    {
       "id": "7d7079a0abaf",
-      "title": "Get ready for new creative assets on the App Store",
-      "url": "https://developer.apple.com/news/?id=kug6m2ea",
+      "title": "Updates to age ratings for the Republic of Korea",
+      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
       "source": "Apple Developer",
       "category": "mobile",
-      "publishedAt": "2026-08-05T15:00:58.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg"
+      "publishedAt": "2026-08-12T15:00:03.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
     },
     {
-      "id": "8413213e3000",
-      "title": "Governance Is a Developer Experience Problem",
-      "url": "https://www.docker.com/blog/governance-is-a-developer-experience-problem/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/07/image1-2.png"
-    },
-    {
-      "id": "fbf8636c0bb4",
-      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T22:03:00.000Z"
-    },
-    {
-      "id": "c08e04c4f1bc",
-      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T20:25:00.000Z"
+      "id": "de3cea6c22a4",
+      "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+      "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-12T13:43:56.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
     },
     {
       "id": "75cdef5e58da",
@@ -204,31 +266,6 @@
       "source": "Kubernetes Blog",
       "category": "cloud",
       "publishedAt": "2026-08-11T18:00:00.000Z"
-    },
-    {
-      "id": "915757a19ca2",
-      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T15:22:00.000Z"
-    },
-    {
-      "id": "5eb3c49c6262",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-08-11T13:37:10.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg"
-    },
-    {
-      "id": "de2ca3d7578d",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-08-11T10:00:00.000Z"
     },
     {
       "id": "acaf1384be63",
@@ -249,49 +286,31 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "4427aa482e81",
-      "title": "A guide to slash commands in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-06T19:49:34.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/MSFTBuild_Blog_Header_01.jpg"
-    },
-    {
-      "id": "0c64f0a14cd0",
-      "title": "Astro 7.2",
-      "url": "https://astro.build/blog/astro-720/",
-      "source": "Astro Blog",
+      "id": "431d44c7018d",
+      "title": "Animating CSS border-image",
+      "url": "https://css-tricks.com/animating-css-border-image/",
+      "source": "CSS-Tricks",
       "category": "frontend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
+      "publishedAt": "2026-08-10T15:58:47.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
     },
     {
-      "id": "1b586b4dc4d2",
-      "title": "A Bootiful Podcast: Data guru Gregory Green on RabbitMQ, Valkey, Gemfire, Data Flow, and more",
-      "url": "https://spring.io/blog/2026/08/06/a-bootiful-podcast-gregory-green",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "91cc29534dec",
+      "title": "SmashingConf Freiburg 2026, September 7-10",
+      "url": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-10T15:57:39.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
     },
     {
-      "id": "c82981f77bb6",
-      "title": "Node.js 26.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.7.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-05T16:25:55.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
-    },
-    {
-      "id": "3535ff0c4d7e",
-      "title": "The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense",
-      "url": "https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/",
+      "id": "8413213e3000",
+      "title": "Governance Is a Developer Experience Problem",
+      "url": "https://www.docker.com/blog/governance-is-a-developer-experience-problem/",
       "source": "Docker Blog",
       "category": "tools",
-      "publishedAt": "2026-08-04T15:10:16.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/07/Omdia_02_1920x1080-5.png"
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/07/image1-2.png"
     },
     {
       "id": "507dacfb085c",
@@ -310,15 +329,6 @@
       "category": "backend",
       "publishedAt": "2026-08-03T16:00:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-    },
-    {
-      "id": "187f156686f9",
-      "title": "Empty sandboxes break developer experience",
-      "url": "https://www.docker.com/blog/empty-sandboxes-break-developer-experience/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-03T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/Screenshot-2026-07-31-at-23.05.29-2320x705.png"
     },
     {
       "id": "beede8354a28",
@@ -357,22 +367,31 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-august-2026/aug-26-fishionista-preview-opt.png"
     },
     {
-      "id": "257ed072984a",
-      "title": "Qodana 2026.2: More Security, Better Coverage, Less Configuration",
-      "url": "https://blog.jetbrains.com/qodana/2026/07/qodana-2026-2-more-security-better-coverage-less-configuration/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-07-29T13:47:03.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/07/Untitled-design-45-1.png"
+      "id": "0c64f0a14cd0",
+      "title": "Astro 7.2",
+      "url": "https://astro.build/blog/astro-720/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
     },
     {
-      "id": "920d1e97155e",
-      "title": "Delivering safer, age-appropriate experiences on Google Play",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-07-29T13:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Em0UEKqDqhBIensqI38iULJEsiDOwA6nhPMuJHDAlX2PO-t4D_23woJNm_YFcijJCszieB98dpJi7sNgNpqe5tunH9Cr5O6M1YAMHMhEpB_O-Hoq14a1Yw4oFvuopsDkn719Bu6s4NR0BSfOcsN3DQpfsO1HW-TGpv3FTYk2eINnH-smtlNf8ihOVr0/s72-c/Google-Play-Age-Signals-API-Blog-Metadata.png"
+      "id": "1b586b4dc4d2",
+      "title": "A Bootiful Podcast: Data guru Gregory Green on RabbitMQ, Valkey, Gemfire, Data Flow, and more",
+      "url": "https://spring.io/blog/2026/08/06/a-bootiful-podcast-gregory-green",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "c82981f77bb6",
+      "title": "Node.js 26.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.7.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-05T16:25:55.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
     },
     {
       "id": "bef33eff583c",
@@ -402,30 +421,12 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.19.0%20(LTS)"
     },
     {
-      "id": "a37af9a1509b",
-      "title": "What's new in Astro - July 2026",
-      "url": "https://astro.build/blog/whats-new-july-2026/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
-    },
-    {
       "id": "6ca78f9d3768",
       "title": "Intermittent error with symlinks in package registry zip file",
       "url": "https://forums.swift.org/t/intermittent-error-with-symlinks-in-package-registry-zip-file/88406",
       "source": "Swift Forums",
       "category": "mobile",
       "publishedAt": "2026-07-20T18:25:31.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "379bca69c054",
-      "title": "Is `module.modulemap` required for C/Objc targets?",
-      "url": "https://forums.swift.org/t/is-module-modulemap-required-for-c-objc-targets/88332",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-07-16T12:57:47.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
