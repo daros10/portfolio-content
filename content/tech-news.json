@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-13T10:55:11.628Z",
+  "generatedAt": "2026-08-14T10:51:08.724Z",
   "items": [
+    {
+      "id": "f6cbc8a9779a",
+      "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-13T19:58:01.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZY9E03GZQKFZPVFDA5EKNGP.png"
+    },
+    {
+      "id": "5a82bab31df9",
+      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
+      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_CXQhslw.gif"
+    },
+    {
+      "id": "76c77512e473",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-13T16:45:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cef1df5630e8",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
+    },
+    {
+      "id": "a2a6ecc30bd5",
+      "title": "Certificate Transparency Monitoring is now generally available",
+      "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-13T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQPYFA4V0A6ZGSYZDJGASME.png"
+    },
+    {
+      "id": "918b9fb5bc7d",
+      "title": "New EU Guidelines For AI Labelling",
+      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+      "source": "Smashing Magazine",
+      "category": "ai",
+      "publishedAt": "2026-08-13T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/eu-guidelines-ai-labelling/new-ai-guidelines-ai-labelling.jpg"
+    },
     {
       "id": "e0061c3e1424",
       "title": "Enhance your app for the new Pixel lineup: Unveiled at Made by Google",
@@ -92,15 +146,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_Image_KjCoerO.max-600x600.jpg"
     },
     {
-      "id": "898ee426f5b9",
-      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
-      "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_Ei9b2UE.gif"
-    },
-    {
       "id": "6900f112a68b",
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
       "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
@@ -128,15 +173,6 @@
       "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
     },
     {
-      "id": "1c3be43751ef",
-      "title": "Everything we launched during Agents Week",
-      "url": "https://blog.cloudflare.com/agents-week-review-august-2026/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-10T18:34:10.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZEF2H4G3BD74C5TP4BWMS76.png"
-    },
-    {
       "id": "6f027f788573",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -144,15 +180,6 @@
       "category": "ai",
       "publishedAt": "2026-08-10T14:30:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "eeac610da22a",
-      "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-      "url": "https://blog.cloudflare.com/fedramp-class-d-certification/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-10T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KWJ8S81EFDW5RYDPNZEQSX7A.png"
     },
     {
       "id": "22cea24b9563",
@@ -173,22 +200,46 @@
       "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
-      "id": "f5f908b6ffe4",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-08-06T15:06:15.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
+      "id": "7ad8661d4748",
+      "title": "Solving integration woes with a hackathon",
+      "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-14T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "d5be802cf531",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-      "source": "Azure",
+      "id": "be270ec026c5",
+      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-14T02:00:00.000Z"
+    },
+    {
+      "id": "5142d8a26156",
+      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-13T20:49:00.000Z"
+    },
+    {
+      "id": "13480cbf78c4",
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-13T19:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260"
+    },
+    {
+      "id": "cd667730ca2c",
+      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+      "source": "AWS",
       "category": "ai",
-      "publishedAt": "2026-08-06T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/MQ-AppMod-Blog-Thumbnail-1-1-1024x576.webp"
+      "publishedAt": "2026-08-13T18:23:00.000Z"
     },
     {
       "id": "a36261e809b0",
@@ -198,48 +249,6 @@
       "category": "tools",
       "publishedAt": "2026-08-12T22:17:32.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2025/08/wallpaper-generic-.png"
-    },
-    {
-      "id": "c68037b8183e",
-      "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-12T22:00:00.000Z"
-    },
-    {
-      "id": "d0656ae81e3d",
-      "title": "Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-12T19:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-6.38.49-PM.png?fit=1095%2C626"
-    },
-    {
-      "id": "6acbb8c7572b",
-      "title": "Your contributors are AI-first now. Is your project?",
-      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-12T18:00:08.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/00ab37fbbb9bc343b007734b0e5805a26e747c90d955750bd976cb9ce84f6a2a-1920x1080-1.png"
-    },
-    {
-      "id": "8afdba3c7a53",
-      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-12T18:00:00.000Z"
-    },
-    {
-      "id": "4012eb5770f4",
-      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-12T18:00:00.000Z"
     },
     {
       "id": "7d7079a0abaf",
@@ -331,15 +340,6 @@
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
     },
     {
-      "id": "beede8354a28",
-      "title": "Modeling Device Capabilities for Analytics",
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-07-31T16:01:02.000Z",
-      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
-    },
-    {
       "id": "64ccd04dea0a",
       "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
       "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
@@ -356,15 +356,6 @@
       "category": "languages",
       "publishedAt": "2026-07-31T13:49:33.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/07/image-55.png"
-    },
-    {
-      "id": "369c8ac30c15",
-      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T08:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-august-2026/aug-26-fishionista-preview-opt.png"
     },
     {
       "id": "0c64f0a14cd0",
@@ -394,15 +385,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
     },
     {
-      "id": "bef33eff583c",
-      "title": "This Week in Spring - August 4th, 2026",
-      "url": "https://spring.io/blog/2026/08/04/this-week-in-spring-august-4-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "f42210d67fd3",
       "title": "Node.js 26.6.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.6.0",
@@ -421,6 +403,15 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.19.0%20(LTS)"
     },
     {
+      "id": "a37af9a1509b",
+      "title": "What's new in Astro - July 2026",
+      "url": "https://astro.build/blog/whats-new-july-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
+    },
+    {
       "id": "6ca78f9d3768",
       "title": "Intermittent error with symlinks in package registry zip file",
       "url": "https://forums.swift.org/t/intermittent-error-with-symlinks-in-package-registry-zip-file/88406",
@@ -428,6 +419,15 @@
       "category": "mobile",
       "publishedAt": "2026-07-20T18:25:31.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "b093fdba298e",
+      "title": "crates.io: development update",
+      "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-07-13T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
     }
   ]
 }
