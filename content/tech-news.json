@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-14T10:51:08.724Z",
+  "generatedAt": "2026-08-15T10:14:32.560Z",
   "items": [
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-14T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "40ab38cda73a",
+      "title": "How Cloudflare detects MCP traffic and helps secure it",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-14T13:12:12.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M005HG1H0K802B4Y17SX9NQ5.png"
+    },
+    {
+      "id": "944f4ae3e00e",
+      "title": "The Forms Evolution, Web AI, and Architectural Vision!",
+      "url": "https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-14T13:01:03.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*tX_snpmagGLVYtXBflj_tQ.png"
+    },
+    {
+      "id": "eb461e790130",
+      "title": "Secure all your internal vibe-coded applications — in one click",
+      "url": "https://blog.cloudflare.com/workers-protected-by-access/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-14T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZW0HXCQS1KX2QJ1MD5YT1JP.png"
+    },
     {
       "id": "f6cbc8a9779a",
       "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
@@ -36,15 +72,6 @@
       "category": "ai",
       "publishedAt": "2026-08-13T16:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
-    },
-    {
-      "id": "a2a6ecc30bd5",
-      "title": "Certificate Transparency Monitoring is now generally available",
-      "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-13T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQPYFA4V0A6ZGSYZDJGASME.png"
     },
     {
       "id": "918b9fb5bc7d",
@@ -137,24 +164,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_584dqua.max-1000x1000.png"
     },
     {
-      "id": "3eae35082480",
-      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_Image_KjCoerO.max-600x600.jpg"
-    },
-    {
-      "id": "6900f112a68b",
-      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
-      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQNQBJ1WH5E5QSQP8KFDVJV.png"
-    },
-    {
       "id": "510ab8d6337b",
       "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
       "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
@@ -182,22 +191,48 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
-      "id": "22cea24b9563",
-      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-07T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
+      "id": "3b6bea7ad73f",
+      "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
+      "url": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/",
+      "source": "Stack Overflow Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-14T18:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/77219a03abcfb156fb75125565664cfcb6a0076e-1280x672.jpg?w=1200&h=630&auto=format"
     },
     {
-      "id": "674eec9789b1",
-      "title": "How Baseline Can Help You Ship Less JavaScript",
-      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "source": "Smashing Magazine",
+      "id": "ec4a4ebc9249",
+      "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "c010c36e2a94",
+      "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+      "url": "https://css-tricks.com/whats-important-17/",
+      "source": "CSS-Tricks",
       "category": "frontend",
-      "publishedAt": "2026-08-07T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
+      "publishedAt": "2026-08-14T14:01:51.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
+    },
+    {
+      "id": "bf5c498ecaad",
+      "title": "Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes",
+      "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-14T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "f15515861e6d",
+      "title": "Exploring Compose HTML for Server Side Rendering",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
+      "source": "Kotlin Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-14T12:15:09.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/KT-social-BlogSocialShare-1280x720-1.png"
     },
     {
       "id": "7ad8661d4748",
@@ -209,20 +244,12 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "be270ec026c5",
-      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+      "id": "14801f966934",
+      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-14T02:00:00.000Z"
-    },
-    {
-      "id": "5142d8a26156",
-      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-13T20:49:00.000Z"
+      "publishedAt": "2026-08-14T07:00:00.000Z"
     },
     {
       "id": "13480cbf78c4",
@@ -232,23 +259,6 @@
       "category": "tools",
       "publishedAt": "2026-08-13T19:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260"
-    },
-    {
-      "id": "cd667730ca2c",
-      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
-      "source": "AWS",
-      "category": "ai",
-      "publishedAt": "2026-08-13T18:23:00.000Z"
-    },
-    {
-      "id": "a36261e809b0",
-      "title": "GitHub availability report: July 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-12T22:17:32.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2025/08/wallpaper-generic-.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -267,14 +277,6 @@
       "category": "frontend",
       "publishedAt": "2026-08-12T13:43:56.000Z",
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
-    },
-    {
-      "id": "75cdef5e58da",
-      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T18:00:00.000Z"
     },
     {
       "id": "acaf1384be63",
@@ -304,22 +306,22 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
     },
     {
-      "id": "91cc29534dec",
-      "title": "SmashingConf Freiburg 2026, September 7-10",
-      "url": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-10T15:57:39.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
+      "id": "22cea24b9563",
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-07T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
     },
     {
-      "id": "8413213e3000",
-      "title": "Governance Is a Developer Experience Problem",
-      "url": "https://www.docker.com/blog/governance-is-a-developer-experience-problem/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/07/image1-2.png"
+      "id": "674eec9789b1",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
       "id": "507dacfb085c",
@@ -338,24 +340,6 @@
       "category": "backend",
       "publishedAt": "2026-08-03T16:00:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-    },
-    {
-      "id": "64ccd04dea0a",
-      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
-      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T15:20:46.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
-    },
-    {
-      "id": "9e04e3d85f99",
-      "title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
-      "url": "https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-07-31T13:49:33.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/07/image-55.png"
     },
     {
       "id": "0c64f0a14cd0",
@@ -403,13 +387,22 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.19.0%20(LTS)"
     },
     {
-      "id": "a37af9a1509b",
-      "title": "What's new in Astro - July 2026",
-      "url": "https://astro.build/blog/whats-new-july-2026/",
-      "source": "Astro Blog",
+      "id": "beede8354a28",
+      "title": "Modeling Device Capabilities for Analytics",
+      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-07-31T16:01:02.000Z",
+      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
+    },
+    {
+      "id": "64ccd04dea0a",
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
+      "publishedAt": "2026-07-31T15:20:46.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
       "id": "6ca78f9d3768",
@@ -428,6 +421,15 @@
       "category": "languages",
       "publishedAt": "2026-07-13T00:00:00.000Z",
       "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
+    },
+    {
+      "id": "379bca69c054",
+      "title": "Is `module.modulemap` required for C/Objc targets?",
+      "url": "https://forums.swift.org/t/is-module-modulemap-required-for-c-objc-targets/88332",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-07-16T12:57:47.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
