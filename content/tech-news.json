@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:14:32.560Z",
+  "generatedAt": "2026-08-16T10:15:32.001Z",
   "items": [
     {
       "id": "6d7526357c23",
@@ -252,6 +252,15 @@
       "publishedAt": "2026-08-14T07:00:00.000Z"
     },
     {
+      "id": "a2a9f36f72aa",
+      "title": "Node.js Interactive 2026: A Recap",
+      "url": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
+    },
+    {
       "id": "13480cbf78c4",
       "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
       "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
@@ -376,15 +385,6 @@
       "category": "backend",
       "publishedAt": "2026-08-03T13:51:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
-    },
-    {
-      "id": "6a9e66b65afd",
-      "title": "Node.js 24.19.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.19.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-03T13:49:39.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.19.0%20(LTS)"
     },
     {
       "id": "beede8354a28",
