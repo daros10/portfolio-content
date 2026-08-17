@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-16T10:15:32.001Z",
+  "generatedAt": "2026-08-17T10:24:32.582Z",
   "items": [
+    {
+      "id": "cfb1ad6d5c2e",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-17T08:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
+    },
     {
       "id": "6d7526357c23",
       "title": "What’s new with Google Cloud",
@@ -180,15 +189,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-11T00:00:00.000Z",
       "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
-    },
-    {
-      "id": "6f027f788573",
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
       "id": "3b6bea7ad73f",
@@ -414,15 +414,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "b093fdba298e",
-      "title": "crates.io: development update",
-      "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
-    },
-    {
       "id": "379bca69c054",
       "title": "Is `module.modulemap` required for C/Objc targets?",
       "url": "https://forums.swift.org/t/is-module-modulemap-required-for-c-objc-targets/88332",
@@ -430,6 +421,15 @@
       "category": "mobile",
       "publishedAt": "2026-07-16T12:57:47.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "c37465e5b3d2",
+      "title": "Announcing Rust 1.97.1",
+      "url": "https://blog.rust-lang.org/2026/07/16/Rust-1.97.1/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
