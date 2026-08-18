@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-08-17T10:24:32.582Z",
+  "generatedAt": "2026-08-18T10:20:02.955Z",
   "items": [
+    {
+      "id": "3b2aba282400",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-17T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
+    },
+    {
+      "id": "8b06ae898d88",
+      "title": "Klibs.io Grows to 4,200+ KMP Projects With Smarter Discovery and New AI Integrations",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
+      "source": "Kotlin Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-17T13:12:57.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/klibsio-4200-projects-by-tags.png"
+    },
+    {
+      "id": "d6e641acd12b",
+      "title": "Make zero CVEs your new default",
+      "url": "https://www.docker.com/blog/make-zero-cves-your-new-default/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-17T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/Screenshot-2026-08-05-at-14-49-37-Hardened-Images-catalog-Docker-Hub.png"
+    },
     {
       "id": "cfb1ad6d5c2e",
       "title": "Get closer to the game with Gemini and Pixel",
@@ -74,15 +101,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "id": "cef1df5630e8",
-      "title": "What 50 open source projects taught us about security in the AI era",
-      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-13T16:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
-    },
-    {
       "id": "918b9fb5bc7d",
       "title": "New EU Guidelines For AI Labelling",
       "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
@@ -108,15 +126,6 @@
       "category": "tools",
       "publishedAt": "2026-08-12T18:13:20.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/08/IMG_9344-1.png"
-    },
-    {
-      "id": "b47c3bae9681",
-      "title": "A new security baseline for enterprise agentic adoption",
-      "url": "https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-12T17:25:31.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image.png"
     },
     {
       "id": "56df7e7cafc0",
@@ -173,39 +182,47 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_584dqua.max-1000x1000.png"
     },
     {
-      "id": "510ab8d6337b",
-      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/01-intro.png"
-    },
-    {
-      "id": "f8a47c9e9863",
-      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
-      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
-    },
-    {
-      "id": "3b6bea7ad73f",
-      "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
-      "url": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/",
+      "id": "589c48c32f7d",
+      "title": "What does an agentic SDLC actually look like?",
+      "url": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/",
       "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-14T18:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/77219a03abcfb156fb75125565664cfcb6a0076e-1280x672.jpg?w=1200&h=630&auto=format"
+      "category": "tools",
+      "publishedAt": "2026-08-18T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "ec4a4ebc9249",
-      "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
+      "id": "db03c672c86e",
+      "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-14T15:00:00.000Z"
+      "publishedAt": "2026-08-17T20:29:00.000Z"
+    },
+    {
+      "id": "b597a3d03ee7",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-08-17T19:46:21.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg"
+    },
+    {
+      "id": "d61059331b2a",
+      "title": "Amazon ECR now supports 25 replication rules per registry",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-17T19:01:00.000Z"
+    },
+    {
+      "id": "05b74b870b3e",
+      "title": "Dark mode toggles: two states are enough",
+      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-17T14:15:50.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
     },
     {
       "id": "c010c36e2a94",
@@ -244,14 +261,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "14801f966934",
-      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-14T07:00:00.000Z"
-    },
-    {
       "id": "a2a9f36f72aa",
       "title": "Node.js Interactive 2026: A Recap",
       "url": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
@@ -288,31 +297,22 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
     },
     {
-      "id": "acaf1384be63",
-      "title": "Your tokenmaxxing is not valuemaxxing",
-      "url": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-11T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "14bcf5d77b19",
-      "title": "This Week in Spring - August 11th, 2026",
-      "url": "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "431d44c7018d",
-      "title": "Animating CSS border-image",
-      "url": "https://css-tricks.com/animating-css-border-image/",
-      "source": "CSS-Tricks",
+      "id": "510ab8d6337b",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
       "category": "frontend",
-      "publishedAt": "2026-08-10T15:58:47.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/01-intro.png"
+    },
+    {
+      "id": "f8a47c9e9863",
+      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
+      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
     },
     {
       "id": "22cea24b9563",
@@ -333,6 +333,33 @@
       "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
+      "id": "14bcf5d77b19",
+      "title": "This Week in Spring - August 11th, 2026",
+      "url": "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "0c64f0a14cd0",
+      "title": "Astro 7.2",
+      "url": "https://astro.build/blog/astro-720/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
+    },
+    {
+      "id": "c82981f77bb6",
+      "title": "Node.js 26.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.7.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-05T16:25:55.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
+    },
+    {
       "id": "507dacfb085c",
       "title": "Enabling the next iteration of the borrow checker on nightly",
       "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
@@ -351,31 +378,13 @@
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
     },
     {
-      "id": "0c64f0a14cd0",
-      "title": "Astro 7.2",
-      "url": "https://astro.build/blog/astro-720/",
-      "source": "Astro Blog",
+      "id": "64ccd04dea0a",
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
-    },
-    {
-      "id": "1b586b4dc4d2",
-      "title": "A Bootiful Podcast: Data guru Gregory Green on RabbitMQ, Valkey, Gemfire, Data Flow, and more",
-      "url": "https://spring.io/blog/2026/08/06/a-bootiful-podcast-gregory-green",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "c82981f77bb6",
-      "title": "Node.js 26.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.7.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-05T16:25:55.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
+      "publishedAt": "2026-07-31T15:20:46.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
       "id": "f42210d67fd3",
@@ -385,24 +394,6 @@
       "category": "backend",
       "publishedAt": "2026-08-03T13:51:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
-    },
-    {
-      "id": "beede8354a28",
-      "title": "Modeling Device Capabilities for Analytics",
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-07-31T16:01:02.000Z",
-      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
-    },
-    {
-      "id": "64ccd04dea0a",
-      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
-      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T15:20:46.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
       "id": "6ca78f9d3768",
@@ -430,6 +421,15 @@
       "category": "languages",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "b093fdba298e",
+      "title": "crates.io: development update",
+      "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-07-13T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
     }
   ]
 }
