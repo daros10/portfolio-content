@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-18T10:20:02.955Z",
+  "generatedAt": "2026-08-19T10:20:55.421Z",
   "items": [
+    {
+      "id": "fba207e26546",
+      "title": "Tinder cuts app cold starts by 47% with new R8 Configuration Analyzer",
+      "url": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-18T18:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg82eJ9rS0VwZn7vwxFSpuhpyNOEC3uWOY1VfEzVNvCdrHyhR9VWwf-oVom-WJCkTtMjA-waS9Ayv-6C6hOot3YiUP1uPGF51hgVrrd9UFWaVQDSVKkhOktJ4jBUG8fDdoOYgK_q-HMZvLeCMp-wxPcQR8MPyfRWynacE85SKaU42X4jU_DopOOAL4CqU4/s72-c/Copy%20of%20ANDDM_TINDER_Metacard.png"
+    },
+    {
+      "id": "613b07aef0ee",
+      "title": "Jetpack XR SDK core libraries reach beta: The next milestone for Android XR",
+      "url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINP26eET06IJDsi5S_9cXMX2yO-Lu9a3nFZ-rlcFH7E0WvDClpuJRh_f-1oNdeiMhVvpS66ZpYnr_rUunL2SEORLxfwvByIh_GgZqBZofaN8bSrL77oxALw-IyNcIjVlVKVx8nkgGiUQOXhXFuy7xDmOlCnt4ABHc2Z4V3khjrolB1QXMcbAtnj4VFKk/s72-c/Android%20XR%20beta%20release%20Meta%20.png"
+    },
+    {
+      "id": "cbfcae951ae2",
+      "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
+      "url": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_XYX8VCT.max-1000x1000.jpg"
+    },
+    {
+      "id": "701a21e13810",
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/box-multimodal-agents-gemini-embeddings-head.max-600x600.png"
+    },
+    {
+      "id": "4d6a95e88ad5",
+      "title": "BGP Role model: tracking the adoption of RFC 9234",
+      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-18T15:21:32.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0AP04HK7ZM02ZWP3G59W4DP.png"
+    },
+    {
+      "id": "4202e649cd51",
+      "title": "Coding Agent Horror Stories: The Command You Already Approved",
+      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image1-1.png"
+    },
     {
       "id": "3b2aba282400",
       "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
@@ -9,6 +63,15 @@
       "category": "tools",
       "publishedAt": "2026-08-17T16:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
+    },
+    {
+      "id": "58dc5d739e8c",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-08-17T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/MQ-Cloud-Native-App-Platform-Blog-Thumbnail-2-1024x1024.webp"
     },
     {
       "id": "8b06ae898d88",
@@ -38,15 +101,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-14T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
       "id": "40ab38cda73a",
       "title": "How Cloudflare detects MCP traffic and helps secure it",
       "url": "https://blog.cloudflare.com/mcp-security-updates/",
@@ -74,24 +128,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZW0HXCQS1KX2QJ1MD5YT1JP.png"
     },
     {
-      "id": "f6cbc8a9779a",
-      "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
-      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-13T19:58:01.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZY9E03GZQKFZPVFDA5EKNGP.png"
-    },
-    {
-      "id": "5a82bab31df9",
-      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-13T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_CXQhslw.gif"
-    },
-    {
       "id": "76c77512e473",
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
@@ -101,40 +137,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "id": "918b9fb5bc7d",
-      "title": "New EU Guidelines For AI Labelling",
-      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-      "source": "Smashing Magazine",
-      "category": "ai",
-      "publishedAt": "2026-08-13T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/eu-guidelines-ai-labelling/new-ai-guidelines-ai-labelling.jpg"
-    },
-    {
       "id": "e0061c3e1424",
       "title": "Enhance your app for the new Pixel lineup: Unveiled at Made by Google",
       "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-08-12T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvP5fwFCLkCaMlfThpNjoyBcKLZwTrlG06PWRCSa6vIaRu87xaN7K0HhCGlQJO8i4HyHuMvN-O-rT5LCY-124LhD5sokUz9oxfwsCQpF4E89UWSdcUTi89ZOod5jxY2RfC2FWuAumxcF0I6Uhfw65HfwKce20yUDOEcZC96847eGPvkVgp7b8X8VCSeKM/s72-c/Blogger-multiple%20(1).png"
-    },
-    {
-      "id": "1c40279e0988",
-      "title": "Docker VMM Public Beta: A Complete Overhaul, Built for Performance",
-      "url": "https://www.docker.com/blog/docker-vmm-public-beta/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-12T18:13:20.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/IMG_9344-1.png"
-    },
-    {
-      "id": "56df7e7cafc0",
-      "title": "Bring one-handed gestures to your Wear OS app",
-      "url": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-12T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaeeM1JYV7L4tEddXDUrgZGLlprNlBrlghIljPvSwDyq756kf5-J7Ogw6IroXrIzyECmybkmiCz_cEhHvSmrx6gkMCJZ81Q4Tty4JKfZUrXkl7Alm3g1FnXLXpryfOnb5hGAaP9Ro4Y5QttFU3Rd1pZPxHB9WY4j4f0OlqjSBzIeabTGyB62bP45OASTo/s72-c/Bring-one-handed-gestures_Meta.png"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA6QfkFAxNGheiHxY8wkPFxujmDTwO1WbzGjmHCwc8DOW1jM580d0JfSDaYXnxE1ON5aHzO7SWsECCmd9fZyEd0doDRSmXutkt55h3BZJ8w1FBlGLQpw22DD7EGX1ktz5NuIgcIGKm38PwxUSkTMsqSqmN-x87t3uQuRC3zlYQCmX-XDmeHobiBB3Oh4k/s72-c/Metadata-multiple.png"
     },
     {
       "id": "530435336567",
@@ -146,74 +155,64 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/pl_dynamics_2017_2025.png"
     },
     {
-      "id": "8e265ea3eb39",
-      "title": "What's new in the Jetpack Compose August '26 release",
-      "url": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-12T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvR5TrjJE4Z1NMYxATN7zx3pmkOMm1lDAhV3u8h7RKVvQJzUsf2XJEwK7dY1b_d8eEEBvAV6wYIqtgKrh4xnkBv6EHGKr524At__nz0qbmlPNC402UFGtH1OrwlWtlxNB0XPRWdQd4FUwlaeOkOaDw-lCn47U_snuzIC-wZIaKkTceBrGcfCM8k2ifMsM/s72-c/Social%20-%20Android%20-%20Jetpack%20Compose%20January%20%E2%80%9924.png"
+      "id": "75ed04231bd3",
+      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-19T05:18:00.000Z"
     },
     {
-      "id": "9c2d2be8f210",
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-08-12T14:01:59.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo"
+      "id": "dfb696049674",
+      "title": "Amazon Bedrock now supports OpenAI models in India",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-18T23:30:00.000Z"
     },
     {
-      "id": "9514940f045b",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
+      "id": "d676e72afd74",
+      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-18T22:30:00.000Z"
     },
     {
-      "id": "0d554a85f00b",
-      "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
-      "url": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+      "id": "70622476f875",
+      "title": "Governance on autopilot, minus the turbulence",
+      "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_584dqua.max-1000x1000.png"
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
     },
     {
-      "id": "589c48c32f7d",
-      "title": "What does an agentic SDLC actually look like?",
-      "url": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/",
+      "id": "7d7079a0abaf",
+      "title": "Changes for apps in the European Union",
+      "url": "https://developer.apple.com/news/?id=gmws0jgp",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-08-18T15:00:38.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
+    },
+    {
+      "id": "c8c707d0086c",
+      "title": "Building an agentic SDLC with a QA engineering mindset",
+      "url": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/",
       "source": "Stack Overflow Blog",
       "category": "tools",
       "publishedAt": "2026-08-18T07:40:00.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "db03c672c86e",
-      "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-17T20:29:00.000Z"
-    },
-    {
-      "id": "b597a3d03ee7",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-08-17T19:46:21.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg"
-    },
-    {
-      "id": "d61059331b2a",
-      "title": "Amazon ECR now supports 25 replication rules per registry",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-17T19:01:00.000Z"
+      "id": "2c67db35c42c",
+      "title": "This Week in Spring - August 18th, 2026",
+      "url": "https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "05b74b870b3e",
@@ -234,15 +233,6 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
     },
     {
-      "id": "bf5c498ecaad",
-      "title": "Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes",
-      "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-14T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
       "id": "f15515861e6d",
       "title": "Exploring Compose HTML for Server Side Rendering",
       "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
@@ -257,8 +247,7 @@
       "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
       "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-08-14T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+      "publishedAt": "2026-08-14T07:40:00.000Z"
     },
     {
       "id": "a2a9f36f72aa",
@@ -277,15 +266,6 @@
       "category": "tools",
       "publishedAt": "2026-08-13T19:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Updates to age ratings for the Republic of Korea",
-      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-08-12T15:00:03.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
     },
     {
       "id": "de3cea6c22a4",
@@ -333,13 +313,12 @@
       "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
-      "id": "14bcf5d77b19",
-      "title": "This Week in Spring - August 11th, 2026",
-      "url": "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "75cdef5e58da",
+      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+      "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-11T18:00:00.000Z"
     },
     {
       "id": "0c64f0a14cd0",
@@ -376,6 +355,15 @@
       "category": "backend",
       "publishedAt": "2026-08-03T16:00:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
+    },
+    {
+      "id": "beede8354a28",
+      "title": "Modeling Device Capabilities for Analytics",
+      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-07-31T16:01:02.000Z",
+      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
     },
     {
       "id": "64ccd04dea0a",
@@ -430,6 +418,15 @@
       "category": "languages",
       "publishedAt": "2026-07-13T00:00:00.000Z",
       "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
+    },
+    {
+      "id": "18b7f56883c0",
+      "title": "Announcing TypeScript 7.0",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "TypeScript DevBlog",
+      "category": "languages",
+      "publishedAt": "2026-07-08T15:58:29.000Z",
+      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/07/7-0-speedup-chart-2.png"
     }
   ]
 }
