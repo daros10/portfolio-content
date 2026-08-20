@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-19T10:20:55.421Z",
+  "generatedAt": "2026-08-20T10:21:36.376Z",
   "items": [
+    {
+      "id": "314cb75fe2f0",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5c33c6656fa3",
+      "title": "Preparing your app for broader memory limits",
+      "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXjhFI2-zK8JEgBW_5dT7E4Wd_32EifVKThmEesvM8ei4pyt3TZUwR7FXW5VEHQGc6pPxXW8hYjsfHATAKi_wKFTFfXDevcK3wOWs9DIkJ5vhLKhVZnmCQw-IiM92tKPy1zPBZ0ZBei6qxvDbOsQX_j8NnFNEen6HWparIesRo-DPc5TP_318hU89fiU/s72-c/%5BABL_116%5D%20Preparing%20your%20app%20for%20expanded%20memory%20limits%20-%20meta.png"
+    },
+    {
+      "id": "67c34c025b39",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-19T16:00:28.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M00XZZC7473CXRW6EF1Z69ZW.png"
+    },
+    {
+      "id": "d4b1960c227a",
+      "title": "Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting",
+      "url": "https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image7_5rgoVhK.max-600x600.png"
+    },
+    {
+      "id": "8c868e01b40d",
+      "title": "How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog",
+      "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_i5lkwYb.max-1000x1000.png"
+    },
+    {
+      "id": "0685501944d9",
+      "title": "Signatures, be true: domain errors and functional handling in Kotlin",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-19T15:52:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
+    },
     {
       "id": "fba207e26546",
       "title": "Tinder cuts app cold starts by 47% with new R8 Configuration Analyzer",
@@ -18,24 +72,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-18T17:00:00.000Z",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINP26eET06IJDsi5S_9cXMX2yO-Lu9a3nFZ-rlcFH7E0WvDClpuJRh_f-1oNdeiMhVvpS66ZpYnr_rUunL2SEORLxfwvByIh_GgZqBZofaN8bSrL77oxALw-IyNcIjVlVKVx8nkgGiUQOXhXFuy7xDmOlCnt4ABHc2Z4V3khjrolB1QXMcbAtnj4VFKk/s72-c/Android%20XR%20beta%20release%20Meta%20.png"
-    },
-    {
-      "id": "cbfcae951ae2",
-      "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
-      "url": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_XYX8VCT.max-1000x1000.jpg"
-    },
-    {
-      "id": "701a21e13810",
-      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
-      "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/box-multimodal-agents-gemini-embeddings-head.max-600x600.png"
     },
     {
       "id": "4d6a95e88ad5",
@@ -119,15 +155,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*tX_snpmagGLVYtXBflj_tQ.png"
     },
     {
-      "id": "eb461e790130",
-      "title": "Secure all your internal vibe-coded applications — in one click",
-      "url": "https://blog.cloudflare.com/workers-protected-by-access/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-14T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZW0HXCQS1KX2QJ1MD5YT1JP.png"
-    },
-    {
       "id": "76c77512e473",
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
@@ -137,46 +164,73 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "id": "e0061c3e1424",
-      "title": "Enhance your app for the new Pixel lineup: Unveiled at Made by Google",
-      "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-12T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA6QfkFAxNGheiHxY8wkPFxujmDTwO1WbzGjmHCwc8DOW1jM580d0JfSDaYXnxE1ON5aHzO7SWsECCmd9fZyEd0doDRSmXutkt55h3BZJ8w1FBlGLQpw22DD7EGX1ktz5NuIgcIGKm38PwxUSkTMsqSqmN-x87t3uQuRC3zlYQCmX-XDmeHobiBB3Oh4k/s72-c/Metadata-multiple.png"
+      "id": "0b41d22ad3af",
+      "title": "Supply chain attack on arrayref",
+      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "530435336567",
-      "title": "When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages",
-      "url": "https://blog.jetbrains.com/research/2026/08/programming-language-migration/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-08-12T16:15:18.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/pl_dynamics_2017_2025.png"
-    },
-    {
-      "id": "75ed04231bd3",
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+      "id": "ddcf2f2890ce",
+      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-19T05:18:00.000Z"
+      "publishedAt": "2026-08-19T23:00:00.000Z"
     },
     {
-      "id": "dfb696049674",
-      "title": "Amazon Bedrock now supports OpenAI models in India",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
+      "id": "cf7e33c395e0",
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-18T23:30:00.000Z"
+      "publishedAt": "2026-08-19T22:55:00.000Z"
     },
     {
-      "id": "d676e72afd74",
-      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
+      "id": "7c41fe45a80c",
+      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-18T22:30:00.000Z"
+      "publishedAt": "2026-08-19T21:06:00.000Z"
+    },
+    {
+      "id": "bf6c17b1a987",
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-19T17:50:23.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-5.41.11-PM.png"
+    },
+    {
+      "id": "b4c605e3dfba",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+    },
+    {
+      "id": "ee348235949d",
+      "title": "WordPress.com Student Plan",
+      "url": "https://css-tricks.com/wordpress-student-plan/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-19T08:50:00.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+    },
+    {
+      "id": "79127fb50f93",
+      "title": "Go 1.27 is released",
+      "url": "https://go.dev/blog/go1.27",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "70622476f875",
@@ -224,15 +278,6 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
     },
     {
-      "id": "c010c36e2a94",
-      "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-      "url": "https://css-tricks.com/whats-important-17/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-14T14:01:51.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
-    },
-    {
       "id": "f15515861e6d",
       "title": "Exploring Compose HTML for Server Side Rendering",
       "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
@@ -247,7 +292,8 @@
       "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
       "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-08-14T07:40:00.000Z"
+      "publishedAt": "2026-08-14T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
       "id": "a2a9f36f72aa",
@@ -257,24 +303,6 @@
       "category": "backend",
       "publishedAt": "2026-08-14T00:00:00.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
-    },
-    {
-      "id": "13480cbf78c4",
-      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-13T19:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260"
-    },
-    {
-      "id": "de3cea6c22a4",
-      "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-      "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-12T13:43:56.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
     },
     {
       "id": "510ab8d6337b",
@@ -313,32 +341,6 @@
       "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
     },
     {
-      "id": "75cdef5e58da",
-      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-11T18:00:00.000Z"
-    },
-    {
-      "id": "0c64f0a14cd0",
-      "title": "Astro 7.2",
-      "url": "https://astro.build/blog/astro-720/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
-    },
-    {
-      "id": "c82981f77bb6",
-      "title": "Node.js 26.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.7.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-05T16:25:55.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
-    },
-    {
       "id": "507dacfb085c",
       "title": "Enabling the next iteration of the borrow checker on nightly",
       "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
@@ -375,6 +377,24 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
+      "id": "0c64f0a14cd0",
+      "title": "Astro 7.2",
+      "url": "https://astro.build/blog/astro-720/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
+    },
+    {
+      "id": "c82981f77bb6",
+      "title": "Node.js 26.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.7.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-05T16:25:55.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
+    },
+    {
       "id": "f42210d67fd3",
       "title": "Node.js 26.6.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.6.0",
@@ -409,24 +429,6 @@
       "category": "languages",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "b093fdba298e",
-      "title": "crates.io: development update",
-      "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "imageUrl": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/code-tab.png"
-    },
-    {
-      "id": "18b7f56883c0",
-      "title": "Announcing TypeScript 7.0",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "source": "TypeScript DevBlog",
-      "category": "languages",
-      "publishedAt": "2026-07-08T15:58:29.000Z",
-      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/07/7-0-speedup-chart-2.png"
     }
   ]
 }
