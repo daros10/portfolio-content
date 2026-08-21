@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T10:21:36.376Z",
+  "generatedAt": "2026-08-21T10:21:32.055Z",
   "items": [
+    {
+      "id": "d42863612632",
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-20T18:36:11.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
+    },
+    {
+      "id": "793200362392",
+      "title": "Expanding Google Antigravity for enterprise customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T17:30:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/antigravity_enterprise.max-600x600.jpg"
+    },
+    {
+      "id": "719c194df3c6",
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T17:03:03.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png"
+    },
+    {
+      "id": "3c945f690d9a",
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "url": "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Magic_Quadrant_for_CloudNative_Ap.max-1000x1000.png"
+    },
     {
       "id": "314cb75fe2f0",
       "title": "5 new ways to level up your learning with Search",
@@ -27,24 +63,6 @@
       "category": "cloud",
       "publishedAt": "2026-08-19T16:00:28.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M00XZZC7473CXRW6EF1Z69ZW.png"
-    },
-    {
-      "id": "d4b1960c227a",
-      "title": "Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting",
-      "url": "https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image7_5rgoVhK.max-600x600.png"
-    },
-    {
-      "id": "8c868e01b40d",
-      "title": "How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog",
-      "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_i5lkwYb.max-1000x1000.png"
     },
     {
       "id": "0685501944d9",
@@ -119,15 +137,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/klibsio-4200-projects-by-tags.png"
     },
     {
-      "id": "d6e641acd12b",
-      "title": "Make zero CVEs your new default",
-      "url": "https://www.docker.com/blog/make-zero-cves-your-new-default/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-17T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/Screenshot-2026-08-05-at-14-49-37-Hardened-Images-catalog-Docker-Hub.png"
-    },
-    {
       "id": "cfb1ad6d5c2e",
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -135,15 +144,6 @@
       "category": "ai",
       "publishedAt": "2026-08-17T08:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "40ab38cda73a",
-      "title": "How Cloudflare detects MCP traffic and helps secure it",
-      "url": "https://blog.cloudflare.com/mcp-security-updates/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-14T13:12:12.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M005HG1H0K802B4Y17SX9NQ5.png"
     },
     {
       "id": "944f4ae3e00e",
@@ -155,13 +155,107 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*tX_snpmagGLVYtXBflj_tQ.png"
     },
     {
-      "id": "76c77512e473",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
+      "id": "3ac4dc11aae0",
+      "title": "Get rid of your CAPTCHA, the future of the web is bots",
+      "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-21T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "77102f0dec19",
+      "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T21:45:00.000Z"
+    },
+    {
+      "id": "c0023256c83c",
+      "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "id": "522d12edf667",
+      "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
+      "url": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
+      "source": "Stack Overflow Blog",
       "category": "ai",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+      "publishedAt": "2026-08-20T19:05:40.000Z"
+    },
+    {
+      "id": "d3fd11c68393",
+      "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+      "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-20T18:43:39.000Z"
+    },
+    {
+      "id": "554f9ff43357",
+      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-20T18:31:00.000Z"
+    },
+    {
+      "id": "bf8403009ddc",
+      "title": "Docker Verified Publisher Applications Are Now Self-Serve",
+      "url": "https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-20T17:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "c7cdb6722fd8",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif"
+    },
+    {
+      "id": "2b0f7ccc34c5",
+      "title": "Timing Charts: A Blueprint For SMIL Animations",
+      "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "imageUrl": "https:null"
+    },
+    {
+      "id": "ac6d32671c37",
+      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "1355f41c4b16",
+      "title": "Spring Boot 4.0.8 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "85883d105d20",
+      "title": "Spring Boot 4.2.0-M1 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-2-0-M1-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "0b41d22ad3af",
@@ -173,28 +267,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "ddcf2f2890ce",
-      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-19T23:00:00.000Z"
-    },
-    {
-      "id": "cf7e33c395e0",
-      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-19T22:55:00.000Z"
-    },
-    {
-      "id": "7c41fe45a80c",
-      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-19T21:06:00.000Z"
+      "id": "8c219c568950",
+      "title": "Announcing Rust 1.98.0",
+      "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "bf6c17b1a987",
@@ -233,15 +312,6 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "70622476f875",
-      "title": "Governance on autopilot, minus the turbulence",
-      "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Changes for apps in the European Union",
       "url": "https://developer.apple.com/news/?id=gmws0jgp",
@@ -249,24 +319,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-18T15:00:38.000Z",
       "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
-    },
-    {
-      "id": "c8c707d0086c",
-      "title": "Building an agentic SDLC with a QA engineering mindset",
-      "url": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-18T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "2c67db35c42c",
-      "title": "This Week in Spring - August 18th, 2026",
-      "url": "https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-18T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "05b74b870b3e",
@@ -285,24 +337,6 @@
       "category": "frontend",
       "publishedAt": "2026-08-14T12:15:09.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/KT-social-BlogSocialShare-1280x720-1.png"
-    },
-    {
-      "id": "7ad8661d4748",
-      "title": "Solving integration woes with a hackathon",
-      "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-14T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "a2a9f36f72aa",
-      "title": "Node.js Interactive 2026: A Recap",
-      "url": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
     },
     {
       "id": "510ab8d6337b",
@@ -332,13 +366,13 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
     },
     {
-      "id": "674eec9789b1",
-      "title": "How Baseline Can Help You Ship Less JavaScript",
-      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-07T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png"
+      "id": "a2a9f36f72aa",
+      "title": "Node.js Interactive 2026: A Recap",
+      "url": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
     },
     {
       "id": "507dacfb085c",
@@ -393,42 +427,6 @@
       "category": "backend",
       "publishedAt": "2026-08-05T16:25:55.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
-    },
-    {
-      "id": "f42210d67fd3",
-      "title": "Node.js 26.6.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.6.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-03T13:51:29.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
-    },
-    {
-      "id": "6ca78f9d3768",
-      "title": "Intermittent error with symlinks in package registry zip file",
-      "url": "https://forums.swift.org/t/intermittent-error-with-symlinks-in-package-registry-zip-file/88406",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-07-20T18:25:31.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "379bca69c054",
-      "title": "Is `module.modulemap` required for C/Objc targets?",
-      "url": "https://forums.swift.org/t/is-module-modulemap-required-for-c-objc-targets/88332",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-07-16T12:57:47.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "c37465e5b3d2",
-      "title": "Announcing Rust 1.97.1",
-      "url": "https://blog.rust-lang.org/2026/07/16/Rust-1.97.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
