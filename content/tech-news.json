@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-08-21T10:21:32.055Z",
+  "generatedAt": "2026-08-22T10:15:04.920Z",
   "items": [
+    {
+      "id": "c93c4733340a",
+      "title": "Say it once: introducing Bot Preference Sync",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-21T23:19:57.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png"
+    },
+    {
+      "id": "4e07ab77c54e",
+      "title": "A Tale of Two Flink Autoscalers",
+      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-21T16:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "760c4a4c621e",
+      "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+    },
+    {
+      "id": "91bf8b7fe1f1",
+      "title": "Running AI agents in GitHub Actions with Docker Sandboxes",
+      "url": "https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-21T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image2-1.png"
+    },
+    {
+      "id": "e42b7af4138c",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-08-21T11:59:48.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "5facbaf97085",
+      "title": "Enabling the next-generation trait solver on nightly",
+      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/visualization.png"
+    },
     {
       "id": "d42863612632",
       "title": "The August 17 outage, and the work ahead",
@@ -11,15 +74,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
     },
     {
-      "id": "793200362392",
-      "title": "Expanding Google Antigravity for enterprise customers",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T17:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/antigravity_enterprise.max-600x600.jpg"
-    },
-    {
       "id": "719c194df3c6",
       "title": "From all-or-nothing to task-based OAuth consent",
       "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
@@ -27,15 +81,6 @@
       "category": "cloud",
       "publishedAt": "2026-08-20T17:03:03.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png"
-    },
-    {
-      "id": "3c945f690d9a",
-      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "url": "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Magic_Quadrant_for_CloudNative_Ap.max-1000x1000.png"
     },
     {
       "id": "314cb75fe2f0",
@@ -92,24 +137,6 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINP26eET06IJDsi5S_9cXMX2yO-Lu9a3nFZ-rlcFH7E0WvDClpuJRh_f-1oNdeiMhVvpS66ZpYnr_rUunL2SEORLxfwvByIh_GgZqBZofaN8bSrL77oxALw-IyNcIjVlVKVx8nkgGiUQOXhXFuy7xDmOlCnt4ABHc2Z4V3khjrolB1QXMcbAtnj4VFKk/s72-c/Android%20XR%20beta%20release%20Meta%20.png"
     },
     {
-      "id": "4d6a95e88ad5",
-      "title": "BGP Role model: tracking the adoption of RFC 9234",
-      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-18T15:21:32.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0AP04HK7ZM02ZWP3G59W4DP.png"
-    },
-    {
-      "id": "4202e649cd51",
-      "title": "Coding Agent Horror Stories: The Command You Already Approved",
-      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image1-1.png"
-    },
-    {
       "id": "3b2aba282400",
       "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
@@ -146,13 +173,55 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
-      "id": "944f4ae3e00e",
-      "title": "The Forms Evolution, Web AI, and Architectural Vision!",
-      "url": "https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "8c0ec6bd71d0",
+      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
+      "source": "AWS",
       "category": "ai",
-      "publishedAt": "2026-08-14T13:01:03.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*tX_snpmagGLVYtXBflj_tQ.png"
+      "publishedAt": "2026-08-21T20:11:00.000Z"
+    },
+    {
+      "id": "547784f96132",
+      "title": "Amazon Connect Customer now lets managers chat with their data",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-21T20:00:00.000Z"
+    },
+    {
+      "id": "1d91e49d5423",
+      "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-21T18:00:00.000Z"
+    },
+    {
+      "id": "7b915e4d0394",
+      "title": "How agents can delegate better",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01_-_AI__Machine_Learning_H1ZyZG8.max-2600x2600.jpg"
+    },
+    {
+      "id": "d399d3bc5641",
+      "title": "Resolved: CSS Class Prefix Selector",
+      "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-21T15:13:03.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
+    },
+    {
+      "id": "a09c2b128312",
+      "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
+      "url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format"
     },
     {
       "id": "3ac4dc11aae0",
@@ -164,44 +233,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "77102f0dec19",
-      "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T21:45:00.000Z"
-    },
-    {
-      "id": "c0023256c83c",
-      "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T20:00:00.000Z"
-    },
-    {
-      "id": "522d12edf667",
-      "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
-      "url": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
-      "source": "Stack Overflow Blog",
+      "id": "68e9fb1705e1",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-08-20T19:05:40.000Z"
-    },
-    {
-      "id": "d3fd11c68393",
-      "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
-      "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-20T18:43:39.000Z"
-    },
-    {
-      "id": "554f9ff43357",
-      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T18:31:00.000Z"
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png"
     },
     {
       "id": "bf8403009ddc",
@@ -211,15 +249,6 @@
       "category": "tools",
       "publishedAt": "2026-08-20T17:00:00.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "c7cdb6722fd8",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif"
     },
     {
       "id": "2b0f7ccc34c5",
@@ -243,15 +272,6 @@
       "id": "1355f41c4b16",
       "title": "Spring Boot 4.0.8 available now",
       "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "85883d105d20",
-      "title": "Spring Boot 4.2.0-M1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-2-0-M1-available-now",
       "source": "Spring Blog",
       "category": "backend",
       "publishedAt": "2026-08-20T00:00:00.000Z",
@@ -321,24 +341,6 @@
       "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
-      "id": "05b74b870b3e",
-      "title": "Dark mode toggles: two states are enough",
-      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-17T14:15:50.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-    },
-    {
-      "id": "f15515861e6d",
-      "title": "Exploring Compose HTML for Server Side Rendering",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
-      "source": "Kotlin Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-14T12:15:09.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/KT-social-BlogSocialShare-1280x720-1.png"
-    },
-    {
       "id": "510ab8d6337b",
       "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
       "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
@@ -357,13 +359,13 @@
       "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
     },
     {
-      "id": "22cea24b9563",
-      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-07T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
+      "id": "f15515861e6d",
+      "title": "Exploring Compose HTML for Server Side Rendering",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
+      "source": "Kotlin Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-14T12:15:09.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/KT-social-BlogSocialShare-1280x720-1.png"
     },
     {
       "id": "a2a9f36f72aa",
@@ -375,13 +377,13 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
     },
     {
-      "id": "507dacfb085c",
-      "title": "Enabling the next iteration of the borrow checker on nightly",
-      "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "imageUrl": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/polonius_top10k_leaf.png"
+      "id": "22cea24b9563",
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-07T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
     },
     {
       "id": "7e369abf00d9",
@@ -391,24 +393,6 @@
       "category": "backend",
       "publishedAt": "2026-08-03T16:00:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-    },
-    {
-      "id": "beede8354a28",
-      "title": "Modeling Device Capabilities for Analytics",
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-07-31T16:01:02.000Z",
-      "imageUrl": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8"
-    },
-    {
-      "id": "64ccd04dea0a",
-      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
-      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T15:20:46.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
       "id": "0c64f0a14cd0",
@@ -427,6 +411,24 @@
       "category": "backend",
       "publishedAt": "2026-08-05T16:25:55.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
+    },
+    {
+      "id": "f42210d67fd3",
+      "title": "Node.js 26.6.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.6.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-03T13:51:29.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
+    },
+    {
+      "id": "64ccd04dea0a",
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T15:20:46.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     }
   ]
 }
