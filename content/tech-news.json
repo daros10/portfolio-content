@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:15:59.654Z",
+  "generatedAt": "2026-08-24T10:29:57.222Z",
   "items": [
     {
       "id": "c93c4733340a",
@@ -164,15 +164,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/klibsio-4200-projects-by-tags.png"
     },
     {
-      "id": "cfb1ad6d5c2e",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-17T08:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
-    },
-    {
       "id": "8c0ec6bd71d0",
       "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
@@ -242,6 +233,15 @@
       "imageUrl": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png"
     },
     {
+      "id": "0ec6dcda622e",
+      "title": "Spring AI 2.0.1 Available Now",
+      "url": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
       "id": "bf8403009ddc",
       "title": "Docker Verified Publisher Applications Are Now Self-Serve",
       "url": "https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/",
@@ -260,18 +260,18 @@
       "imageUrl": "https:null"
     },
     {
-      "id": "ac6d32671c37",
-      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
+      "id": "dcf7194b7429",
+      "title": "Spring Boot 4.1.1 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now",
       "source": "Spring Blog",
       "category": "backend",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "1355f41c4b16",
-      "title": "Spring Boot 4.0.8 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
+      "id": "85883d105d20",
+      "title": "Spring Boot 4.2.0-M1 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-2-0-M1-available-now",
       "source": "Spring Blog",
       "category": "backend",
       "publishedAt": "2026-08-20T00:00:00.000Z",
