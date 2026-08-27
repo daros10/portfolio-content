@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-08-26T10:26:35.863Z",
+  "generatedAt": "2026-08-27T20:04:35.015Z",
   "items": [
+    {
+      "id": "01d416ecd1b8",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-27T17:02:35.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M117Y6R8CDGVT4K2XX6VQ2YX.png"
+    },
+    {
+      "id": "49d99f60355c",
+      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+      "url": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-08-27T17:00:00.000Z",
+      "imageUrl": "https://opensource.microsoft.com/blog/wp-content/uploads/2126/03/word-image-98353-1-1.png"
+    },
+    {
+      "id": "0dbf816dbc07",
+      "title": "How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys",
+      "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-27T17:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGAONWXboSifa5iIBDqZhlyepp3OtXMzKrhnluPZqHKLlQ-oUE7xmHG9l0eVz7z4a_Xlan3w7Wr-FwhTZFQ2mcPqgzOGv3G7Sny756QYTIwczo_D3OG_gSWcxvDJFXQDd4lPhUTqXwgiCCadfA6WAT_lUVgRr6GyozoYCnkPY6wSXNqfqJGC-HV6MNduY/s72-c/ANDDM_Passkeys_Metacard.png"
+    },
+    {
+      "id": "38e38808c623",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ccc70479a03a",
+      "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
+      "url": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/pythian-ai-framework-blog-header.max-600x600.png"
+    },
+    {
+      "id": "7466dc2143f6",
+      "title": "Deploy personal AI agents with Cloud Run instances",
+      "url": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud_run_instances_blog_hero.max-600x600.jpg"
+    },
+    {
+      "id": "26beb3c36c35",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
+    },
+    {
+      "id": "213e95424861",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-08-27T12:59:16.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "212203cd2d73",
+      "title": "Elevating app quality: Reducing memory usage and improving device migration",
+      "url": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRcluZ2sIWzgtqECLI7tz8XZkws6VtGWVJXK2uAb6zaq9GS0IIRTYaf4OPGdRe0sHEUwr9YvR1dtCxf6QC8UpOXNpMXg9gWmjmkj20q0O9-E_MxdWdDOCt8eWEPUiBW_hyphenhyphenyk7r9xzjq6d6wOBpzYZf5KDWf8wT015W9Pr9PAPG5ptSgi8Msdi20UcqiM/s72-c/Raising-the-bar---Google-Play-Header-2.png"
+    },
+    {
+      "id": "3efd2866c233",
+      "title": "The Economics of Agent Optimization: Four ways to lower the cost",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-08-26T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
+    },
+    {
+      "id": "d517494fbe8e",
+      "title": "Compose Multiplatform 1.12.0 Released",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-08-26T13:28:41.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
+    },
+    {
+      "id": "a1c445bae937",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
+    },
+    {
+      "id": "4076e2515894",
+      "title": "Kubernetes v1.37: Garhwal",
+      "url": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/k8s-v1.37.svg"
+    },
     {
       "id": "529ba06fddfd",
       "title": "How to evaluate LLMs before production",
@@ -29,31 +146,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
-      "id": "78478ee27d35",
-      "title": "Bringing gVisor sandboxes to distributed Ray clusters",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
-      "source": "Google Cloud Blog",
+      "id": "9944b720695d",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "source": "Azure",
       "category": "cloud",
       "publishedAt": "2026-08-25T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_SrQumpQ.max-1000x1000.png"
-    },
-    {
-      "id": "3b52dbb7e868",
-      "title": "Now introducing Gemini Enterprise for Legal",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini_Enterprise_for_legal.max-600x600.jpg"
-    },
-    {
-      "id": "84193e3cd548",
-      "title": "Now introducing Gemini Enterprise for Financial Services",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini_Enterprise_for_Finserve_ru2ruLE.max-600x600.jpg"
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/1121922_In-blog-3-1024x576.jpg"
     },
     {
       "id": "822a13633146",
@@ -72,15 +171,6 @@
       "category": "cloud",
       "publishedAt": "2026-08-24T19:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png"
-    },
-    {
-      "id": "a5731cec324b",
-      "title": "AAOS SDV - Secure by Design",
-      "url": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-24T16:00:31.669Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5wMRO7HwquRHIzH0qLwRDKkYVq-nIB4DwG5R2mLK3R3p1lo9nAVblduqSjSFc7rC3xo0bFBXB9iiTv662Bs4y7Ex_35labdsyXi9rM6FNWECqz19Nl7UrI5pO28Un6GBeInO2-yEJeNx0v3thcG5QWWTrCFQvvAIaYB60GEumMmHulA3mmYTtDL68isQ/s72-c/Android-1-Meta.jpg"
     },
     {
       "id": "c93c4733340a",
@@ -110,15 +200,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/08/image2-1.png"
     },
     {
-      "id": "e42b7af4138c",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-08-21T11:59:48.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-    },
-    {
       "id": "5facbaf97085",
       "title": "Enabling the next-generation trait solver on nightly",
       "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
@@ -128,57 +209,74 @@
       "imageUrl": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/visualization.png"
     },
     {
-      "id": "d42863612632",
-      "title": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "id": "7d7079a0abaf",
+      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "url": "https://developer.apple.com/news/?id=artln8br",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-08-27T19:00:43.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/app-store-og.png"
+    },
+    {
+      "id": "3c77fa4b785c",
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-27T18:40:00.000Z"
+    },
+    {
+      "id": "57d6620432e0",
+      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-08-27T18:00:00.000Z"
+    },
+    {
+      "id": "e3e4c58f6974",
+      "title": "A Bootiful Podcast: Joe Grandja on Spring Authorization Server, OAuth, and so much more",
+      "url": "https://spring.io/blog/2026/08/27/a-bootiful-podcast-joe-grandja",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "c52a0716629d",
+      "title": "Node.js 26.8.1 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.8.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-26T22:11:36.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.1%20(Current)"
+    },
+    {
+      "id": "0e3e5aa92e3d",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
       "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-08-20T18:36:11.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
+      "publishedAt": "2026-08-26T20:12:53.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.57.57-PM.png"
     },
     {
-      "id": "719c194df3c6",
-      "title": "From all-or-nothing to task-based OAuth consent",
-      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-20T17:03:03.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png"
+      "id": "1f44590f553d",
+      "title": "Node.js 26.8.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.8.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-26T14:29:48.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.0%20(Current)"
     },
     {
-      "id": "314cb75fe2f0",
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5c33c6656fa3",
-      "title": "Preparing your app for broader memory limits",
-      "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXjhFI2-zK8JEgBW_5dT7E4Wd_32EifVKThmEesvM8ei4pyt3TZUwR7FXW5VEHQGc6pPxXW8hYjsfHATAKi_wKFTFfXDevcK3wOWs9DIkJ5vhLKhVZnmCQw-IiM92tKPy1zPBZ0ZBei6qxvDbOsQX_j8NnFNEen6HWparIesRo-DPc5TP_318hU89fiU/s72-c/%5BABL_116%5D%20Preparing%20your%20app%20for%20expanded%20memory%20limits%20-%20meta.png"
-    },
-    {
-      "id": "0685501944d9",
-      "title": "Signatures, be true: domain errors and functional handling in Kotlin",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-19T15:52:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
-    },
-    {
-      "id": "d34e82eae2f2",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-08-26T00:00:00.000Z"
+      "id": "2b0405627918",
+      "title": "Node.js 24.20.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.20.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-26T14:29:42.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.20.0%20(LTS)"
     },
     {
       "id": "14ea812e8d3d",
@@ -190,6 +288,24 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
+      "id": "7bdb061d2c15",
+      "title": "Announcing our first Maintainers in Residence",
+      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "daf7f81fe442",
+      "title": "Generic Methods",
+      "url": "https://go.dev/blog/generic-methods",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
       "id": "ddff8b3fa46c",
       "title": "Moving from Minimus to Docker Hardened Images",
       "url": "https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/",
@@ -197,39 +313,6 @@
       "category": "tools",
       "publishedAt": "2026-08-25T22:27:06.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "1d1e7faa0442",
-      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-25T19:42:00.000Z"
-    },
-    {
-      "id": "59377bc5b562",
-      "title": "AWS Batch now supports Amazon ECS Managed Instances",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-25T19:36:00.000Z"
-    },
-    {
-      "id": "bfd0bbdabdfe",
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-25T18:00:00.000Z"
-    },
-    {
-      "id": "fa48b2fca004",
-      "title": "MicroLighter: Syntax Highlighter",
-      "url": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-25T14:10:34.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
     },
     {
       "id": "4a5fc2d7f084",
@@ -241,33 +324,6 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "5d779797877c",
-      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-24T20:56:32.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/header-1.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Update: New domain for Sign in with Apple",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-08-24T18:00:46.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/icloud-og.jpg"
-    },
-    {
-      "id": "3b2423fde3f1",
-      "title": "WordPress PHP-Only Block Registration",
-      "url": "https://css-tricks.com/wordpress-php-block-registration/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-24T13:54:02.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
-    },
-    {
       "id": "1ceddb14d288",
       "title": "MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS",
       "url": "https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/",
@@ -277,15 +333,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "d399d3bc5641",
-      "title": "Resolved: CSS Class Prefix Selector",
-      "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-21T15:13:03.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
-    },
-    {
       "id": "a09c2b128312",
       "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
       "url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
@@ -293,6 +340,15 @@
       "category": "tools",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "0685501944d9",
+      "title": "Signatures, be true: domain errors and functional handling in Kotlin",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-19T15:52:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
     },
     {
       "id": "2b0f7ccc34c5",
@@ -313,24 +369,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "8c219c568950",
-      "title": "Announcing Rust 1.98.0",
-      "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "58dc5d739e8c",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-08-17T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/MQ-Cloud-Native-App-Platform-Blog-Thumbnail-2-1024x1024.webp"
-    },
-    {
       "id": "79127fb50f93",
       "title": "Go 1.27 is released",
       "url": "https://go.dev/blog/go1.27",
@@ -338,24 +376,6 @@
       "category": "languages",
       "publishedAt": "2026-08-19T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "f15515861e6d",
-      "title": "Exploring Compose HTML for Server Side Rendering",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
-      "source": "Kotlin Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-14T12:15:09.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/KT-social-BlogSocialShare-1280x720-1.png"
-    },
-    {
-      "id": "a2a9f36f72aa",
-      "title": "Node.js Interactive 2026: A Recap",
-      "url": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/events/Node.js%20%E2%80%94%20Node.js%20Interactive%202026:%20A%20Recap"
     },
     {
       "id": "f8a47c9e9863",
@@ -376,24 +396,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
     },
     {
-      "id": "0c64f0a14cd0",
-      "title": "Astro 7.2",
-      "url": "https://astro.build/blog/astro-720/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
-    },
-    {
-      "id": "c82981f77bb6",
-      "title": "Node.js 26.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.7.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-05T16:25:55.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.7.0%20(Current)"
-    },
-    {
       "id": "7e369abf00d9",
       "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
       "url": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
@@ -412,22 +414,22 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
     },
     {
-      "id": "f42210d67fd3",
-      "title": "Node.js 26.6.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.6.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-03T13:51:29.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.6.0%20(Current)"
+      "id": "0c64f0a14cd0",
+      "title": "Astro 7.2",
+      "url": "https://astro.build/blog/astro-720/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
     },
     {
-      "id": "6ca78f9d3768",
-      "title": "Intermittent error with symlinks in package registry zip file",
-      "url": "https://forums.swift.org/t/intermittent-error-with-symlinks-in-package-registry-zip-file/88406",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-07-20T18:25:31.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+      "id": "a37af9a1509b",
+      "title": "What's new in Astro - July 2026",
+      "url": "https://astro.build/blog/whats-new-july-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
     }
   ]
 }
