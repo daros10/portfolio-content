@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-27T20:04:35.015Z",
+  "generatedAt": "2026-08-28T21:02:03.307Z",
   "items": [
+    {
+      "id": "39fc3b3a1624",
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-28T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "d9b5afeac7b4",
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "url": "https://blog.cloudflare.com/botbase-for-operators/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-28T12:59:44.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GDDRDD6CY3JE6JJQGJM761.png"
+    },
+    {
+      "id": "86d86e4ee937",
+      "title": "Styling Mastery and Declarative Form Submissions",
+      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-28T11:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
+    },
     {
       "id": "01d416ecd1b8",
       "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
@@ -173,40 +209,21 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png"
     },
     {
-      "id": "c93c4733340a",
-      "title": "Say it once: introducing Bot Preference Sync",
-      "url": "https://blog.cloudflare.com/bot-preference-sync/",
-      "source": "Cloudflare Blog",
+      "id": "06d137a5c1bb",
+      "title": "AWS Transform now in scope for FedRAMP Class C",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-21T23:19:57.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png"
+      "publishedAt": "2026-08-28T19:45:00.000Z"
     },
     {
-      "id": "4e07ab77c54e",
-      "title": "A Tale of Two Flink Autoscalers",
-      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-21T16:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
-    },
-    {
-      "id": "91bf8b7fe1f1",
-      "title": "Running AI agents in GitHub Actions with Docker Sandboxes",
-      "url": "https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/",
-      "source": "Docker Blog",
+      "id": "a90acbc20ac0",
+      "title": "When you keep AI Lean, you keep AI correct",
+      "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/",
+      "source": "Stack Overflow Blog",
       "category": "ai",
-      "publishedAt": "2026-08-21T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/image2-1.png"
-    },
-    {
-      "id": "5facbaf97085",
-      "title": "Enabling the next-generation trait solver on nightly",
-      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "imageUrl": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/visualization.png"
+      "publishedAt": "2026-08-28T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
       "id": "7d7079a0abaf",
@@ -218,20 +235,13 @@
       "imageUrl": "https://developer.apple.com/news/images/og/app-store-og.png"
     },
     {
-      "id": "3c77fa4b785c",
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-27T18:40:00.000Z"
-    },
-    {
-      "id": "57d6620432e0",
-      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-08-27T18:00:00.000Z"
+      "id": "7951a9942528",
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+      "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-27T14:41:06.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
     },
     {
       "id": "e3e4c58f6974",
@@ -259,6 +269,15 @@
       "category": "tools",
       "publishedAt": "2026-08-26T20:12:53.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.57.57-PM.png"
+    },
+    {
+      "id": "a71298b2ba46",
+      "title": "animation-trigger",
+      "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-26T15:38:41.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
     },
     {
       "id": "1f44590f553d",
@@ -315,6 +334,15 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
+      "id": "fa48b2fca004",
+      "title": "MicroLighter: Syntax Highlighter",
+      "url": "https://css-tricks.com/microlighter-syntax-highlighter/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-25T14:10:34.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+    },
+    {
       "id": "4a5fc2d7f084",
       "title": "This Week in Spring - August 25th, 2026",
       "url": "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25",
@@ -333,13 +361,22 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "a09c2b128312",
-      "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
-      "url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
-      "source": "Stack Overflow Blog",
+      "id": "4e07ab77c54e",
+      "title": "A Tale of Two Flink Autoscalers",
+      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
       "category": "tools",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format"
+      "publishedAt": "2026-08-21T16:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
+    },
+    {
+      "id": "5facbaf97085",
+      "title": "Enabling the next-generation trait solver on nightly",
+      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/visualization.png"
     },
     {
       "id": "0685501944d9",
@@ -394,42 +431,6 @@
       "category": "tools",
       "publishedAt": "2026-08-07T16:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
-    },
-    {
-      "id": "7e369abf00d9",
-      "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-      "url": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
-      "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-03T16:00:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-    },
-    {
-      "id": "64ccd04dea0a",
-      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
-      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T15:20:46.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*8fbpAYn1eG2HWHLWNqxoog.png"
-    },
-    {
-      "id": "0c64f0a14cd0",
-      "title": "Astro 7.2",
-      "url": "https://astro.build/blog/astro-720/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.2.ZQ6I3uNM.jpg"
-    },
-    {
-      "id": "a37af9a1509b",
-      "title": "What's new in Astro - July 2026",
-      "url": "https://astro.build/blog/whats-new-july-2026/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.DmNdQltc.webp"
     }
   ]
 }
