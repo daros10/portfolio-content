@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-30T14:35:47.591Z",
+  "generatedAt": "2026-08-31T17:19:38.081Z",
   "items": [
+    {
+      "id": "f04d9e427eb4",
+      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+    },
+    {
+      "id": "dd368fbd7a29",
+      "title": "From weeks to minutes: The new agentic era of data pipelines",
+      "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XMQ1O65.max-1000x1000.jpg"
+    },
+    {
+      "id": "ba722fd91068",
+      "title": "What’s new in AI infrastructure and orchestration in August",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Whats_new_in_AI_infrastructure.max-600x600.jpg"
+    },
+    {
+      "id": "8271be3b44aa",
+      "title": "Emulator control for adaptive app development",
+      "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
+    },
+    {
+      "id": "dc52628c784f",
+      "title": "Introducing Adaptive Intelligence: undermining the economics of every bot attack",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-31T12:59:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M15GS9CV1VMMQCAPHYE4AFD2.01M15GSA31CJVHRJCPHH7FBX77.png"
+    },
+    {
+      "id": "4ed1ecaf070d",
+      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T11:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
+    },
     {
       "id": "642a09ef8b4a",
       "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
@@ -18,15 +72,6 @@
       "category": "tools",
       "publishedAt": "2026-08-28T16:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
-    },
-    {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-28T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "id": "d9b5afeac7b4",
@@ -81,24 +126,6 @@
       "category": "ai",
       "publishedAt": "2026-08-27T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ccc70479a03a",
-      "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
-      "url": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/pythian-ai-framework-blog-header.max-600x600.png"
-    },
-    {
-      "id": "7466dc2143f6",
-      "title": "Deploy personal AI agents with Cloud Run instances",
-      "url": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud_run_instances_blog_hero.max-600x600.jpg"
     },
     {
       "id": "26beb3c36c35",
@@ -173,15 +200,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
     },
     {
-      "id": "84dff33310da",
-      "title": "Ensuring Safety in the Generative AI Ecosystem: Protecting Users from Non-Consensual Intimate Content",
-      "url": "https://android-developers.googleblog.com/2026/08/ensuring-safety-genai-preventing-non-consensual-intimate-content.html",
-      "source": "Android Developers",
-      "category": "ai",
-      "publishedAt": "2026-08-25T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioB4K78NUxVQK1foY4gDCZi1RnMBISSZJ7hOzM_zaAYieAOZDhJCWGUw2moIF4ggyH8sc8KgpI-m9Jvk11tuP_BONUHkvQKoFIsviCz56uPhJDa9kmCwevKb0EXQrsTiFp4-X94STHPmk1vYxsOh1ksdKDzMBjR2OmvK-6to0zrlzL2_05T6Y3DK-2zXU/s72-c/Ensuring-a-safe-GenAI-ecosystem-on-Google-Play-Metadata.png"
-    },
-    {
       "id": "3668e64c1eca",
       "title": "5 ways to upgrade your home decor with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -209,13 +227,48 @@
       "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
     },
     {
-      "id": "2e3baeb9cf41",
-      "title": "The Cloudflare Blog – Brought to you by EmDash",
-      "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-24T19:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png"
+      "id": "e68c3effa7a2",
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T15:12:19.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
+    },
+    {
+      "id": "3551db72705f",
+      "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+      "url": "https://css-tricks.com/whats-important-18/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T14:08:55.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
+    },
+    {
+      "id": "24e3f04f1bb9",
+      "title": "Secure by default is your only way forward",
+      "url": "https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-31T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "44f61163770f",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "id": "a8aa5c3626c7",
+      "title": "What's new in Astro - August 2026",
+      "url": "https://astro.build/blog/whats-new-august-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.D4OlwN_N.webp"
     },
     {
       "id": "a90acbc20ac0",
@@ -272,15 +325,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.57.57-PM.png"
     },
     {
-      "id": "a71298b2ba46",
-      "title": "animation-trigger",
-      "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-26T15:38:41.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-    },
-    {
       "id": "1f44590f553d",
       "title": "Node.js 26.8.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.8.0",
@@ -335,15 +379,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "fa48b2fca004",
-      "title": "MicroLighter: Syntax Highlighter",
-      "url": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-25T14:10:34.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
-    },
-    {
       "id": "4a5fc2d7f084",
       "title": "This Week in Spring - August 25th, 2026",
       "url": "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25",
@@ -351,15 +386,6 @@
       "category": "backend",
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "1ceddb14d288",
-      "title": "MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS",
-      "url": "https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "4e07ab77c54e",
@@ -389,13 +415,13 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
     },
     {
-      "id": "2b0f7ccc34c5",
-      "title": "Timing Charts: A Blueprint For SMIL Animations",
-      "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-20T13:00:00.000Z",
-      "imageUrl": "https:null"
+      "id": "1ceddb14d288",
+      "title": "MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS",
+      "url": "https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "0b41d22ad3af",
@@ -405,33 +431,6 @@
       "category": "languages",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "79127fb50f93",
-      "title": "Go 1.27 is released",
-      "url": "https://go.dev/blog/go1.27",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "f8a47c9e9863",
-      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
-      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
-    },
-    {
-      "id": "22cea24b9563",
-      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-07T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png"
     }
   ]
 }
