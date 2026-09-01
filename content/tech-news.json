@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-31T17:19:38.081Z",
+  "generatedAt": "2026-09-01T14:25:22.216Z",
   "items": [
+    {
+      "id": "001302cbb262",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-01T12:59:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png"
+    },
+    {
+      "id": "88cab69ca8a9",
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-08-31T23:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Virtual_Graph.max-1000x1000.png"
+    },
     {
       "id": "f04d9e427eb4",
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
@@ -11,22 +29,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
     },
     {
-      "id": "dd368fbd7a29",
-      "title": "From weeks to minutes: The new agentic era of data pipelines",
-      "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XMQ1O65.max-1000x1000.jpg"
-    },
-    {
-      "id": "ba722fd91068",
-      "title": "What’s new in AI infrastructure and orchestration in August",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "source": "Google Cloud Blog",
+      "id": "145c40379c93",
+      "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
+      "url": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
+      "source": "Azure",
       "category": "ai",
       "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Whats_new_in_AI_infrastructure.max-600x600.jpg"
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO20b_Evan_office_001-scaled.jpg"
     },
     {
       "id": "8271be3b44aa",
@@ -39,7 +48,7 @@
     },
     {
       "id": "dc52628c784f",
-      "title": "Introducing Adaptive Intelligence: undermining the economics of every bot attack",
+      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
       "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
       "source": "Cloudflare Blog",
       "category": "cloud",
@@ -90,15 +99,6 @@
       "category": "frontend",
       "publishedAt": "2026-08-28T11:01:01.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
-    },
-    {
-      "id": "01d416ecd1b8",
-      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-27T17:02:35.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M117Y6R8CDGVT4K2XX6VQ2YX.png"
     },
     {
       "id": "49d99f60355c",
@@ -155,15 +155,6 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRcluZ2sIWzgtqECLI7tz8XZkws6VtGWVJXK2uAb6zaq9GS0IIRTYaf4OPGdRe0sHEUwr9YvR1dtCxf6QC8UpOXNpMXg9gWmjmkj20q0O9-E_MxdWdDOCt8eWEPUiBW_hyphenhyphenyk7r9xzjq6d6wOBpzYZf5KDWf8wT015W9Pr9PAPG5ptSgi8Msdi20UcqiM/s72-c/Raising-the-bar---Google-Play-Header-2.png"
     },
     {
-      "id": "3efd2866c233",
-      "title": "The Economics of Agent Optimization: Four ways to lower the cost",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-08-26T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
-    },
-    {
       "id": "d517494fbe8e",
       "title": "Compose Multiplatform 1.12.0 Released",
       "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
@@ -180,15 +171,6 @@
       "category": "frontend",
       "publishedAt": "2026-08-26T13:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
-    },
-    {
-      "id": "4076e2515894",
-      "title": "Kubernetes v1.37: Garhwal",
-      "url": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/k8s-v1.37.svg"
     },
     {
       "id": "529ba06fddfd",
@@ -209,22 +191,47 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
-      "id": "9944b720695d",
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-      "source": "Azure",
+      "id": "dfb15bb29af9",
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/1121922_In-blog-3-1024x576.jpg"
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
     },
     {
-      "id": "822a13633146",
-      "title": "Why Your Website Should Never Stop Changing",
-      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
+      "id": "479cb55ee195",
+      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "id": "eb312133dbe3",
+      "title": "The good ol’ days of building Java",
+      "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/",
+      "source": "Stack Overflow Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-01T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "e22eb5104d2c",
+      "title": "Announcing rustup 1.29.1",
+      "url": "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "67d4a744bdfd",
+      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-08-31T22:00:00.000Z"
     },
     {
       "id": "e68c3effa7a2",
@@ -254,12 +261,20 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "44f61163770f",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "id": "0703988e3a33",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-08-31T04:00:00.000Z"
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "id": "7bc341571432",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
     },
     {
       "id": "a8aa5c3626c7",
@@ -271,13 +286,13 @@
       "imageUrl": "https://astro.build/_astro/og.D4OlwN_N.webp"
     },
     {
-      "id": "a90acbc20ac0",
-      "title": "When you keep AI Lean, you keep AI correct",
-      "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/",
-      "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-28T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+      "id": "d5b8d4061f7a",
+      "title": "Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez",
+      "url": "https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -379,13 +394,13 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "4a5fc2d7f084",
-      "title": "This Week in Spring - August 25th, 2026",
-      "url": "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "822a13633146",
+      "title": "Why Your Website Should Never Stop Changing",
+      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-25T08:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
     },
     {
       "id": "4e07ab77c54e",
@@ -413,24 +428,6 @@
       "category": "languages",
       "publishedAt": "2026-08-19T15:52:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
-    },
-    {
-      "id": "1ceddb14d288",
-      "title": "MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS",
-      "url": "https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "0b41d22ad3af",
-      "title": "Supply chain attack on arrayref",
-      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
