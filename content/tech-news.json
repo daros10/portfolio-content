@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-01T14:25:22.216Z",
+  "generatedAt": "2026-09-02T13:59:05.078Z",
   "items": [
+    {
+      "id": "5bd34f894292",
+      "title": "Building Reproducible AI Evaluation Workflows with Docker Sandboxes",
+      "url": "https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-02T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/09/image1.png"
+    },
+    {
+      "id": "10c754d00e33",
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
+      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-02T01:50:59.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
+    },
+    {
+      "id": "4df22e291125",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ab183206da80",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "36932bac88d8",
+      "title": "What Google Cloud announced in AI this month",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
+    },
+    {
+      "id": "260c3e0d19d2",
+      "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
+      "url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_HT1HJeh.max-1000x1000.png"
+    },
+    {
+      "id": "c960ebaa5ed8",
+      "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
+      "url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_vsRpJjZ.max-1000x1000.png"
+    },
+    {
+      "id": "fd69389ccf93",
+      "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
+      "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-01T15:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png"
+    },
     {
       "id": "001302cbb262",
       "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
@@ -9,24 +81,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-01T12:59:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png"
-    },
-    {
-      "id": "88cab69ca8a9",
-      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-31T23:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Virtual_Graph.max-1000x1000.png"
-    },
-    {
-      "id": "f04d9e427eb4",
-      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
     },
     {
       "id": "145c40379c93",
@@ -146,66 +200,39 @@
       "imageUrl": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "212203cd2d73",
-      "title": "Elevating app quality: Reducing memory usage and improving device migration",
-      "url": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-26T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRcluZ2sIWzgtqECLI7tz8XZkws6VtGWVJXK2uAb6zaq9GS0IIRTYaf4OPGdRe0sHEUwr9YvR1dtCxf6QC8UpOXNpMXg9gWmjmkj20q0O9-E_MxdWdDOCt8eWEPUiBW_hyphenhyphenyk7r9xzjq6d6wOBpzYZf5KDWf8wT015W9Pr9PAPG5ptSgi8Msdi20UcqiM/s72-c/Raising-the-bar---Google-Play-Header-2.png"
-    },
-    {
-      "id": "d517494fbe8e",
-      "title": "Compose Multiplatform 1.12.0 Released",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-08-26T13:28:41.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
-    },
-    {
-      "id": "a1c445bae937",
-      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
-    },
-    {
-      "id": "529ba06fddfd",
-      "title": "How to evaluate LLMs before production",
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-25T21:35:11.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
-    },
-    {
-      "id": "3668e64c1eca",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
+      "id": "22915ca8a273",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+      "publishedAt": "2026-09-02T13:49:14.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/1oB5vm47VNu42diDOsp0p.png"
     },
     {
-      "id": "dfb15bb29af9",
-      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-01T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
+      "id": "da8c825c4479",
+      "title": "Starlight 0.42",
+      "url": "https://astro.build/blog/starlight-042/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp"
     },
     {
-      "id": "479cb55ee195",
-      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "id": "0d3ac3902a2d",
+      "title": "Amazon Quick now lets you build custom apps with natural language  -",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-01T08:00:00.000Z"
+      "publishedAt": "2026-09-01T21:37:00.000Z"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Upcoming changes to Rosetta support for Intel-based macOS apps",
+      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-09-01T15:00:41.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/ios-27-round-og.png"
     },
     {
       "id": "eb312133dbe3",
@@ -217,6 +244,15 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
+      "id": "8971a65e9c18",
+      "title": "This Week in Spring - September 1st, 2026",
+      "url": "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
       "id": "e22eb5104d2c",
       "title": "Announcing rustup 1.29.1",
       "url": "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
@@ -224,14 +260,6 @@
       "category": "languages",
       "publishedAt": "2026-09-01T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "67d4a744bdfd",
-      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
-      "source": "AWS",
-      "category": "ai",
-      "publishedAt": "2026-08-31T22:00:00.000Z"
     },
     {
       "id": "e68c3effa7a2",
@@ -261,22 +289,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "0703988e3a33",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "id": "7bc341571432",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-08-31T07:00:00.000Z"
-    },
-    {
       "id": "a8aa5c3626c7",
       "title": "What's new in Astro - August 2026",
       "url": "https://astro.build/blog/whats-new-august-2026/",
@@ -293,15 +305,6 @@
       "category": "backend",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-      "url": "https://developer.apple.com/news/?id=artln8br",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-08-27T19:00:43.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/app-store-og.png"
     },
     {
       "id": "7951a9942528",
@@ -358,49 +361,22 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.20.0%20(LTS)"
     },
     {
-      "id": "14ea812e8d3d",
-      "title": "Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released",
-      "url": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "d517494fbe8e",
+      "title": "Compose Multiplatform 1.12.0 Released",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-08-26T13:28:41.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
     },
     {
-      "id": "7bdb061d2c15",
-      "title": "Announcing our first Maintainers in Residence",
-      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "daf7f81fe442",
-      "title": "Generic Methods",
-      "url": "https://go.dev/blog/generic-methods",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "ddff8b3fa46c",
-      "title": "Moving from Minimus to Docker Hardened Images",
-      "url": "https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/",
-      "source": "Docker Blog",
+      "id": "529ba06fddfd",
+      "title": "How to evaluate LLMs before production",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-08-25T22:27:06.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "822a13633146",
-      "title": "Why Your Website Should Never Stop Changing",
-      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
+      "publishedAt": "2026-08-25T21:35:11.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
     },
     {
       "id": "4e07ab77c54e",
@@ -428,6 +404,33 @@
       "category": "languages",
       "publishedAt": "2026-08-19T15:52:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
+    },
+    {
+      "id": "7bdb061d2c15",
+      "title": "Announcing our first Maintainers in Residence",
+      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "daf7f81fe442",
+      "title": "Generic Methods",
+      "url": "https://go.dev/blog/generic-methods",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "79127fb50f93",
+      "title": "Go 1.27 is released",
+      "url": "https://go.dev/blog/go1.27",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
