@@ -1,13 +1,41 @@
 {
-  "generatedAt": "2026-09-03T14:01:22.073Z",
+  "generatedAt": "2026-09-04T13:54:14.610Z",
   "items": [
     {
-      "id": "98fbebaf7789",
-      "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
-      "url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
+      "id": "f402a7756aee",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-03T21:03:02.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
+    },
+    {
+      "id": "c7e0d22964c1",
+      "title": "YOLO Mode: Agent Autonomy Without the Guardrails",
+      "url": "https://www.docker.com/blog/what-is-yolo-mode/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-03T18:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/08/docker_What-is-YOLO-mode-2320x1218.jpg"
+    },
+    {
+      "id": "3090d38083de",
+      "title": "What’s new with Google Data Cloud",
+      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/whats_new_data_cloud_fWg4bKK.png"
+    },
+    {
+      "id": "d75554c78e0f",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "b19657bef932",
@@ -19,6 +47,24 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
     },
     {
+      "id": "106c3eebeac9",
+      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google-genai-sdk-kotlin.max-600x600.png"
+    },
+    {
+      "id": "43e6b5e67353",
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+      "url": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-03T07:30:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/scps-26.max-1000x1000.jpg"
+    },
+    {
       "id": "ef02e4b156ea",
       "title": "How we make AI coding more cost efficient without sacrificing task quality",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
@@ -26,15 +72,6 @@
       "category": "ai",
       "publishedAt": "2026-09-02T18:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329"
-    },
-    {
-      "id": "ac0a3c49f952",
-      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
-      "url": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Mantis.max-600x600.jpg"
     },
     {
       "id": "506a5597f5f4",
@@ -91,24 +128,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "ab183206da80",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "36932bac88d8",
-      "title": "What Google Cloud announced in AI this month",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google_ai_this_month.max-600x600.jpg"
-    },
-    {
       "id": "fd69389ccf93",
       "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
       "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
@@ -125,15 +144,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-01T12:59:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png"
-    },
-    {
-      "id": "145c40379c93",
-      "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
-      "url": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO20b_Evan_office_001-scaled.jpg"
     },
     {
       "id": "8271be3b44aa",
@@ -172,40 +182,54 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     },
     {
-      "id": "d9b5afeac7b4",
-      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-      "url": "https://blog.cloudflare.com/botbase-for-operators/",
-      "source": "Cloudflare Blog",
+      "id": "11d02b8dfc4f",
+      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-08-28T12:59:44.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GDDRDD6CY3JE6JJQGJM761.png"
+      "publishedAt": "2026-09-03T22:01:00.000Z"
     },
     {
-      "id": "86d86e4ee937",
-      "title": "Styling Mastery and Declarative Form Submissions",
-      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-28T11:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
+      "id": "978facad2fbe",
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-03T19:14:00.000Z"
     },
     {
-      "id": "0dbf816dbc07",
-      "title": "How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys",
-      "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-27T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGAONWXboSifa5iIBDqZhlyepp3OtXMzKrhnluPZqHKLlQ-oUE7xmHG9l0eVz7z4a_Xlan3w7Wr-FwhTZFQ2mcPqgzOGv3G7Sny756QYTIwczo_D3OG_gSWcxvDJFXQDd4lPhUTqXwgiCCadfA6WAT_lUVgRr6GyozoYCnkPY6wSXNqfqJGC-HV6MNduY/s72-c/ANDDM_Passkeys_Metacard.png"
+      "id": "de5610ef3ee0",
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-03T19:03:00.000Z"
     },
     {
-      "id": "26beb3c36c35",
-      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "id": "bedb7b253059",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
       "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.28.34-PM.png?fit=1242%2C698"
+    },
+    {
+      "id": "98fbebaf7789",
+      "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
+      "url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "feaed97fbdf7",
+      "title": "Astro 7.3",
+      "url": "https://astro.build/blog/astro-730/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
     },
     {
       "id": "0380424e831a",
@@ -226,39 +250,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "899534b01a87",
-      "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
-      "url": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-02T18:30:00.000Z"
-    },
-    {
-      "id": "5cabdce86884",
-      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-02T17:52:00.000Z"
-    },
-    {
-      "id": "60ebc2a254f3",
-      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-02T17:00:00.000Z"
-    },
-    {
-      "id": "0187739b932f",
-      "title": "Simplify pipelines with new BigQuery identity columns",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
-    },
-    {
       "id": "da8c825c4479",
       "title": "Starlight 0.42",
       "url": "https://astro.build/blog/starlight-042/",
@@ -275,15 +266,6 @@
       "category": "languages",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "eb312133dbe3",
-      "title": "The good ol’ days of building Java",
-      "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/",
-      "source": "Stack Overflow Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-01T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
       "id": "8971a65e9c18",
@@ -322,15 +304,6 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
     },
     {
-      "id": "24e3f04f1bb9",
-      "title": "Secure by default is your only way forward",
-      "url": "https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-08-31T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
       "id": "a8aa5c3626c7",
       "title": "What's new in Astro - August 2026",
       "url": "https://astro.build/blog/whats-new-august-2026/",
@@ -349,13 +322,22 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "7951a9942528",
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "source": "CSS-Tricks",
+      "id": "86d86e4ee937",
+      "title": "Styling Mastery and Declarative Form Submissions",
+      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-08-27T14:41:06.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
+      "publishedAt": "2026-08-28T11:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
+    },
+    {
+      "id": "0dbf816dbc07",
+      "title": "How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys",
+      "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-27T17:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGAONWXboSifa5iIBDqZhlyepp3OtXMzKrhnluPZqHKLlQ-oUE7xmHG9l0eVz7z4a_Xlan3w7Wr-FwhTZFQ2mcPqgzOGv3G7Sny756QYTIwczo_D3OG_gSWcxvDJFXQDd4lPhUTqXwgiCCadfA6WAT_lUVgRr6GyozoYCnkPY6wSXNqfqJGC-HV6MNduY/s72-c/ANDDM_Passkeys_Metacard.png"
     },
     {
       "id": "d517494fbe8e",
@@ -428,6 +410,24 @@
       "category": "languages",
       "publishedAt": "2026-08-19T15:52:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
+    },
+    {
+      "id": "79127fb50f93",
+      "title": "Go 1.27 is released",
+      "url": "https://go.dev/blog/go1.27",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "f8a47c9e9863",
+      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
+      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
     }
   ]
 }
