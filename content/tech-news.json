@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-04T13:54:14.610Z",
+  "generatedAt": "2026-09-05T13:08:49.499Z",
   "items": [
+    {
+      "id": "d4ae66cc1a19",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-04T16:04:14.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
+    },
+    {
+      "id": "cb64ec7a3775",
+      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Dual_Write_Architecture.max-1000x1000.png"
+    },
+    {
+      "id": "459b098e5776",
+      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-04T15:36:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/hero_2_fvBime0.max-600x600.jpg"
+    },
     {
       "id": "f402a7756aee",
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
@@ -11,6 +38,24 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
     },
     {
+      "id": "a9811cb0c65b",
+      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
+      "url": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-03T19:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
+    },
+    {
+      "id": "ef1ee405c351",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-03T18:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure-DevTools-Dark-1-scaled.jpg"
+    },
+    {
       "id": "c7e0d22964c1",
       "title": "YOLO Mode: Agent Autonomy Without the Guardrails",
       "url": "https://www.docker.com/blog/what-is-yolo-mode/",
@@ -18,15 +63,6 @@
       "category": "ai",
       "publishedAt": "2026-09-03T18:00:00.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/08/docker_What-is-YOLO-mode-2320x1218.jpg"
-    },
-    {
-      "id": "3090d38083de",
-      "title": "What’s new with Google Data Cloud",
-      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/whats_new_data_cloud_fWg4bKK.png"
     },
     {
       "id": "d75554c78e0f",
@@ -45,42 +81,6 @@
       "category": "languages",
       "publishedAt": "2026-09-03T10:40:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
-    },
-    {
-      "id": "106c3eebeac9",
-      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-03T09:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/google-genai-sdk-kotlin.max-600x600.png"
-    },
-    {
-      "id": "43e6b5e67353",
-      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
-      "url": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-03T07:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/scps-26.max-1000x1000.jpg"
-    },
-    {
-      "id": "ef02e4b156ea",
-      "title": "How we make AI coding more cost efficient without sacrificing task quality",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-02T18:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329"
-    },
-    {
-      "id": "506a5597f5f4",
-      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-2.webp"
     },
     {
       "id": "7f0cad5ff04b",
@@ -117,15 +117,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-02T01:50:59.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
-    },
-    {
-      "id": "4df22e291125",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-01T20:45:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
     },
     {
       "id": "fd69389ccf93",
@@ -173,37 +164,36 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
     },
     {
-      "id": "39fc3b3a1624",
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-28T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
-    },
-    {
-      "id": "11d02b8dfc4f",
-      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+      "id": "8d3a4c3f000a",
+      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-03T22:01:00.000Z"
+      "publishedAt": "2026-09-04T21:29:00.000Z"
     },
     {
-      "id": "978facad2fbe",
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "id": "d8888bb0a7c4",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-03T19:14:00.000Z"
+      "publishedAt": "2026-09-04T21:14:00.000Z"
     },
     {
-      "id": "de5610ef3ee0",
-      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "id": "84796658cd90",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-03T19:03:00.000Z"
+      "publishedAt": "2026-09-04T21:01:00.000Z"
+    },
+    {
+      "id": "e084eda0d323",
+      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+      "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-04T18:30:00.000Z"
     },
     {
       "id": "bedb7b253059",
@@ -322,6 +312,15 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
+      "id": "39fc3b3a1624",
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-28T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
+    },
+    {
       "id": "86d86e4ee937",
       "title": "Styling Mastery and Declarative Form Submissions",
       "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
@@ -347,15 +346,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-26T13:28:41.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
-    },
-    {
-      "id": "4e07ab77c54e",
-      "title": "A Tale of Two Flink Autoscalers",
-      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-21T16:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
     },
     {
       "id": "c52a0716629d",
@@ -401,6 +391,15 @@
       "category": "languages",
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "4e07ab77c54e",
+      "title": "A Tale of Two Flink Autoscalers",
+      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-21T16:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
     },
     {
       "id": "0685501944d9",
