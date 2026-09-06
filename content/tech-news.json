@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:08:49.499Z",
+  "generatedAt": "2026-09-06T13:19:04.613Z",
   "items": [
     {
       "id": "d4ae66cc1a19",
@@ -47,9 +47,9 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
     },
     {
-      "id": "ef1ee405c351",
+      "id": "b2393539d316",
       "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
       "source": "Azure",
       "category": "ai",
       "publishedAt": "2026-09-03T18:15:00.000Z",
@@ -162,6 +162,15 @@
       "category": "frontend",
       "publishedAt": "2026-08-31T11:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
+    },
+    {
+      "id": "0402e0fd0805",
+      "title": "Allowing plugins to generate mixed-language sources",
+      "url": "https://forums.swift.org/t/allowing-plugins-to-generate-mixed-language-sources/89396",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-06T10:49:43.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
       "id": "8d3a4c3f000a",
@@ -418,15 +427,6 @@
       "category": "languages",
       "publishedAt": "2026-08-19T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "f8a47c9e9863",
-      "title": "React Native 0.87 - Strict TypeScript API, Metro Update, Swift Package Manager, AGP 9 Support",
-      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "imageUrl": "https://reactnative.dev/blog/assets/0.87-symbol-docs-before.png"
     }
   ]
 }
