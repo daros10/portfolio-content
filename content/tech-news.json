@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:19:04.613Z",
+  "generatedAt": "2026-09-07T15:24:50.781Z",
   "items": [
     {
       "id": "d4ae66cc1a19",
@@ -47,9 +47,9 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
     },
     {
-      "id": "b2393539d316",
+      "id": "ef1ee405c351",
       "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
       "source": "Azure",
       "category": "ai",
       "publishedAt": "2026-09-03T18:15:00.000Z",
@@ -146,22 +146,31 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
     },
     {
-      "id": "dc52628c784f",
-      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
-      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-08-31T12:59:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M15GS9CV1VMMQCAPHYE4AFD2.01M15GSA31CJVHRJCPHH7FBX77.png"
+      "id": "743968c605bc",
+      "title": "Running executables directly from URL",
+      "url": "https://forums.swift.org/t/running-executables-directly-from-url/89404",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-07T12:55:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "4ed1ecaf070d",
-      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
+      "id": "666b2f86e8b6",
+      "title": "Kotlin 2.4.20 Released",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-07T11:30:57.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-releases-BlogSocialShare-1280x720-1.png"
+    },
+    {
+      "id": "397c8a4ac571",
+      "title": "Rust debugging survey 2026 results",
+      "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "0402e0fd0805",
@@ -203,6 +212,15 @@
       "source": "Kubernetes Blog",
       "category": "cloud",
       "publishedAt": "2026-09-04T18:30:00.000Z"
+    },
+    {
+      "id": "0e7df2003b07",
+      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+      "url": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
     },
     {
       "id": "bedb7b253059",
@@ -285,40 +303,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "e68c3effa7a2",
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "source": "CSS-Tricks",
+      "id": "4ed1ecaf070d",
+      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+      "source": "Smashing Magazine",
       "category": "frontend",
-      "publishedAt": "2026-08-31T15:12:19.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-    },
-    {
-      "id": "3551db72705f",
-      "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-      "url": "https://css-tricks.com/whats-important-18/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T14:08:55.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-    },
-    {
-      "id": "a8aa5c3626c7",
-      "title": "What's new in Astro - August 2026",
-      "url": "https://astro.build/blog/whats-new-august-2026/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.D4OlwN_N.webp"
-    },
-    {
-      "id": "d5b8d4061f7a",
-      "title": "Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez",
-      "url": "https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "publishedAt": "2026-08-31T11:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
     },
     {
       "id": "39fc3b3a1624",
@@ -357,6 +348,42 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
     },
     {
+      "id": "a1c445bae937",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
+    },
+    {
+      "id": "822a13633146",
+      "title": "Why Your Website Should Never Stop Changing",
+      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-25T08:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
+    },
+    {
+      "id": "e68c3effa7a2",
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T15:12:19.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
+    },
+    {
+      "id": "d5b8d4061f7a",
+      "title": "Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez",
+      "url": "https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
       "id": "c52a0716629d",
       "title": "Node.js 26.8.1 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.8.1",
@@ -384,15 +411,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.20.0%20(LTS)"
     },
     {
-      "id": "7bdb061d2c15",
-      "title": "Announcing our first Maintainers in Residence",
-      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
       "id": "daf7f81fe442",
       "title": "Generic Methods",
       "url": "https://go.dev/blog/generic-methods",
@@ -409,24 +427,6 @@
       "category": "tools",
       "publishedAt": "2026-08-21T16:01:01.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
-    },
-    {
-      "id": "0685501944d9",
-      "title": "Signatures, be true: domain errors and functional handling in Kotlin",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-19T15:52:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/2026-08-18-15.29.34.jpg"
-    },
-    {
-      "id": "79127fb50f93",
-      "title": "Go 1.27 is released",
-      "url": "https://go.dev/blog/go1.27",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
