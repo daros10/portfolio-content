@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-07T15:24:50.781Z",
+  "generatedAt": "2026-09-08T14:01:29.482Z",
   "items": [
+    {
+      "id": "3a7221f54609",
+      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png"
+    },
+    {
+      "id": "1dd44cb259b6",
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T13:10:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1PVTWFH1FTSY24GMGKMD4G2.01M1PVTXAKN3C2KME8M5NF4SS4.png"
+    },
     {
       "id": "d4ae66cc1a19",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -20,15 +38,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Dual_Write_Architecture.max-1000x1000.png"
     },
     {
-      "id": "459b098e5776",
-      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-04T15:36:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/hero_2_fvBime0.max-600x600.jpg"
-    },
-    {
       "id": "f402a7756aee",
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
@@ -36,24 +45,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-03T21:03:02.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
-    },
-    {
-      "id": "a9811cb0c65b",
-      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
-      "url": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-03T19:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
-    },
-    {
-      "id": "ef1ee405c351",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-03T18:15:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure-DevTools-Dark-1-scaled.jpg"
     },
     {
       "id": "c7e0d22964c1",
@@ -81,6 +72,15 @@
       "category": "languages",
       "publishedAt": "2026-09-03T10:40:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
+    },
+    {
+      "id": "506a5597f5f4",
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-02T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-2.webp"
     },
     {
       "id": "7f0cad5ff04b",
@@ -119,6 +119,15 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
     },
     {
+      "id": "4df22e291125",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
       "id": "fd69389ccf93",
       "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
       "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
@@ -128,22 +137,13 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png"
     },
     {
-      "id": "001302cbb262",
-      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-01T12:59:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png"
-    },
-    {
-      "id": "8271be3b44aa",
-      "title": "Emulator control for adaptive app development",
-      "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
+      "id": "ad386fa9f0e1",
+      "title": "This Week in Spring - September 8th, 2026",
+      "url": "https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "743968c605bc",
@@ -285,22 +285,13 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "8971a65e9c18",
-      "title": "This Week in Spring - September 1st, 2026",
-      "url": "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "e22eb5104d2c",
-      "title": "Announcing rustup 1.29.1",
-      "url": "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "id": "8271be3b44aa",
+      "title": "Emulator control for adaptive app development",
+      "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
     },
     {
       "id": "4ed1ecaf070d",
@@ -357,13 +348,22 @@
       "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
     },
     {
-      "id": "822a13633146",
-      "title": "Why Your Website Should Never Stop Changing",
-      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png"
+      "id": "8971a65e9c18",
+      "title": "This Week in Spring - September 1st, 2026",
+      "url": "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "e22eb5104d2c",
+      "title": "Announcing rustup 1.29.1",
+      "url": "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "e68c3effa7a2",
@@ -375,13 +375,13 @@
       "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
     },
     {
-      "id": "d5b8d4061f7a",
-      "title": "Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez",
-      "url": "https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "3551db72705f",
+      "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+      "url": "https://css-tricks.com/whats-important-18/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-08-31T14:08:55.000Z",
+      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
     },
     {
       "id": "c52a0716629d",
