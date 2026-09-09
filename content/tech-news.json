@@ -1,14 +1,77 @@
 {
-  "generatedAt": "2026-09-08T14:01:29.482Z",
+  "generatedAt": "2026-09-09T14:03:50.246Z",
   "items": [
     {
-      "id": "3a7221f54609",
-      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "id": "ce419bf53cc7",
+      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1WCDP58M0ZWWK4EQ5Z60396.01M1WCDPYM384QTHNEZA0WQ8W8.png"
+    },
+    {
+      "id": "5a46d823d418",
+      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/1-10-click-process-vs-ai-driven-intent-flow.png"
+    },
+    {
+      "id": "56a79093bf6b",
+      "title": "6 Benefits of Sandbox Environments (and How Docker Sandboxes Delivers Them)",
+      "url": "https://www.docker.com/blog/benefits-of-sandbox-environments/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-08T23:05:55.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
+    },
+    {
+      "id": "58848632aa14",
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+      "url": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T20:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/CLO24-Azure-Healthcare-015-scaled.jpg"
+    },
+    {
+      "id": "024e48c835a4",
+      "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
       "source": "Google Cloud Blog",
       "category": "ai",
-      "publishedAt": "2026-09-08T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png"
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01-agy-harness.max-1000x1000.png"
+    },
+    {
+      "id": "8d99e7b57151",
+      "title": "Agentic analytics with the Data Agent Kit",
+      "url": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/0_hero_image_5no6K6G.max-600x600.png"
+    },
+    {
+      "id": "fd23992aaf2a",
+      "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+      "url": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_9ZYjQgt.max-1000x1000.png"
+    },
+    {
+      "id": "f7dd334d631a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "1dd44cb259b6",
@@ -29,15 +92,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
     },
     {
-      "id": "cb64ec7a3775",
-      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Dual_Write_Architecture.max-1000x1000.png"
-    },
-    {
       "id": "f402a7756aee",
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
@@ -45,6 +99,24 @@
       "category": "cloud",
       "publishedAt": "2026-09-03T21:03:02.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
+    },
+    {
+      "id": "a9811cb0c65b",
+      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
+      "url": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-03T19:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
+    },
+    {
+      "id": "b2393539d316",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-03T18:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure-DevTools-Dark-1-scaled.jpg"
     },
     {
       "id": "c7e0d22964c1",
@@ -74,24 +146,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
     },
     {
-      "id": "506a5597f5f4",
-      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-2.webp"
-    },
-    {
-      "id": "7f0cad5ff04b",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-02T15:40:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Hello Developer: September 2026",
       "url": "https://developer.apple.com/news/?id=ote61lrx",
@@ -101,40 +155,37 @@
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg"
     },
     {
-      "id": "5bd34f894292",
-      "title": "Building Reproducible AI Evaluation Workflows with Docker Sandboxes",
-      "url": "https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-02T13:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/09/image1.png"
+      "id": "544e4a882a38",
+      "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T21:58:00.000Z"
     },
     {
-      "id": "10c754d00e33",
-      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
-      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "5db47529399f",
+      "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T21:19:00.000Z"
+    },
+    {
+      "id": "bc3ee482692a",
+      "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling",
+      "url": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-08T18:30:00.000Z"
+    },
+    {
+      "id": "c790553d7b2f",
+      "title": "Affordable and Fast Migration",
+      "url": "https://astro.build/case-studies/evil-martians/",
+      "source": "Astro Blog",
       "category": "frontend",
-      "publishedAt": "2026-09-02T01:50:59.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
-    },
-    {
-      "id": "4df22e291125",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-01T20:45:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "fd69389ccf93",
-      "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
-      "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-01T15:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png"
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     },
     {
       "id": "ad386fa9f0e1",
@@ -182,47 +233,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "8d3a4c3f000a",
-      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T21:29:00.000Z"
-    },
-    {
-      "id": "d8888bb0a7c4",
-      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T21:14:00.000Z"
-    },
-    {
-      "id": "84796658cd90",
-      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T21:01:00.000Z"
-    },
-    {
-      "id": "e084eda0d323",
-      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
-      "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T18:30:00.000Z"
-    },
-    {
-      "id": "0e7df2003b07",
-      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
-      "url": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-04T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
-    },
-    {
       "id": "bedb7b253059",
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
@@ -230,14 +240,6 @@
       "category": "tools",
       "publishedAt": "2026-09-03T16:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.28.34-PM.png?fit=1242%2C698"
-    },
-    {
-      "id": "98fbebaf7789",
-      "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
-      "url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
     },
     {
       "id": "feaed97fbdf7",
@@ -267,22 +269,22 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "da8c825c4479",
-      "title": "Starlight 0.42",
-      "url": "https://astro.build/blog/starlight-042/",
-      "source": "Astro Blog",
+      "id": "10c754d00e33",
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
+      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp"
+      "publishedAt": "2026-09-02T01:50:59.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
     },
     {
-      "id": "e38846850a14",
-      "title": "Goroutine Leak Profiles",
-      "url": "https://go.dev/blog/goroutine-leak-profiles",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+      "id": "fd69389ccf93",
+      "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
+      "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-01T15:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png"
     },
     {
       "id": "8271be3b44aa",
@@ -330,22 +332,22 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGAONWXboSifa5iIBDqZhlyepp3OtXMzKrhnluPZqHKLlQ-oUE7xmHG9l0eVz7z4a_Xlan3w7Wr-FwhTZFQ2mcPqgzOGv3G7Sny756QYTIwczo_D3OG_gSWcxvDJFXQDd4lPhUTqXwgiCCadfA6WAT_lUVgRr6GyozoYCnkPY6wSXNqfqJGC-HV6MNduY/s72-c/ANDDM_Passkeys_Metacard.png"
     },
     {
-      "id": "d517494fbe8e",
-      "title": "Compose Multiplatform 1.12.0 Released",
-      "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-08-26T13:28:41.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
+      "id": "da8c825c4479",
+      "title": "Starlight 0.42",
+      "url": "https://astro.build/blog/starlight-042/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp"
     },
     {
-      "id": "a1c445bae937",
-      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
+      "id": "e38846850a14",
+      "title": "Goroutine Leak Profiles",
+      "url": "https://go.dev/blog/goroutine-leak-profiles",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "8971a65e9c18",
@@ -364,24 +366,6 @@
       "category": "languages",
       "publishedAt": "2026-09-01T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "e68c3effa7a2",
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T15:12:19.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-    },
-    {
-      "id": "3551db72705f",
-      "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-      "url": "https://css-tricks.com/whats-important-18/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T14:08:55.000Z",
-      "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
     },
     {
       "id": "c52a0716629d",
@@ -411,13 +395,22 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.20.0%20(LTS)"
     },
     {
-      "id": "daf7f81fe442",
-      "title": "Generic Methods",
-      "url": "https://go.dev/blog/generic-methods",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+      "id": "d517494fbe8e",
+      "title": "Compose Multiplatform 1.12.0 Released",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-08-26T13:28:41.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
+    },
+    {
+      "id": "a1c445bae937",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/francis-anscombe-quartet.png"
     },
     {
       "id": "4e07ab77c54e",
@@ -427,6 +420,15 @@
       "category": "tools",
       "publishedAt": "2026-08-21T16:01:01.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
+    },
+    {
+      "id": "daf7f81fe442",
+      "title": "Generic Methods",
+      "url": "https://go.dev/blog/generic-methods",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
