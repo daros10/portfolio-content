@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-10T13:58:51.787Z",
+  "generatedAt": "2026-09-11T13:57:40.892Z",
   "items": [
+    {
+      "id": "c2396277023d",
+      "title": "Introducing automatic remediation policies with Cloudflare CASB",
+      "url": "https://blog.cloudflare.com/casb-policies/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2842WCZ10Q81ZNG6FHF2FAJ.01M2842X2Z3B513P6VHC1SXMTC.png"
+    },
+    {
+      "id": "04db7bfd27e8",
+      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-10T19:53:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/agent-plugins-blog-cover.max-600x600.png"
+    },
+    {
+      "id": "94ad36d7ed05",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "3090d38083de",
+      "title": "What’s new with Google Data Cloud",
+      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/whats_new_data_cloud_fWg4bKK.png"
+    },
     {
       "id": "0a5779282d85",
       "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
@@ -27,33 +72,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-09T23:05:23.000Z",
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg"
-    },
-    {
-      "id": "02ed837d7cc7",
-      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
-      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-09T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_8L3W52J.max-1000x1000.jpg"
-    },
-    {
-      "id": "d2d178a573a6",
-      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-09T18:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/High_Res_Gartner_EAIA_Magic_Quadrant.max-1000x1000.png"
-    },
-    {
-      "id": "538c1da1fe34",
-      "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
-      "url": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-09T16:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_kO5uMVL.max-1000x1000.png"
     },
     {
       "id": "91d5074fb05a",
@@ -110,15 +128,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
     },
     {
-      "id": "58848632aa14",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-      "url": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-08T20:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/CLO24-Azure-Healthcare-015-scaled.jpg"
-    },
-    {
       "id": "f7dd334d631a",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -126,15 +135,6 @@
       "category": "ai",
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "1dd44cb259b6",
-      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-08T13:10:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1PVTWFH1FTSY24GMGKMD4G2.01M1PVTXAKN3C2KME8M5NF4SS4.png"
     },
     {
       "id": "d4ae66cc1a19",
@@ -146,47 +146,72 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
     },
     {
-      "id": "a9811cb0c65b",
-      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
-      "url": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-      "source": "Azure",
+      "id": "0dfff884420d",
+      "title": "AI cybersecurity is a cat and mouse game",
+      "url": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
+      "source": "Stack Overflow Blog",
       "category": "ai",
-      "publishedAt": "2026-09-03T19:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Figure1-scaled.webp"
+      "publishedAt": "2026-09-11T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "b2393539d316",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-03T18:15:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure-DevTools-Dark-1-scaled.jpg"
+      "id": "115895427a12",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-10T21:31:19.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
     },
     {
-      "id": "c7e0d22964c1",
-      "title": "YOLO Mode: Agent Autonomy Without the Guardrails",
-      "url": "https://www.docker.com/blog/what-is-yolo-mode/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-03T18:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/08/docker_What-is-YOLO-mode-2320x1218.jpg"
-    },
-    {
-      "id": "e0d480113cee",
-      "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
+      "id": "7b7716d0851b",
+      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-09T21:00:00.000Z"
+      "publishedAt": "2026-09-10T20:00:00.000Z"
     },
     {
-      "id": "0411428568ce",
-      "title": "AWS Transform for .NET modernization is now generally available via CLI",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+      "id": "568f2a008b16",
+      "title": "AWS Transform for .NET now generates unit tests for modernized code",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-09T20:00:00.000Z"
+      "publishedAt": "2026-09-10T20:00:00.000Z"
+    },
+    {
+      "id": "c420dba7093e",
+      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-10T20:00:00.000Z"
+    },
+    {
+      "id": "6512c1ea4d98",
+      "title": "(Re)introducing Developer Story",
+      "url": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-10T18:01:54.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/8a64378e027670afb27fde755664558501b6b23a-2400x1260.png?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "014159943e4d",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "id": "1d54a724875f",
+      "title": "A Bootiful Podcast: Netflix's Paul Bakker",
+      "url": "https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "dcb9ac31082b",
@@ -279,15 +304,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "bedb7b253059",
-      "title": "GitHub Copilot app for Beginners: Run several agents at once",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.28.34-PM.png?fit=1242%2C698"
-    },
-    {
       "id": "b19657bef932",
       "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
       "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
@@ -342,15 +358,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     },
     {
-      "id": "86d86e4ee937",
-      "title": "Styling Mastery and Declarative Form Submissions",
-      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-08-28T11:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
-    },
-    {
       "id": "feaed97fbdf7",
       "title": "Astro 7.3",
       "url": "https://astro.build/blog/astro-730/",
@@ -358,15 +365,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
-    },
-    {
-      "id": "0380424e831a",
-      "title": "A Bootiful Podcast: BellSoft's Catherine Edelveis on hardened runtime images, container security, and more",
-      "url": "https://spring.io/blog/2026/09/03/a-bootiful-podcast-catherine-edelvais",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "eb9a687bc76e",
