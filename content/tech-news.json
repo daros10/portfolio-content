@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-09-11T13:57:40.892Z",
+  "generatedAt": "2026-09-12T13:16:28.580Z",
   "items": [
+    {
+      "id": "12e9dd685180",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "8a46e970d1d1",
+      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+      "url": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-11T18:30:00.000Z",
+      "imageUrl": "https://kubernetes.io/images/blog/2026-kubernetes-1-37-native-histograms-beta/native-histograms-flow.svg"
+    },
     {
       "id": "c2396277023d",
       "title": "Introducing automatic remediation policies with Cloudflare CASB",
@@ -36,15 +53,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-10T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
-    },
-    {
-      "id": "3090d38083de",
-      "title": "What’s new with Google Data Cloud",
-      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/whats_new_data_cloud_fWg4bKK.png"
     },
     {
       "id": "0a5779282d85",
@@ -137,22 +145,63 @@
       "imageUrl": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "d4ae66cc1a19",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-04T16:04:14.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
+      "id": "a3223d9743b0",
+      "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-11T18:35:00.000Z"
     },
     {
-      "id": "0dfff884420d",
-      "title": "AI cybersecurity is a cat and mouse game",
-      "url": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
-      "source": "Stack Overflow Blog",
+      "id": "8587315c03c9",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png"
+    },
+    {
+      "id": "b434df89ec31",
+      "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
+      "source": "AWS",
       "category": "ai",
-      "publishedAt": "2026-09-11T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+      "publishedAt": "2026-09-11T18:25:00.000Z"
+    },
+    {
+      "id": "604ae1e44364",
+      "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-11T17:00:00.000Z"
+    },
+    {
+      "id": "c3aa33826442",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-09-11T16:00:00.000Z"
+    },
+    {
+      "id": "a86ea82d513c",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
+    },
+    {
+      "id": "a64f70fdcba5",
+      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-11T09:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/20_-_Inside_Google_Cloud_9ZmxduF.max-2600x2600.jpg"
     },
     {
       "id": "115895427a12",
@@ -164,30 +213,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
     },
     {
-      "id": "7b7716d0851b",
-      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "id": "568f2a008b16",
-      "title": "AWS Transform for .NET now generates unit tests for modernized code",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "id": "c420dba7093e",
-      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T20:00:00.000Z"
-    },
-    {
       "id": "6512c1ea4d98",
       "title": "(Re)introducing Developer Story",
       "url": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/",
@@ -195,14 +220,6 @@
       "category": "tools",
       "publishedAt": "2026-09-10T18:01:54.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/8a64378e027670afb27fde755664558501b6b23a-2400x1260.png?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "014159943e4d",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
     },
     {
       "id": "1d54a724875f",
@@ -349,15 +366,6 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
     },
     {
-      "id": "39fc3b3a1624",
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-28T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
-    },
-    {
       "id": "feaed97fbdf7",
       "title": "Astro 7.3",
       "url": "https://astro.build/blog/astro-730/",
@@ -374,15 +382,6 @@
       "category": "languages",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "da8c825c4479",
-      "title": "Starlight 0.42",
-      "url": "https://astro.build/blog/starlight-042/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp"
     },
     {
       "id": "e38846850a14",
@@ -403,6 +402,15 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
+      "id": "39fc3b3a1624",
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-28T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
+    },
+    {
       "id": "d517494fbe8e",
       "title": "Compose Multiplatform 1.12.0 Released",
       "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
@@ -410,15 +418,6 @@
       "category": "mobile",
       "publishedAt": "2026-08-26T13:28:41.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-01.36.40.png"
-    },
-    {
-      "id": "4e07ab77c54e",
-      "title": "A Tale of Two Flink Autoscalers",
-      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-21T16:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png"
     },
     {
       "id": "c52a0716629d",
