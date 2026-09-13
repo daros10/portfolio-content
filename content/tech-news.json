@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:16:28.580Z",
+  "generatedAt": "2026-09-13T13:59:37.736Z",
   "items": [
     {
       "id": "12e9dd685180",
@@ -28,6 +28,15 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2842WCZ10Q81ZNG6FHF2FAJ.01M2842X2Z3B513P6VHC1SXMTC.png"
     },
     {
+      "id": "e50ef54ea046",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-10T21:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Container-Management-quadrant-927x1024.webp"
+    },
+    {
       "id": "04db7bfd27e8",
       "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
       "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
@@ -35,6 +44,15 @@
       "category": "ai",
       "publishedAt": "2026-09-10T19:53:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/agent-plugins-blog-cover.max-600x600.png"
+    },
+    {
+      "id": "8ff4f7629b63",
+      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-10T17:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Effective-cost-governance-screenshot.webp"
     },
     {
       "id": "94ad36d7ed05",
@@ -53,6 +71,15 @@
       "category": "cloud",
       "publishedAt": "2026-09-10T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "f080c3f1952c",
+      "title": "The future of infrastructure resiliency starts with modernization",
+      "url": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Azure-DataPlatform-Dark-scaled.jpg"
     },
     {
       "id": "0a5779282d85",
@@ -145,12 +172,12 @@
       "imageUrl": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "a3223d9743b0",
-      "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
+      "id": "fe9c0faf843d",
+      "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-11T18:35:00.000Z"
+      "publishedAt": "2026-09-12T08:00:00.000Z"
     },
     {
       "id": "8587315c03c9",
@@ -170,22 +197,6 @@
       "publishedAt": "2026-09-11T18:25:00.000Z"
     },
     {
-      "id": "604ae1e44364",
-      "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-11T17:00:00.000Z"
-    },
-    {
-      "id": "c3aa33826442",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-11T16:00:00.000Z"
-    },
-    {
       "id": "a86ea82d513c",
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
@@ -193,15 +204,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-11T13:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
-      "id": "a64f70fdcba5",
-      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-11T09:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/20_-_Inside_Google_Cloud_9ZmxduF.max-2600x2600.jpg"
     },
     {
       "id": "115895427a12",
@@ -312,15 +314,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "0402e0fd0805",
-      "title": "Allowing plugins to generate mixed-language sources",
-      "url": "https://forums.swift.org/t/allowing-plugins-to-generate-mixed-language-sources/89396",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-06T10:49:43.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
       "id": "b19657bef932",
       "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
       "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
@@ -364,6 +357,15 @@
       "category": "frontend",
       "publishedAt": "2026-08-31T11:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
+    },
+    {
+      "id": "0402e0fd0805",
+      "title": "Allowing plugins to generate mixed-language sources",
+      "url": "https://forums.swift.org/t/allowing-plugins-to-generate-mixed-language-sources/89396",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-06T10:49:43.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
       "id": "feaed97fbdf7",
