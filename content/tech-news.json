@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-16T14:29:30.943Z",
+  "generatedAt": "2026-09-17T14:33:59.197Z",
   "items": [
+    {
+      "id": "6b8b0b6f48f2",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "source": "GitHub Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-17T00:26:43.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
+    },
+    {
+      "id": "2b5c7cbde6e9",
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T20:06:17.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
+    },
+    {
+      "id": "00e6aaff0cf4",
+      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+    },
+    {
+      "id": "fa33a48b5d17",
+      "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
+      "url": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/m4n.max-600x600.jpg"
+    },
+    {
+      "id": "b8054564eb69",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
+    },
     {
       "id": "149a852934bd",
       "title": "AI for Societal Impact",
@@ -29,24 +74,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "352980a8cb37",
-      "title": "Best practices for handling cloud reliability incidents",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/sre.max-600x600.jpg"
-    },
-    {
-      "id": "3a52a2114da3",
-      "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
-      "url": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_qK2rt5p.max-1000x1000.jpg"
-    },
-    {
       "id": "4096ef147cca",
       "title": "Have it both ways: stay discoverable in search while disallowing AI training",
       "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
@@ -63,15 +90,6 @@
       "category": "ai",
       "publishedAt": "2026-09-15T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png"
-    },
-    {
-      "id": "c2396277023d",
-      "title": "Introducing automatic remediation policies with Cloudflare CASB",
-      "url": "https://blog.cloudflare.com/casb-policies/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2842WCZ10Q81ZNG6FHF2FAJ.01M2842X2Z3B513P6VHC1SXMTC.png"
     },
     {
       "id": "e50ef54ea046",
@@ -101,72 +119,89 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Azure-DataPlatform-Dark-scaled.jpg"
     },
     {
-      "id": "c5cd3eebef55",
-      "title": "GitHub availability report: August 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-10T02:05:17.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Actions-Run-Start_delay.png?resize=1024%2C509"
+      "id": "0c3679065ac6",
+      "title": "Amazon Corretto 27 is now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T00:00:31.000Z"
+    },
+    {
+      "id": "ddbfa1cf190a",
+      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-09-16T22:29:00.000Z"
+    },
+    {
+      "id": "b8d5063b7e6d",
+      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "url": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T18:30:00.000Z"
+    },
+    {
+      "id": "077aebeea6e8",
+      "title": "Node.js 26.9.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.9.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-16T18:17:42.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.9.0%20(Current)"
+    },
+    {
+      "id": "68c5172dfc2f",
+      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T17:56:00.000Z"
     },
     {
       "id": "7d7079a0abaf",
-      "title": "Get ready for iPhone Duo",
-      "url": "https://developer.apple.com/news/?id=vn8abkxx",
+      "title": "Get ready with the latest beta releases",
+      "url": "https://developer.apple.com/news/?id=rfb1rooi",
       "source": "Apple Developer",
       "category": "mobile",
-      "publishedAt": "2026-09-09T23:05:23.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg"
+      "publishedAt": "2026-09-16T17:03:39.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/sdk-27-og.png"
     },
     {
-      "id": "22438c6f7a7c",
-      "title": "Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0",
-      "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
-      "source": "Android Developers",
+      "id": "3e92cef7a8d3",
+      "title": "Swift-Syntax Prebuilts for use in iOS apps at run-time?",
+      "url": "https://forums.swift.org/t/swift-syntax-prebuilts-for-use-in-ios-apps-at-run-time/89600",
+      "source": "Swift Forums",
       "category": "mobile",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5d1m5V0YkXO3RfG80oR_CKgil42o_kHWX_FkCe57Mg8y_9CRTBiiEAtyNUNkMAcISJ1i2YsNauolZEiwLMbGV8V-9rb4TjPXOKIldpCasNz0_nmSS01SbsYzAgabgOjh0peLNjbTTUwEdurcC7-0okTm5MTxGBbea1dZPdGA9AO13fJSm6nIkE-I1ym4/s72-c/Introducing-Fast-and-Reliable-Wireless-Debugging-Metadata.jpg"
+      "publishedAt": "2026-09-16T16:58:32.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "52752974efc0",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-16T13:00:00.000Z"
+      "id": "298247dd1991",
+      "title": "Spring Office Hours Podcast: S5E23 - Java 27 Release Party with Billy Korando",
+      "url": "https://spring.io/blog/2026/09/16/spring-office-hours-podcast-S5E23",
+      "source": "Spring Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "50761ada386b",
-      "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
-      "source": "AWS",
+      "id": "1f279c619cdd",
+      "title": "Size-Specialized Memory Allocation",
+      "url": "https://go.dev/blog/size-specialized-allocations",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "e80447c026b2",
+      "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
+      "source": "Kubernetes Blog",
       "category": "cloud",
-      "publishedAt": "2026-09-15T22:00:00.000Z"
-    },
-    {
-      "id": "37c9261b8327",
-      "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "id": "54805de493c6",
-      "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-15T18:58:00.000Z"
-    },
-    {
-      "id": "2f92a8ca47fb",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-09-15T17:05:57.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png"
+      "publishedAt": "2026-09-15T18:30:00.000Z"
     },
     {
       "id": "38de1c7f2258",
@@ -222,22 +257,13 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
     },
     {
-      "id": "1d54a724875f",
-      "title": "A Bootiful Podcast: Netflix's Paul Bakker",
-      "url": "https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "dcb9ac31082b",
-      "title": "Node.js 26.8.2 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.8.2",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-09T16:09:17.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.2%20(Current)"
+      "id": "22438c6f7a7c",
+      "title": "Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0",
+      "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5d1m5V0YkXO3RfG80oR_CKgil42o_kHWX_FkCe57Mg8y_9CRTBiiEAtyNUNkMAcISJ1i2YsNauolZEiwLMbGV8V-9rb4TjPXOKIldpCasNz0_nmSS01SbsYzAgabgOjh0peLNjbTTUwEdurcC7-0okTm5MTxGBbea1dZPdGA9AO13fJSm6nIkE-I1ym4/s72-c/Introducing-Fast-and-Reliable-Wireless-Debugging-Metadata.jpg"
     },
     {
       "id": "5a46d823d418",
@@ -258,13 +284,22 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
     },
     {
-      "id": "b19657bef932",
-      "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-03T10:40:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
+      "id": "1d54a724875f",
+      "title": "A Bootiful Podcast: Netflix's Paul Bakker",
+      "url": "https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "dcb9ac31082b",
+      "title": "Node.js 26.8.2 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.8.2",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-09T16:09:17.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.2%20(Current)"
     },
     {
       "id": "48e7f627ccee",
@@ -283,15 +318,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
-    },
-    {
-      "id": "516d1fea101f",
-      "title": "Spring Tools 5.4.0 released",
-      "url": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "c790553d7b2f",
@@ -330,31 +356,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "0402e0fd0805",
-      "title": "Allowing plugins to generate mixed-language sources",
-      "url": "https://forums.swift.org/t/allowing-plugins-to-generate-mixed-language-sources/89396",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-06T10:49:43.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "feaed97fbdf7",
-      "title": "Astro 7.3",
-      "url": "https://astro.build/blog/astro-730/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
-    },
-    {
-      "id": "eb9a687bc76e",
-      "title": "Announcing Rust 1.98.1",
-      "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-      "source": "Rust Blog",
+      "id": "b19657bef932",
+      "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
+      "source": "Kotlin Blog",
       "category": "languages",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "publishedAt": "2026-09-03T10:40:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
     },
     {
       "id": "10c754d00e33",
@@ -384,15 +392,6 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
     },
     {
-      "id": "4ed1ecaf070d",
-      "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-september-2026/sep-26-welcome-autumn-preview-opt.png"
-    },
-    {
       "id": "39fc3b3a1624",
       "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
       "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
@@ -402,6 +401,24 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     },
     {
+      "id": "86d86e4ee937",
+      "title": "Styling Mastery and Declarative Form Submissions",
+      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-08-28T11:01:01.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
+    },
+    {
+      "id": "eb9a687bc76e",
+      "title": "Announcing Rust 1.98.1",
+      "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "e38846850a14",
       "title": "Goroutine Leak Profiles",
       "url": "https://go.dev/blog/goroutine-leak-profiles",
@@ -409,24 +426,6 @@
       "category": "languages",
       "publishedAt": "2026-09-02T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "e22eb5104d2c",
-      "title": "Announcing rustup 1.29.1",
-      "url": "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "c52a0716629d",
-      "title": "Node.js 26.8.1 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.8.1",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-08-26T22:11:36.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.1%20(Current)"
     }
   ]
 }
