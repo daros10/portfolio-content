@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-17T14:33:59.197Z",
+  "generatedAt": "2026-09-18T14:00:00.093Z",
   "items": [
+    {
+      "id": "94ad9f737cb6",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "df4ade904b04",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ebaac7e03f0b",
+      "title": "Introducing the AndroidX Security State Libraries: A Unified View of Device Security",
+      "url": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-17T19:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiqTFG-rKnMR-2Gd5GcVfhHH41U_MTW278b8cFy5g_0SkfNoJjS_CLh47SvXrpXDCvKT5xm4XLH9z9LwbNG-1mQOmB8kzys5FaiiSFoX07bjF2oej9YZgP7j_c6M_phtxoH_Hv0Dk0Wj5VY0HLntiuWvFn8B-6W10aC-H73REmv_2Vv_Ali0CuIiPlY8/s72-c/AndroidX%20Security%20State%20Library_Blog.png"
+    },
+    {
+      "id": "125b9695f866",
+      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
+      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1-a_leader.max-1000x1000.png"
+    },
+    {
+      "id": "fcff16b0957f",
+      "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Vertical_Version_yyTMhsG.max-1000x1000.jpg"
+    },
+    {
+      "id": "835985c0ac4b",
+      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
+      "url": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Zpv001B.max-1000x1000.png"
+    },
     {
       "id": "6b8b0b6f48f2",
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
@@ -20,22 +74,13 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
     },
     {
-      "id": "00e6aaff0cf4",
-      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
-    },
-    {
-      "id": "fa33a48b5d17",
-      "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
-      "url": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/m4n.max-600x600.jpg"
+      "id": "6f95035bf386",
+      "title": "Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks",
+      "url": "https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-16T15:58:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCs6gPNr-l6f79eAyix8OZ59gg6K5y8QVTb6vuU2mNR9qdIlN2VUvGzbTenI-pIEGhMYql-E-t7Hs2Z0vI_UYnHte1w3vPRpjk7E0DPenuSkt-3gUM3y5GYZKHgciA4o3Ox2oxVkNuHiCwUX1WKCUkQhzBAd2FJhFiB-k5UKXYA67hXQHRVdFwrjHWFLQ/s72-c/Bench%202.0%20Metadata-bench.png"
     },
     {
       "id": "b8054564eb69",
@@ -56,24 +101,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
     },
     {
-      "id": "2db68954a435",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "98c36a850624",
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
-    },
-    {
       "id": "4096ef147cca",
       "title": "Have it both ways: stay discoverable in search while disallowing AI training",
       "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
@@ -92,47 +119,71 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png"
     },
     {
-      "id": "e50ef54ea046",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T21:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Container-Management-quadrant-927x1024.webp"
-    },
-    {
-      "id": "8ff4f7629b63",
-      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
-      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-10T17:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Effective-cost-governance-screenshot.webp"
-    },
-    {
-      "id": "f080c3f1952c",
-      "title": "The future of infrastructure resiliency starts with modernization",
-      "url": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Azure-DataPlatform-Dark-scaled.jpg"
-    },
-    {
-      "id": "0c3679065ac6",
-      "title": "Amazon Corretto 27 is now generally available",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
+      "id": "c2610ba6bdd1",
+      "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-17T00:00:31.000Z"
+      "publishedAt": "2026-09-17T19:00:00.000Z"
     },
     {
-      "id": "ddbfa1cf190a",
-      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+      "id": "b4d7cfb0f9e8",
+      "title": "AWS HealthOmics now supports IAM session policies",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
       "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T18:32:00.000Z"
+    },
+    {
+      "id": "ab6a4864f579",
+      "title": "AWS Batch now supports bulk job cancellation and termination",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-17T17:23:00.000Z"
+    },
+    {
+      "id": "964ae1dd0fac",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-09-16T22:29:00.000Z"
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+      "id": "d625f41f7f61",
+      "title": "The AI magic words",
+      "url": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/",
+      "source": "Stack Overflow Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-17T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "363bbead77de",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "ef60f91a2ed2",
+      "title": "A Bootiful Podcast: Spring Tools lead Martin Lippert",
+      "url": "https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "7ae50386ad96",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "b8d5063b7e6d",
@@ -150,14 +201,6 @@
       "category": "backend",
       "publishedAt": "2026-09-16T18:17:42.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.9.0%20(Current)"
-    },
-    {
-      "id": "68c5172dfc2f",
-      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-16T17:56:00.000Z"
     },
     {
       "id": "7d7079a0abaf",
@@ -196,20 +239,13 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "e80447c026b2",
-      "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
-      "url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-15T18:30:00.000Z"
-    },
-    {
       "id": "38de1c7f2258",
       "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
       "url": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
       "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-09-15T17:00:00.000Z"
+      "publishedAt": "2026-09-15T17:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1083bad4513e1eb539137d7a97d4e97575b562f1-1200x630.png?w=1200&h=630&auto=format"
     },
     {
       "id": "fb2b75c74c73",
@@ -239,24 +275,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png"
     },
     {
-      "id": "a86ea82d513c",
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
-      "id": "115895427a12",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "source": "GitHub Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-10T21:31:19.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
-    },
-    {
       "id": "22438c6f7a7c",
       "title": "Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0",
       "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
@@ -284,13 +302,22 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
     },
     {
-      "id": "1d54a724875f",
-      "title": "A Bootiful Podcast: Netflix's Paul Bakker",
-      "url": "https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "a86ea82d513c",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
+    },
+    {
+      "id": "115895427a12",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-10T21:31:19.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
     },
     {
       "id": "dcb9ac31082b",
@@ -374,24 +401,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
     },
     {
-      "id": "fd69389ccf93",
-      "title": "Leverage Android skills and Gemma 4 in Android Studio Quail 4",
-      "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-01T15:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png"
-    },
-    {
-      "id": "8271be3b44aa",
-      "title": "Emulator control for adaptive app development",
-      "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQsu918ozPnYGqHeRBhQloNpT7ahw1BtBs97BDcUQWNgJoFv5UE_COINTQ2Ya1u8319UoLFzEl5Wz-10eGwB3Qbi-NmDEkOljLUiBNb1KOeEV83VoGRY7SUex8-aRZuSJNkHkbmt-2rJ_s3QhdxLwSQB0AYDUJo3Tcs5XE89CLHvuR47bPnK04OPTB9Y/s72-c/%5BABL_123%5D%20Streamline%20adaptive%20testing%20with%20emulator%20commands_Meta.png"
-    },
-    {
       "id": "39fc3b3a1624",
       "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
       "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
@@ -401,13 +410,13 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     },
     {
-      "id": "86d86e4ee937",
-      "title": "Styling Mastery and Declarative Form Submissions",
-      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "feaed97fbdf7",
+      "title": "Astro 7.3",
+      "url": "https://astro.build/blog/astro-730/",
+      "source": "Astro Blog",
       "category": "frontend",
-      "publishedAt": "2026-08-28T11:01:01.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*4Xh2uNY_xpCf45rD6xdvIA.png"
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
     },
     {
       "id": "eb9a687bc76e",
@@ -417,15 +426,6 @@
       "category": "languages",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "e38846850a14",
-      "title": "Goroutine Leak Profiles",
-      "url": "https://go.dev/blog/goroutine-leak-profiles",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
