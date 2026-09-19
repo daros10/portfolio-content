@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-18T14:00:00.093Z",
+  "generatedAt": "2026-09-19T13:36:46.691Z",
   "items": [
+    {
+      "id": "8b3759fdb1e4",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "Cloudflare Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-18T17:23:58.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFYDRYA8R4X8XVQJYTED8Q.01M2PFYEWJNSK872MVT1JSCHA4.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Build for iPhone Duo with new resources",
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-09-18T17:00:57.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
+    },
+    {
+      "id": "4472e0676eba",
+      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+      "url": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T16:30:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_WmFinfJ.max-1000x1000.png"
+    },
+    {
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+    },
+    {
+      "id": "13959694a77b",
+      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+      "url": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GettyImages-1387176996_PNG_-_60_resolution_m.max-600x600.png"
+    },
+    {
+      "id": "fa5d28d59adb",
+      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/devfest-community-workshop-experience-hero.max-600x600.png"
+    },
+    {
+      "id": "c72f60fcf6ad",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "94ad9f737cb6",
       "title": "Co-creating the future of fashion with Google",
@@ -26,34 +89,16 @@
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-09-17T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiqTFG-rKnMR-2Gd5GcVfhHH41U_MTW278b8cFy5g_0SkfNoJjS_CLh47SvXrpXDCvKT5xm4XLH9z9LwbNG-1mQOmB8kzys5FaiiSFoX07bjF2oej9YZgP7j_c6M_phtxoH_Hv0Dk0Wj5VY0HLntiuWvFn8B-6W10aC-H73REmv_2Vv_Ali0CuIiPlY8/s72-c/AndroidX%20Security%20State%20Library_Blog.png"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIF-dBH1TU5g6y4jdOLCKBo8KGPlPMUNQAGib3WSE8HPaLHG8iMXhgCiMZ2wyQ4kK93wQGmLiUEWuzlJRKcMVhPak5LantVgo3DEOcRORRJw8lRJk6FytYtUmF6xXyWNTVa2Ki7OD2tEHBS63e4VsDnhW3CkB3YCrWlZzv0DBoaX0v-ZQHBsDMvgmiUXI/s72-c/AndroidX%20Security%20State%20Library_Meta.png"
     },
     {
-      "id": "125b9695f866",
-      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
-      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1-a_leader.max-1000x1000.png"
-    },
-    {
-      "id": "fcff16b0957f",
-      "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Vertical_Version_yyTMhsG.max-1000x1000.jpg"
-    },
-    {
-      "id": "835985c0ac4b",
-      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
-      "url": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Zpv001B.max-1000x1000.png"
+      "id": "6f95035bf386",
+      "title": "Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks",
+      "url": "https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-17T14:06:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCs6gPNr-l6f79eAyix8OZ59gg6K5y8QVTb6vuU2mNR9qdIlN2VUvGzbTenI-pIEGhMYql-E-t7Hs2Z0vI_UYnHte1w3vPRpjk7E0DPenuSkt-3gUM3y5GYZKHgciA4o3Ox2oxVkNuHiCwUX1WKCUkQhzBAd2FJhFiB-k5UKXYA67hXQHRVdFwrjHWFLQ/s72-c/Bench%202.0%20Metadata-bench.png"
     },
     {
       "id": "6b8b0b6f48f2",
@@ -74,15 +119,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
     },
     {
-      "id": "6f95035bf386",
-      "title": "Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks",
-      "url": "https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-16T15:58:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCs6gPNr-l6f79eAyix8OZ59gg6K5y8QVTb6vuU2mNR9qdIlN2VUvGzbTenI-pIEGhMYql-E-t7Hs2Z0vI_UYnHte1w3vPRpjk7E0DPenuSkt-3gUM3y5GYZKHgciA4o3Ox2oxVkNuHiCwUX1WKCUkQhzBAd2FJhFiB-k5UKXYA67hXQHRVdFwrjHWFLQ/s72-c/Bench%202.0%20Metadata-bench.png"
-    },
-    {
       "id": "b8054564eb69",
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
@@ -90,15 +126,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
-    },
-    {
-      "id": "149a852934bd",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
     },
     {
       "id": "4096ef147cca",
@@ -110,37 +137,45 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png"
     },
     {
-      "id": "e5095a156146",
-      "title": "Give every teammate and agent the right level of access to your Workers",
-      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
-      "source": "Cloudflare Blog",
+      "id": "8a762ee50eb0",
+      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T18:34:00.000Z"
+    },
+    {
+      "id": "4ef68cf1eddb",
+      "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T17:27:00.000Z"
+    },
+    {
+      "id": "b68c82da697a",
+      "title": "AWS Resilience Hub adds three new capabilities",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T16:49:00.000Z"
+    },
+    {
+      "id": "55f4720a90e1",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/GIT_THUMB_PODCAST_S2_EP2_B2-1.png?fit=3840%2C2160"
+    },
+    {
+      "id": "559b0cf11197",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-09-15T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png"
-    },
-    {
-      "id": "c2610ba6bdd1",
-      "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T19:00:00.000Z"
-    },
-    {
-      "id": "b4d7cfb0f9e8",
-      "title": "AWS HealthOmics now supports IAM session policies",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T18:32:00.000Z"
-    },
-    {
-      "id": "ab6a4864f579",
-      "title": "AWS Batch now supports bulk job cancellation and termination",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-17T17:23:00.000Z"
+      "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
       "id": "964ae1dd0fac",
@@ -203,15 +238,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.9.0%20(Current)"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Get ready with the latest beta releases",
-      "url": "https://developer.apple.com/news/?id=rfb1rooi",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-09-16T17:03:39.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/sdk-27-og.png"
-    },
-    {
       "id": "3e92cef7a8d3",
       "title": "Swift-Syntax Prebuilts for use in iOS apps at run-time?",
       "url": "https://forums.swift.org/t/swift-syntax-prebuilts-for-use-in-ios-apps-at-run-time/89600",
@@ -266,15 +292,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "8587315c03c9",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-11T18:26:10.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png"
-    },
-    {
       "id": "22438c6f7a7c",
       "title": "Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0",
       "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
@@ -302,6 +319,15 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
     },
     {
+      "id": "8587315c03c9",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png"
+    },
+    {
       "id": "a86ea82d513c",
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
@@ -309,15 +335,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-11T13:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
-      "id": "115895427a12",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "source": "GitHub Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-10T21:31:19.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png"
     },
     {
       "id": "dcb9ac31082b",
@@ -401,15 +418,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
     },
     {
-      "id": "39fc3b3a1624",
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-28T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
-    },
-    {
       "id": "feaed97fbdf7",
       "title": "Astro 7.3",
       "url": "https://astro.build/blog/astro-730/",
@@ -417,15 +425,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
-    },
-    {
-      "id": "eb9a687bc76e",
-      "title": "Announcing Rust 1.98.1",
-      "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
