@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T13:36:46.691Z",
+  "generatedAt": "2026-09-20T13:50:34.291Z",
   "items": [
     {
       "id": "8b3759fdb1e4",
@@ -119,6 +119,15 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
     },
     {
+      "id": "9f876becc491",
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-3.webp"
+    },
+    {
       "id": "b8054564eb69",
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
@@ -219,14 +228,6 @@
       "category": "languages",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "b8d5063b7e6d",
-      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "url": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-16T18:30:00.000Z"
     },
     {
       "id": "077aebeea6e8",
