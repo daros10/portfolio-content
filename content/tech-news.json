@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-20T13:50:34.291Z",
+  "generatedAt": "2026-09-21T16:07:13.586Z",
   "items": [
+    {
+      "id": "0e1c4e57a0ef",
+      "title": "Bring your Android game to the car screen today",
+      "url": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-21T16:00:48.045Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
+    },
+    {
+      "id": "bf2ea8abc504",
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "source": "Cloudflare Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2V34BA05P39V3QCVSXF412X.01M2V34C4FZEN00M4XFVXH4W2K.png"
+    },
+    {
+      "id": "a71480f94552",
+      "title": "Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions",
+      "url": "https://spring.io/blog/2026/09/21/spring-ai-typesafe-structured-judgment",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260921/spring-ai-typesafe-integration-logo.png"
+    },
     {
       "id": "8b3759fdb1e4",
       "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -45,15 +72,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-18T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GettyImages-1387176996_PNG_-_60_resolution_m.max-600x600.png"
-    },
-    {
-      "id": "fa5d28d59adb",
-      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/devfest-community-workshop-experience-hero.max-600x600.png"
     },
     {
       "id": "c72f60fcf6ad",
@@ -119,15 +137,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
     },
     {
-      "id": "9f876becc491",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-3.webp"
-    },
-    {
       "id": "b8054564eb69",
       "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
@@ -137,13 +146,38 @@
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
-      "id": "4096ef147cca",
-      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "source": "Cloudflare Blog",
+      "id": "c701b57089c5",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-09-15T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png"
+      "publishedAt": "2026-09-21T13:44:34.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png"
+    },
+    {
+      "id": "d1749ba76a98",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "eb792e0fc342",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png"
+    },
+    {
+      "id": "4482a1c009b0",
+      "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-18T22:16:00.000Z"
     },
     {
       "id": "8a762ee50eb0",
@@ -162,12 +196,13 @@
       "publishedAt": "2026-09-18T17:27:00.000Z"
     },
     {
-      "id": "b68c82da697a",
-      "title": "AWS Resilience Hub adds three new capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
-      "source": "AWS",
+      "id": "32700be51707",
+      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-09-18T16:49:00.000Z"
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
     },
     {
       "id": "55f4720a90e1",
@@ -187,31 +222,6 @@
       "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
-      "id": "964ae1dd0fac",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-17T12:00:00.000Z"
-    },
-    {
-      "id": "d625f41f7f61",
-      "title": "The AI magic words",
-      "url": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/",
-      "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-17T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "363bbead77de",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
       "id": "ef60f91a2ed2",
       "title": "A Bootiful Podcast: Spring Tools lead Martin Lippert",
       "url": "https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert",
@@ -228,6 +238,14 @@
       "category": "languages",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "b8d5063b7e6d",
+      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "url": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-16T18:30:00.000Z"
     },
     {
       "id": "077aebeea6e8",
@@ -275,15 +293,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1083bad4513e1eb539137d7a97d4e97575b562f1-1200x630.png?w=1200&h=630&auto=format"
     },
     {
-      "id": "fb2b75c74c73",
-      "title": "This Week in Spring - September 15th, 2026",
-      "url": "https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "c91291addd4f",
       "title": "Unsupported flags in systemLibrary pkg-config files",
       "url": "https://forums.swift.org/t/unsupported-flags-in-systemlibrary-pkg-config-files/89523",
@@ -291,15 +300,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-14T20:57:00.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "22438c6f7a7c",
-      "title": "Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0",
-      "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5d1m5V0YkXO3RfG80oR_CKgil42o_kHWX_FkCe57Mg8y_9CRTBiiEAtyNUNkMAcISJ1i2YsNauolZEiwLMbGV8V-9rb4TjPXOKIldpCasNz0_nmSS01SbsYzAgabgOjh0peLNjbTTUwEdurcC7-0okTm5MTxGBbea1dZPdGA9AO13fJSm6nIkE-I1ym4/s72-c/Introducing-Fast-and-Reliable-Wireless-Debugging-Metadata.jpg"
     },
     {
       "id": "5a46d823d418",
@@ -374,33 +374,6 @@
       "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     },
     {
-      "id": "743968c605bc",
-      "title": "Running executables directly from URL",
-      "url": "https://forums.swift.org/t/running-executables-directly-from-url/89404",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-07T12:55:38.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "666b2f86e8b6",
-      "title": "Kotlin 2.4.20 Released",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-07T11:30:57.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-releases-BlogSocialShare-1280x720-1.png"
-    },
-    {
-      "id": "397c8a4ac571",
-      "title": "Rust debugging survey 2026 results",
-      "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
       "id": "b19657bef932",
       "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
       "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
@@ -419,6 +392,24 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
     },
     {
+      "id": "743968c605bc",
+      "title": "Running executables directly from URL",
+      "url": "https://forums.swift.org/t/running-executables-directly-from-url/89404",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-07T12:55:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "666b2f86e8b6",
+      "title": "Kotlin 2.4.20 Released",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-07T11:30:57.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-releases-BlogSocialShare-1280x720-1.png"
+    },
+    {
       "id": "feaed97fbdf7",
       "title": "Astro 7.3",
       "url": "https://astro.build/blog/astro-730/",
@@ -426,6 +417,15 @@
       "category": "frontend",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
+    },
+    {
+      "id": "da8c825c4479",
+      "title": "Starlight 0.42",
+      "url": "https://astro.build/blog/starlight-042/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp"
     }
   ]
 }
