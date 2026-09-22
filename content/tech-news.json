@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-21T16:07:13.586Z",
+  "generatedAt": "2026-09-22T14:16:26.830Z",
   "items": [
+    {
+      "id": "0c9c25568aa0",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-22T14:04:31.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2RH1BWX8086HXJT21CBD9PE.01M2RH1CGYTGNVA73ZP6Z4GJBR.png"
+    },
+    {
+      "id": "66e8a8962096",
+      "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+      "url": "https://blog.cloudflare.com/worker-previews/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M31XD8PJ2SDSWTWFPP0GSF3Z.01M31XD9GVMHJJD2RAVT50XFTF.png"
+    },
     {
       "id": "0e1c4e57a0ef",
       "title": "Bring your Android game to the car screen today",
@@ -9,6 +27,24 @@
       "category": "mobile",
       "publishedAt": "2026-09-21T16:00:48.045Z",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
+    },
+    {
+      "id": "32c57a68d002",
+      "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Ab2Qxsv.max-1000x1000.jpg"
+    },
+    {
+      "id": "4065a7a74779",
+      "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_7paztIh.max-1000x1000.jpg"
     },
     {
       "id": "bf2ea8abc504",
@@ -29,13 +65,13 @@
       "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260921/spring-ai-typesafe-integration-logo.png"
     },
     {
-      "id": "8b3759fdb1e4",
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "source": "Cloudflare Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-18T17:23:58.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFYDRYA8R4X8XVQJYTED8Q.01M2PFYEWJNSK872MVT1JSCHA4.png"
+      "id": "cb4d3e1bb626",
+      "title": "Releasing Spring for Modern Challenges",
+      "url": "https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/mminella/spring_io_security.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -47,15 +83,6 @@
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
     },
     {
-      "id": "4472e0676eba",
-      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
-      "url": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T16:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_WmFinfJ.max-1000x1000.png"
-    },
-    {
       "id": "e6f3a9c39c33",
       "title": "Leave the Class Path in the Rearview Mirror",
       "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
@@ -63,15 +90,6 @@
       "category": "tools",
       "publishedAt": "2026-09-18T16:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
-    },
-    {
-      "id": "13959694a77b",
-      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
-      "url": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GettyImages-1387176996_PNG_-_60_resolution_m.max-600x600.png"
     },
     {
       "id": "c72f60fcf6ad",
@@ -128,13 +146,13 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
     },
     {
-      "id": "2b5c7cbde6e9",
-      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
-      "source": "Cloudflare Blog",
+      "id": "9f876becc491",
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "source": "Azure",
       "category": "cloud",
-      "publishedAt": "2026-09-16T20:06:17.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-3.webp"
     },
     {
       "id": "b8054564eb69",
@@ -146,30 +164,73 @@
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
-      "id": "c701b57089c5",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-09-21T13:44:34.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png"
+      "id": "7d6e35329909",
+      "title": "Node.js 26.10.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.10.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-22T09:03:49.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
     },
     {
-      "id": "d1749ba76a98",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
+      "id": "adf8fa6e25b2",
+      "title": "Haters think AI agents can't write GPU code? This'll ROCm",
+      "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+      "source": "Stack Overflow Blog",
       "category": "ai",
-      "publishedAt": "2026-09-21T00:00:00.000Z"
+      "publishedAt": "2026-09-22T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "eb792e0fc342",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "source": "Hugging Face",
-      "category": "ai",
+      "id": "f2fc53c59dd6",
+      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-21T20:05:00.000Z"
+    },
+    {
+      "id": "b29bc399bf15",
+      "title": "Amazon EVS now in scope for FedRAMP Class C",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-21T19:08:00.000Z"
+    },
+    {
+      "id": "4f5d2bd68222",
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-21T18:30:00.000Z"
+    },
+    {
+      "id": "f2873c3ba342",
+      "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
+      "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
+    },
+    {
+      "id": "39bc9d0cc2da",
+      "title": "Spring Office Hours Podcast: S5E24 - Jev, Java and Spring",
+      "url": "https://spring.io/blog/2026/09/21/spring-office-hours-podcast-S5E24",
+      "source": "Spring Blog",
+      "category": "languages",
       "publishedAt": "2026-09-21T00:00:00.000Z",
-      "imageUrl": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png"
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "5b5462006ea1",
+      "title": "GitHub Actions leaking secrets when Miri output is cached",
+      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "4482a1c009b0",
@@ -180,31 +241,6 @@
       "publishedAt": "2026-09-18T22:16:00.000Z"
     },
     {
-      "id": "8a762ee50eb0",
-      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T18:34:00.000Z"
-    },
-    {
-      "id": "4ef68cf1eddb",
-      "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T17:27:00.000Z"
-    },
-    {
-      "id": "32700be51707",
-      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
-      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
-    },
-    {
       "id": "55f4720a90e1",
       "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
@@ -212,23 +248,6 @@
       "category": "tools",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/GIT_THUMB_PODCAST_S2_EP2_B2-1.png?fit=3840%2C2160"
-    },
-    {
-      "id": "559b0cf11197",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "id": "ef60f91a2ed2",
-      "title": "A Bootiful Podcast: Spring Tools lead Martin Lippert",
-      "url": "https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-17T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "7ae50386ad96",
@@ -257,6 +276,15 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.9.0%20(Current)"
     },
     {
+      "id": "a44d198ae469",
+      "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+      "url": "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1083bad4513e1eb539137d7a97d4e97575b562f1-1200x630.png?w=1200&h=630&auto=format"
+    },
+    {
       "id": "3e92cef7a8d3",
       "title": "Swift-Syntax Prebuilts for use in iOS apps at run-time?",
       "url": "https://forums.swift.org/t/swift-syntax-prebuilts-for-use-in-ios-apps-at-run-time/89600",
@@ -266,15 +294,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "298247dd1991",
-      "title": "Spring Office Hours Podcast: S5E23 - Java 27 Release Party with Billy Korando",
-      "url": "https://spring.io/blog/2026/09/16/spring-office-hours-podcast-S5E23",
-      "source": "Spring Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "1f279c619cdd",
       "title": "Size-Specialized Memory Allocation",
       "url": "https://go.dev/blog/size-specialized-allocations",
@@ -282,24 +301,6 @@
       "category": "languages",
       "publishedAt": "2026-09-16T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "38de1c7f2258",
-      "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
-      "url": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-15T17:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1083bad4513e1eb539137d7a97d4e97575b562f1-1200x630.png?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "c91291addd4f",
-      "title": "Unsupported flags in systemLibrary pkg-config files",
-      "url": "https://forums.swift.org/t/unsupported-flags-in-systemlibrary-pkg-config-files/89523",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-14T20:57:00.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
       "id": "5a46d823d418",
@@ -318,6 +319,15 @@
       "category": "tools",
       "publishedAt": "2026-09-08T23:05:55.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
+    },
+    {
+      "id": "c91291addd4f",
+      "title": "Unsupported flags in systemLibrary pkg-config files",
+      "url": "https://forums.swift.org/t/unsupported-flags-in-systemlibrary-pkg-config-files/89523",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-14T20:57:00.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
       "id": "8587315c03c9",
@@ -347,15 +357,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.2%20(Current)"
     },
     {
-      "id": "48e7f627ccee",
-      "title": "Node.js 24.21.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.21.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-09T11:55:20.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.21.0%20(LTS)"
-    },
-    {
       "id": "ae47a5f4e507",
       "title": "React 19.3",
       "url": "https://react.dev/blog/2026/09/09/react-19-3",
@@ -363,15 +364,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
-    },
-    {
-      "id": "c790553d7b2f",
-      "title": "Affordable and Fast Migration",
-      "url": "https://astro.build/case-studies/evil-martians/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     },
     {
       "id": "b19657bef932",
@@ -390,6 +382,15 @@
       "category": "frontend",
       "publishedAt": "2026-09-02T01:50:59.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
+    },
+    {
+      "id": "c790553d7b2f",
+      "title": "Affordable and Fast Migration",
+      "url": "https://astro.build/case-studies/evil-martians/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     },
     {
       "id": "743968c605bc",
