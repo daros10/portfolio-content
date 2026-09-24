@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-23T14:34:42.371Z",
+  "generatedAt": "2026-09-24T14:32:57.076Z",
   "items": [
+    {
+      "id": "371b062d7cc2",
+      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-24T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png"
+    },
+    {
+      "id": "4b7378085229",
+      "title": "How Google Cloud Networking Supports Your Fluid Compute Choices for AI Workloads",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/how-google-cloud-networking-supports-your-fl.max-600x600_VSTWN6E.png"
+    },
+    {
+      "id": "8e3335cd5bc3",
+      "title": "The three things today's hottest startups are looking for in their AI stack",
+      "url": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/three-things-startups-trends-header.max-600x600.png"
+    },
+    {
+      "id": "e896566878a9",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-23T18:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cd8117c6d35f",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-09-23T16:00:57.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "5214a2a52a67",
+      "title": "Your architecture diagram is not your resilience",
+      "url": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117657-proving-resilience"
+    },
+    {
+      "id": "03377595a69c",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO24-Azure-Fintech-022-scaled.jpg"
+    },
     {
       "id": "4535e3623dac",
       "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
@@ -9,6 +72,15 @@
       "category": "tools",
       "publishedAt": "2026-09-23T13:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
+    },
+    {
+      "id": "caf37906792d",
+      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-22T18:30:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/updated_chart-1024x768.webp"
     },
     {
       "id": "71bb9c18ff94",
@@ -47,24 +119,6 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
     },
     {
-      "id": "32c57a68d002",
-      "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Ab2Qxsv.max-1000x1000.jpg"
-    },
-    {
-      "id": "4065a7a74779",
-      "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_7paztIh.max-1000x1000.jpg"
-    },
-    {
       "id": "bf2ea8abc504",
       "title": "Python Workers are now generally available",
       "url": "https://blog.cloudflare.com/python-workers-ga/",
@@ -72,24 +126,6 @@
       "category": "languages",
       "publishedAt": "2026-09-21T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2V34BA05P39V3QCVSXF412X.01M2V34C4FZEN00M4XFVXH4W2K.png"
-    },
-    {
-      "id": "a71480f94552",
-      "title": "Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions",
-      "url": "https://spring.io/blog/2026/09/21/spring-ai-typesafe-structured-judgment",
-      "source": "Spring Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260921/spring-ai-typesafe-integration-logo.png"
-    },
-    {
-      "id": "cb4d3e1bb626",
-      "title": "Releasing Spring for Modern Challenges",
-      "url": "https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/mminella/spring_io_security.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -119,24 +155,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
     },
     {
-      "id": "94ad9f737cb6",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "df4ade904b04",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
       "id": "ebaac7e03f0b",
       "title": "Introducing the AndroidX Security State Libraries: A Unified View of Device Security",
       "url": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html",
@@ -146,30 +164,64 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIF-dBH1TU5g6y4jdOLCKBo8KGPlPMUNQAGib3WSE8HPaLHG8iMXhgCiMZ2wyQ4kK93wQGmLiUEWuzlJRKcMVhPak5LantVgo3DEOcRORRJw8lRJk6FytYtUmF6xXyWNTVa2Ki7OD2tEHBS63e4VsDnhW3CkB3YCrWlZzv0DBoaX0v-ZQHBsDMvgmiUXI/s72-c/AndroidX%20Security%20State%20Library_Meta.png"
     },
     {
-      "id": "6b8b0b6f48f2",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-      "source": "GitHub Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-17T00:26:43.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
+      "id": "ead81158a84d",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "9f876becc491",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "source": "Azure",
+      "id": "166e15325f2e",
+      "title": "Spring Web Services 5.1.0-M1 available now",
+      "url": "https://spring.io/blog/2026/09/24/spring-ws-5-1-0-M1-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "f8c5e78b0b1b",
+      "title": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/image-3.webp"
+      "publishedAt": "2026-09-23T22:51:00.000Z"
     },
     {
-      "id": "1d77064cbebb",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-09-23T13:00:00.000Z"
+      "id": "f629750b18d1",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-23T18:29:49.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/MSFTBuild_Blog_Header_01.jpg"
+    },
+    {
+      "id": "095114eac54a",
+      "title": "Node.js 22.23.3 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v22.23.3",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-23T18:22:40.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
+    },
+    {
+      "id": "d208605f0dc5",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-23T17:41:00.000Z"
+    },
+    {
+      "id": "91e0d6d6d51d",
+      "title": "Amazon Connect Customer now provides routing step data in the analytics data lake",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-23T16:00:00.000Z"
     },
     {
       "id": "f71b4953a841",
@@ -181,12 +233,13 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "d0768b5bb2a3",
-      "title": "Billing Transfer now supports automatic billing group creation for two-level transfers",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-22T20:08:00.000Z"
+      "id": "3e3d2a9a2a4b",
+      "title": "Spring Data 2026.1.0-M2 released",
+      "url": "https://spring.io/blog/2026/09/23/spring-data-2026-1-0-M2-released",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "093f0d0f2f3c",
@@ -215,15 +268,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
     },
     {
-      "id": "56880454ce0a",
-      "title": "This Week in Spring - September 22nd, 2026",
-      "url": "https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "8cf2436fc3f2",
       "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
       "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
@@ -239,15 +283,6 @@
       "source": "Kubernetes Blog",
       "category": "cloud",
       "publishedAt": "2026-09-21T18:30:00.000Z"
-    },
-    {
-      "id": "f2873c3ba342",
-      "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
-      "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
     },
     {
       "id": "5b5462006ea1",
@@ -266,6 +301,15 @@
       "category": "tools",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/GIT_THUMB_PODCAST_S2_EP2_B2-1.png?fit=3840%2C2160"
+    },
+    {
+      "id": "b8054564eb69",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
       "id": "7ae50386ad96",
@@ -303,24 +347,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "b8054564eb69",
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-16T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
-    },
-    {
-      "id": "e50ef54ea046",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-10T21:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Container-Management-quadrant-927x1024.webp"
-    },
-    {
       "id": "1f279c619cdd",
       "title": "Size-Specialized Memory Allocation",
       "url": "https://go.dev/blog/size-specialized-allocations",
@@ -348,15 +374,6 @@
       "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
     },
     {
-      "id": "dcb9ac31082b",
-      "title": "Node.js 26.8.2 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.8.2",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-09T16:09:17.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.8.2%20(Current)"
-    },
-    {
       "id": "5a46d823d418",
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
       "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
@@ -373,15 +390,6 @@
       "category": "tools",
       "publishedAt": "2026-09-08T23:05:55.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
-    },
-    {
-      "id": "b19657bef932",
-      "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-03T10:40:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
     },
     {
       "id": "ae47a5f4e507",
@@ -411,22 +419,13 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-releases-BlogSocialShare-1280x720-1.png"
     },
     {
-      "id": "feaed97fbdf7",
-      "title": "Astro 7.3",
-      "url": "https://astro.build/blog/astro-730/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp"
-    },
-    {
-      "id": "10c754d00e33",
-      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
-      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-02T01:50:59.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
+      "id": "b19657bef932",
+      "title": "Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-03T10:40:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
     }
   ]
 }
