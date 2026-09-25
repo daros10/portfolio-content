@@ -1,32 +1,104 @@
 {
-  "generatedAt": "2026-09-24T14:32:57.076Z",
+  "generatedAt": "2026-09-25T14:53:38.217Z",
   "items": [
     {
-      "id": "371b062d7cc2",
-      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
+      "id": "e1b8590ba5d9",
+      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
+      "url": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-25T13:59:49.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*rpPtLPVIw6N8AMF1KNnyWw.png"
+    },
+    {
+      "id": "657af94282d5",
+      "title": "An update on Angular’s TypeScript 7-powered Compiler",
+      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-25T13:59:11.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
+    },
+    {
+      "id": "b3c4883870e4",
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M39NWTASMSZ5QNR34B69DE9W.01M39NWV0E5V2VQFG38NH7SPK8.png"
+    },
+    {
+      "id": "89d99fa23758",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260924/SpringAI-2.1.0-M1-release-3.png"
+    },
+    {
+      "id": "1170668cea05",
+      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-24T23:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/agent-factory-recap-agent-harness.max-600x600.png"
+    },
+    {
+      "id": "07953dd296df",
+      "title": "When chat is the wrong UI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-24T20:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389"
+    },
+    {
+      "id": "3b6ef9a5e8fd",
+      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-09-24T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png"
+      "publishedAt": "2026-09-24T19:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/2026_Gartner_Magic_Quadrant_for_Container_.max-1000x1000.png"
     },
     {
-      "id": "4b7378085229",
-      "title": "How Google Cloud Networking Supports Your Fluid Compute Choices for AI Workloads",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
-      "source": "Google Cloud Blog",
+      "id": "ca5f208a03f2",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "source": "GitHub Blog",
       "category": "ai",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/how-google-cloud-networking-supports-your-fl.max-600x600_VSTWN6E.png"
+      "publishedAt": "2026-09-24T18:26:12.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453"
     },
     {
-      "id": "8e3335cd5bc3",
-      "title": "The three things today's hottest startups are looking for in their AI stack",
-      "url": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
-      "source": "Google Cloud Blog",
+      "id": "191f158a1319",
+      "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
+      "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+      "source": "Docker Blog",
       "category": "ai",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/three-things-startups-trends-header.max-600x600.png"
+      "publishedAt": "2026-09-24T17:15:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/09/agents-trust-factory-transparent.gif"
+    },
+    {
+      "id": "d2a792f6115a",
+      "title": "Build your way: Use any AI agent of your choice in Android Studio",
+      "url": "https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html",
+      "source": "Android Developers",
+      "category": "ai",
+      "publishedAt": "2026-09-24T15:59:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVijlUmODt3ow1Idsd8Ym6PooGBLRhyphenhyphen-iQZDu4HdVmBqD2pXpoToSAS95n2KGmCOPZffaac-lFhs11rbr49ooB6HyzI6ePNGzhQ83xx-5qTwPUOnwlKbWLP5bIPi1CmDy-vU0UVVW_dh-T2jLK33nbI1gBwHxmIBoXV748JStkCSUONOoH5zBBHX0jlLE/s72-c/BYOA-Backup-Metadata_1.png"
+    },
+    {
+      "id": "1876e727c122",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png"
     },
     {
       "id": "e896566878a9",
@@ -56,33 +128,6 @@
       "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117657-proving-resilience"
     },
     {
-      "id": "03377595a69c",
-      "title": "Designing agent-first platforms: What changes when agents do the work",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-23T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO24-Azure-Fintech-022-scaled.jpg"
-    },
-    {
-      "id": "4535e3623dac",
-      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
-    },
-    {
-      "id": "caf37906792d",
-      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-22T18:30:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/updated_chart-1024x768.webp"
-    },
-    {
       "id": "71bb9c18ff94",
       "title": "Land your apps on Googlebook with adaptive development",
       "url": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
@@ -101,15 +146,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2RH1BWX8086HXJT21CBD9PE.01M2RH1CGYTGNVA73ZP6Z4GJBR.png"
     },
     {
-      "id": "66e8a8962096",
-      "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
-      "url": "https://blog.cloudflare.com/worker-previews/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M31XD8PJ2SDSWTWFPP0GSF3Z.01M31XD9GVMHJJD2RAVT50XFTF.png"
-    },
-    {
       "id": "0e1c4e57a0ef",
       "title": "Bring your Android game to the car screen today",
       "url": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html",
@@ -117,15 +153,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-21T16:00:48.045Z",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
-    },
-    {
-      "id": "bf2ea8abc504",
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "source": "Cloudflare Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2V34BA05P39V3QCVSXF412X.01M2V34C4FZEN00M4XFVXH4W2K.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -146,22 +173,55 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
-      "id": "c72f60fcf6ad",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+      "id": "94851b4f60d1",
+      "title": "Professional skepticism is a dev’s best skill",
+      "url": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-25T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "ebaac7e03f0b",
-      "title": "Introducing the AndroidX Security State Libraries: A Unified View of Device Security",
-      "url": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-17T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIF-dBH1TU5g6y4jdOLCKBo8KGPlPMUNQAGib3WSE8HPaLHG8iMXhgCiMZ2wyQ4kK93wQGmLiUEWuzlJRKcMVhPak5LantVgo3DEOcRORRJw8lRJk6FytYtUmF6xXyWNTVa2Ki7OD2tEHBS63e4VsDnhW3CkB3YCrWlZzv0DBoaX0v-ZQHBsDMvgmiUXI/s72-c/AndroidX%20Security%20State%20Library_Meta.png"
+      "id": "6c49d0f77a42",
+      "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T00:58:00.000Z"
+    },
+    {
+      "id": "b987e79c844e",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "b05ce07bf64a",
+      "title": "Amazon EventBridge relaunches event buses for enterprise scale",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-24T21:00:00.000Z"
+    },
+    {
+      "id": "22c0825612bc",
+      "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-24T18:29:00.000Z"
+    },
+    {
+      "id": "e985d81f9505",
+      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
+      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-09-24T16:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "ead81158a84d",
@@ -173,21 +233,13 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "166e15325f2e",
-      "title": "Spring Web Services 5.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/09/24/spring-ws-5-1-0-M1-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
+      "id": "e0645c8a9048",
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "source": "Go Blog",
+      "category": "languages",
       "publishedAt": "2026-09-24T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "f8c5e78b0b1b",
-      "title": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-23T22:51:00.000Z"
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "f629750b18d1",
@@ -208,22 +260,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
     },
     {
-      "id": "d208605f0dc5",
-      "title": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-23T17:41:00.000Z"
-    },
-    {
-      "id": "91e0d6d6d51d",
-      "title": "Amazon Connect Customer now provides routing step data in the analytics data lake",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-23T16:00:00.000Z"
-    },
-    {
       "id": "f71b4953a841",
       "title": "Generate SBOM for package dependencies of Xcode project?",
       "url": "https://forums.swift.org/t/generate-sbom-for-package-dependencies-of-xcode-project/89717",
@@ -233,30 +269,12 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "3e3d2a9a2a4b",
-      "title": "Spring Data 2026.1.0-M2 released",
-      "url": "https://spring.io/blog/2026/09/23/spring-data-2026-1-0-M2-released",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "093f0d0f2f3c",
       "title": "Spotlight on SIG Apps",
       "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
       "source": "Kubernetes Blog",
       "category": "backend",
       "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "id": "85ea026a3dd2",
-      "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
-      "url": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-22T15:06:15.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "7d6e35329909",
@@ -277,14 +295,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "4f5d2bd68222",
-      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-21T18:30:00.000Z"
-    },
-    {
       "id": "5b5462006ea1",
       "title": "GitHub Actions leaking secrets when Miri output is cached",
       "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
@@ -292,15 +302,6 @@
       "category": "languages",
       "publishedAt": "2026-09-21T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "55f4720a90e1",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/GIT_THUMB_PODCAST_S2_EP2_B2-1.png?fit=3840%2C2160"
     },
     {
       "id": "b8054564eb69",
@@ -319,14 +320,6 @@
       "category": "languages",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "b8d5063b7e6d",
-      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "url": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-16T18:30:00.000Z"
     },
     {
       "id": "077aebeea6e8",
@@ -365,15 +358,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "a86ea82d513c",
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
       "id": "5a46d823d418",
       "title": "The Death Of The Button: Why The Best Interface Is No Interface",
       "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
@@ -383,13 +367,13 @@
       "imageUrl": "https://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/1-10-click-process-vs-ai-driven-intent-flow.png"
     },
     {
-      "id": "56a79093bf6b",
-      "title": "6 Benefits of Sandbox Environments (and How Docker Sandboxes Delivers Them)",
-      "url": "https://www.docker.com/blog/benefits-of-sandbox-environments/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-08T23:05:55.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/09/docker_6-Benefits-of-Sandbox-Environments-2320x1218.jpg"
+      "id": "a86ea82d513c",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
     },
     {
       "id": "ae47a5f4e507",
@@ -426,6 +410,24 @@
       "category": "languages",
       "publishedAt": "2026-09-03T10:40:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Wasm-app.png"
+    },
+    {
+      "id": "10c754d00e33",
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
+      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-02T01:50:59.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
+    },
+    {
+      "id": "39fc3b3a1624",
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-08-28T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     }
   ]
 }
