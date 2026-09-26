@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-25T14:53:38.217Z",
+  "generatedAt": "2026-09-26T13:58:50.427Z",
   "items": [
+    {
+      "id": "674e85fd7b2e",
+      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T16:01:03.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "9b69a59e9708",
+      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+      "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_K3ph3LP.max-1000x1000.png"
+    },
+    {
+      "id": "c27028c8ed79",
+      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
+      "url": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/image1_Hd9cY5m.gif"
+    },
+    {
+      "id": "651aa80e0d5f",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-25T15:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/625328348-91f668f6-2565-492d-aa76-632d429fb4ba.png?resize=1024%2C966"
+    },
     {
       "id": "e1b8590ba5d9",
       "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
@@ -26,7 +71,7 @@
       "source": "Cloudflare Blog",
       "category": "cloud",
       "publishedAt": "2026-09-25T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M39NWTASMSZ5QNR34B69DE9W.01M39NWV0E5V2VQFG38NH7SPK8.png"
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png"
     },
     {
       "id": "89d99fa23758",
@@ -38,15 +83,6 @@
       "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260924/SpringAI-2.1.0-M1-release-3.png"
     },
     {
-      "id": "1170668cea05",
-      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-24T23:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/agent-factory-recap-agent-harness.max-600x600.png"
-    },
-    {
       "id": "07953dd296df",
       "title": "When chat is the wrong UI",
       "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
@@ -56,22 +92,13 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389"
     },
     {
-      "id": "3b6ef9a5e8fd",
-      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-24T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/2026_Gartner_Magic_Quadrant_for_Container_.max-1000x1000.png"
-    },
-    {
-      "id": "ca5f208a03f2",
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "source": "GitHub Blog",
+      "id": "6300c364080a",
+      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+      "url": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+      "source": "Azure",
       "category": "ai",
-      "publishedAt": "2026-09-24T18:26:12.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453"
+      "publishedAt": "2026-09-24T18:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/foundry-agent-loop-v2.webp"
     },
     {
       "id": "191f158a1319",
@@ -128,6 +155,15 @@
       "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117657-proving-resilience"
     },
     {
+      "id": "03377595a69c",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO24-Azure-Fintech-022-scaled.jpg"
+    },
+    {
       "id": "71bb9c18ff94",
       "title": "Land your apps on Googlebook with adaptive development",
       "url": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
@@ -155,22 +191,13 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Build for iPhone Duo with new resources",
-      "url": "https://developer.apple.com/news/?id=nyuppv9r",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-09-18T17:00:57.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
-    },
-    {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
+      "id": "d5e5182aee3c",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+      "publishedAt": "2026-09-25T18:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-3.59.20-PM.png"
     },
     {
       "id": "94851b4f60d1",
@@ -182,14 +209,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "6c49d0f77a42",
-      "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-25T00:58:00.000Z"
-    },
-    {
       "id": "b987e79c844e",
       "title": "Spring Boot 4.2.0-M2 available now",
       "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
@@ -197,22 +216,6 @@
       "category": "backend",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "b05ce07bf64a",
-      "title": "Amazon EventBridge relaunches event buses for enterprise scale",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-24T21:00:00.000Z"
-    },
-    {
-      "id": "22c0825612bc",
-      "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-24T18:29:00.000Z"
     },
     {
       "id": "e985d81f9505",
@@ -240,15 +243,6 @@
       "category": "languages",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "f629750b18d1",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-23T18:29:49.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/MSFTBuild_Blog_Header_01.jpg"
     },
     {
       "id": "095114eac54a",
@@ -302,6 +296,24 @@
       "category": "languages",
       "publishedAt": "2026-09-21T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Build for iPhone Duo with new resources",
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-09-18T17:00:57.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
+    },
+    {
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "b8054564eb69",
@@ -419,15 +431,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-02T01:50:59.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*JXJW8LfPB8z3jN6sV0WLEQ.png"
-    },
-    {
-      "id": "39fc3b3a1624",
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-08-28T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png"
     }
   ]
 }
