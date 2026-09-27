@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:58:50.427Z",
+  "generatedAt": "2026-09-27T14:55:17.333Z",
   "items": [
     {
       "id": "674e85fd7b2e",
@@ -9,15 +9,6 @@
       "category": "cloud",
       "publishedAt": "2026-09-25T16:01:03.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png"
-    },
-    {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-25T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "id": "9b69a59e9708",
@@ -36,6 +27,15 @@
       "category": "cloud",
       "publishedAt": "2026-09-25T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/image1_Hd9cY5m.gif"
+    },
+    {
+      "id": "287c4ef510fe",
+      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Single-Step_RL_Training_Loop.max-1000x1000.png"
     },
     {
       "id": "651aa80e0d5f",
@@ -155,15 +155,6 @@
       "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117657-proving-resilience"
     },
     {
-      "id": "03377595a69c",
-      "title": "Designing agent-first platforms: What changes when agents do the work",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-09-23T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO24-Azure-Fintech-022-scaled.jpg"
-    },
-    {
       "id": "71bb9c18ff94",
       "title": "Land your apps on Googlebook with adaptive development",
       "url": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
@@ -189,6 +180,14 @@
       "category": "mobile",
       "publishedAt": "2026-09-21T16:00:48.045Z",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrJTrzZ9lP8s5cDts7_rZ6pN8hKeKGX0TBS-yKLf7gmghzv8jYm-jTpuEit_zDds2v2PsS2-F4aT7K7mULWOWeR-THg3oGwLal0kjVxxwlrD_RFgx24qUq3-YSKlJHU0GBbWJh4XVzCXvV3jjiH8bska_0wd_ysjNOHkuMtFQwOX28mnnibqkOTe0oFk/s72-c/Games_for_car__Meta%20.png"
+    },
+    {
+      "id": "3a1258824e3c",
+      "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-09-25T19:19:00.000Z"
     },
     {
       "id": "d5e5182aee3c",
