@@ -1,41 +1,68 @@
 {
-  "generatedAt": "2026-09-30T16:11:16.084Z",
+  "generatedAt": "2026-10-01T16:48:37.879Z",
   "items": [
     {
-      "id": "db35e4bd70b7",
-      "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
-      "url": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
-      "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/990ce2814b02f8861b8e1fb3eca43b8ef68952a1-2400x1260.png?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "1cd672dbaea3",
-      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+      "id": "052491b0337f",
+      "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
+      "url": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XOxHkrR.max-1000x1000.jpg"
     },
     {
-      "id": "77f67f27fd7d",
-      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "id": "3370bf1d4915",
+      "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
+      "url": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_IPA9ALa.gif"
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/paypal-apache-spark.max-600x600.png"
     },
     {
-      "id": "e2026284ec94",
-      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
-      "url": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
-      "source": "Google Cloud Blog",
+      "id": "317971da35b1",
+      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-01T15:34:02.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJPKAE7MFBW626XHNC9QVA.png"
+    },
+    {
+      "id": "cff0cfdac8b9",
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "source": "Cloudflare Blog",
       "category": "ai",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GettyImages-2175580039.max-600x600.jpg"
+      "publishedAt": "2026-10-01T13:04:19.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png"
+    },
+    {
+      "id": "fdf17c9a9e66",
+      "title": "Introducing the Server Side Cloud Swift SDK",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/introducing-the-server-side-cloud-swift-sdk-.max-600x600.png"
+    },
+    {
+      "id": "319e51413ab6",
+      "title": "Introducing Workers KV Instant — powered by Quicksilver",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VEKFJ2MXMCNB0J008305V4.01M3VEKGPXTJDYC3F5AM7MC3FW.png"
+    },
+    {
+      "id": "fc31e5dc5fea",
+      "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%",
+      "url": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html",
+      "source": "Android Developers",
+      "category": "ai",
+      "publishedAt": "2026-09-30T19:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiToIrLld0-C-pvslgz8at79PAB8PEmBYXR2-gn52dMNYSRRSS7CyH72MMAaYfYzlyytkN7zetm8aNLzPzUM4a6KSSNIbxQwTE6Q4hvF-8pXEAowszAsKUJprdYHdIf04ywrg3J90aCzt0gXrzV79Wic16zJJlmh-qCpNAOku_ntRvIRnXk4vnPcJ1MVtk/s72-c/ComposeCarousel-Header-3.jpg"
     },
     {
       "id": "396b95f3429c",
@@ -47,6 +74,15 @@
       "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
     },
     {
+      "id": "ea795ec9f41b",
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "url": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/word-image-54217-2.webp"
+    },
+    {
       "id": "a03c40f9e37f",
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
       "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
@@ -56,40 +92,13 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
-      "id": "fa555d9a2322",
-      "title": "Cloudflare Impact reaches $100 million in donations",
-      "url": "https://blog.cloudflare.com/100-million-donations/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-09-30T13:01:55.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3RZ3WTX78RCB7KKEB1T8J44.01M3RZ3XRZSENAMJGQMGNWZDHZ.png"
-    },
-    {
-      "id": "ee440c0d1eba",
-      "title": "Cut your AI spend with AI Gateway's Auto Router",
-      "url": "https://blog.cloudflare.com/auto-router/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-30T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QZK4P6A5H0YYAEW0QN6YNC.png"
-    },
-    {
-      "id": "20c98f8389b1",
-      "title": "Detect and send production issues straight to your agent",
-      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-30T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QYSQZS2E3XN2KS33WWKWGT.png"
-    },
-    {
       "id": "3772ccdd9663",
       "title": "Driving growth on Google Play: The next era of subscriptions",
       "url": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html",
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-09-29T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5bjtpi808KG_A4lt-4zQBtAo6F1LaiMyL9V8ORRCKkKccEgsK51nO5JNATpcisYVwpui8HehnsmxRqfl1R1HrVSPPxiCSmHoZWKwsjzPvMj2h4sy31_2alfQ0JJsiAEWivOBjc1gjLRdnEpaiP7U7RjXu55XHVa82d5KNp4ySobyINjkZjO8vCdqpuI/s72-c/ABL-0137-Header.png"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4hEv-n7l4L86PQZkkNb_7bfV98Mt6LNSApcYb2_suH6jldGZfqWilw5uLlDooM9vFzw7mHdheo4AevL2UK0IP1mvZ2YkhXn4Oe-AhB3D4mT3kIopfrEpgCCW-QDnc6HWteF0E6aPRo3sXUBwiMAYTu5dXiVP5jm8tTIpG53E27sRIWjWztkUfP2U7Bf8/s72-c/ABL-0137-Meta.png"
     },
     {
       "id": "693eb427693b",
@@ -99,6 +108,15 @@
       "category": "mobile",
       "publishedAt": "2026-09-29T15:27:28.000Z",
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
+    },
+    {
+      "id": "2397c8680bc4",
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "url": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-29T06:30:00.000Z",
+      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117414-fabriciqinm365"
     },
     {
       "id": "ebb851930de7",
@@ -119,15 +137,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/08/633863693-a990bd2a-bccb-49ad-a71b-1492598801cf.png?resize=1024%2C244"
     },
     {
-      "id": "c27a1c21dcd5",
-      "title": "Highlights from Git 2.56",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-28T17:23:33.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/657850736-08c69f71-39c2-42ed-b793-cc07f6d29a89.png?resize=1024%2C597"
-    },
-    {
       "id": "92b5c47627d8",
       "title": "Build intelligent Android apps: In-app agentic workflows",
       "url": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html",
@@ -135,15 +144,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-28T16:00:00.000Z",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYNWhjTRYuGX2C-P6Og2DjBVigoK6Vb2bqRy90_7JiTYZzzpHwmncA1f-A5t_KwuiK8UTAn3ilbSAUOF82oZyKFmA6xL6Xd2bOsbonI5IgAws-igxFhSk1clu-snV0jKL4o8uSa5Kx2VnLNDnhgD8IdSLAFtIQv6ILSPAVBj1tQtCB6n-4GzwCztAcSM/s72-c/0817%20Booking%20assistant%20agentic%20cloud_Meta.png"
-    },
-    {
-      "id": "c60ba9876d98",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "url": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO20b_Evan_office_001-1-scaled.jpg"
     },
     {
       "id": "6cd482ddbb18",
@@ -182,6 +182,60 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
+      "id": "89d99fa23758",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260924/SpringAI-2.1.0-M1-release-3.png"
+    },
+    {
+      "id": "191f158a1319",
+      "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
+      "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-09-24T17:15:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/09/agents-trust-factory-transparent.gif"
+    },
+    {
+      "id": "8e0951c2b255",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-01T15:07:16.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png"
+    },
+    {
+      "id": "fe7da842bf0b",
+      "title": "A look back before we look forward: A Developer Survey retrospective",
+      "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-01T14:47:33.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f1eaeb7033473c3cb15daf4abd4560630f1c5393-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "67d8b94fc717",
+      "title": "A Bootiful Podcast: JReleaser creator and fellow Java Champion Andres Almiray",
+      "url": "https://spring.io/blog/2026/10/01/a-bootiful-podcast-andres-almiray",
+      "source": "Spring Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "cb5a7e360bc1",
+      "title": "Announcing Rust 1.99.0",
+      "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "9cdc11585ef0",
       "title": "Anyone can start building verified knowledge with Stack Internal",
       "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/",
@@ -189,15 +243,6 @@
       "category": "tools",
       "publishedAt": "2026-09-30T16:00:00.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d08132a755affce02a3a537cfc79e17db41a0ce7-2400x1260.png?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "58f9fe81298e",
-      "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
-      "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-30T14:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f1eaeb7033473c3cb15daf4abd4560630f1c5393-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
     },
     {
       "id": "e217ef8b1828",
@@ -216,22 +261,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
-    },
-    {
-      "id": "fd69a1966c14",
-      "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-29T21:10:00.000Z"
-    },
-    {
-      "id": "389ecd801cc7",
-      "title": "Amazon RDS now adds full snapshot size information to the Console and API",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-09-29T21:00:23.000Z"
     },
     {
       "id": "087f91671161",
@@ -261,13 +290,22 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "b987e79c844e",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "7d7079a0abaf",
+      "title": "Build for iPhone Duo with new resources",
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-09-18T17:00:57.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
+    },
+    {
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "e985d81f9505",
@@ -295,33 +333,6 @@
       "category": "backend",
       "publishedAt": "2026-09-23T18:22:40.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
-    },
-    {
-      "id": "5214a2a52a67",
-      "title": "Your architecture diagram is not your resilience",
-      "url": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117657-proving-resilience"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Build for iPhone Duo with new resources",
-      "url": "https://developer.apple.com/news/?id=nyuppv9r",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-09-18T17:00:57.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
-    },
-    {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "f71b4953a841",
@@ -368,13 +379,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "7ae50386ad96",
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-17T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "id": "b8054564eb69",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
       "id": "077aebeea6e8",
@@ -395,24 +406,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "b8054564eb69",
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-16T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
-    },
-    {
-      "id": "1f279c619cdd",
-      "title": "Size-Specialized Memory Allocation",
-      "url": "https://go.dev/blog/size-specialized-allocations",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
       "id": "a86ea82d513c",
       "title": "Building A UX ROI Case That Survives The Boardroom",
       "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
@@ -429,6 +422,15 @@
       "category": "frontend",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
+    },
+    {
+      "id": "c790553d7b2f",
+      "title": "Affordable and Fast Migration",
+      "url": "https://astro.build/case-studies/evil-martians/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     }
   ]
 }
