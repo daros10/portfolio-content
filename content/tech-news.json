@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-01T16:48:37.879Z",
+  "generatedAt": "2026-10-02T16:02:16.494Z",
   "items": [
+    {
+      "id": "38ccbac90b61",
+      "title": "Device Streaming and Android skills - available in Android CLI",
+      "url": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbzB-dXz9U08GGVzIbJwcD2JgbDYuo-MRS4raEacQLDT6hisodssycv_PNrnMC_6sy4iEHBfq4ve9jmBC28ejRuTu0aXeeCKCITDF9_U84AhkZZPG9gpVWrYrqRa9yooqUR1Tw2qIqK2a6fBI5SVNQA31pwgw_AsmgdsX0TbzrNQo0NCk5c2-NvJkDgs/s72-c/%5BABL_135%5D%20Android%20CLI%20&%20Android%20skills_Blog.png"
+    },
+    {
+      "id": "d26cbd179582",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5282f8714e4c",
+      "title": "Introducing Web Search API via AI Gateway",
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-02T13:28:10.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMA3KN5CDQCSF0YHZ0WFBH.01M3XMA452ZT41JBXKRPY1HH3F.png"
+    },
+    {
+      "id": "afad8aacc340",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
+    },
+    {
+      "id": "bc7eda42cb3f",
+      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+      "url": "https://blog.cloudflare.com/cloudflare-tracing/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XE9TZRDPWVKPPQNAVJDCYT.01M3XE9W5HREEF8Q70M7G034M2.png"
+    },
+    {
+      "id": "fe30c269013d",
+      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+      "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_bE1RXzx.max-600x600.png"
+    },
+    {
+      "id": "5ad2af65d4af",
+      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_mhC0eeP.max-1000x1000.png"
+    },
+    {
+      "id": "9f5dfd796365",
+      "title": "Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers",
+      "url": "https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261006/spring-ai-rag-advisor-overview.png"
+    },
     {
       "id": "052491b0337f",
       "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
@@ -9,51 +81,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-01T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XOxHkrR.max-1000x1000.jpg"
-    },
-    {
-      "id": "3370bf1d4915",
-      "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
-      "url": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/paypal-apache-spark.max-600x600.png"
-    },
-    {
-      "id": "317971da35b1",
-      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T15:34:02.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJPKAE7MFBW626XHNC9QVA.png"
-    },
-    {
-      "id": "cff0cfdac8b9",
-      "title": "One year later: Sovereign AI and the fight for choice",
-      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-01T13:04:19.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png"
-    },
-    {
-      "id": "fdf17c9a9e66",
-      "title": "Introducing the Server Side Cloud Swift SDK",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/introducing-the-server-side-cloud-swift-sdk-.max-600x600.png"
-    },
-    {
-      "id": "319e51413ab6",
-      "title": "Introducing Workers KV Instant — powered by Quicksilver",
-      "url": "https://blog.cloudflare.com/workers-kv-instant/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VEKFJ2MXMCNB0J008305V4.01M3VEKGPXTJDYC3F5AM7MC3FW.png"
     },
     {
       "id": "fc31e5dc5fea",
@@ -72,15 +99,6 @@
       "category": "ai",
       "publishedAt": "2026-09-30T15:03:07.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "ea795ec9f41b",
-      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-      "url": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/word-image-54217-2.webp"
     },
     {
       "id": "a03c40f9e37f",
@@ -110,15 +128,6 @@
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
-      "id": "2397c8680bc4",
-      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-      "url": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-29T06:30:00.000Z",
-      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117414-fabriciqinm365"
-    },
-    {
       "id": "ebb851930de7",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -128,22 +137,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "6d8f7f549467",
-      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/08/633863693-a990bd2a-bccb-49ad-a71b-1492598801cf.png?resize=1024%2C244"
-    },
-    {
-      "id": "92b5c47627d8",
-      "title": "Build intelligent Android apps: In-app agentic workflows",
-      "url": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYNWhjTRYuGX2C-P6Og2DjBVigoK6Vb2bqRy90_7JiTYZzzpHwmncA1f-A5t_KwuiK8UTAn3ilbSAUOF82oZyKFmA6xL6Xd2bOsbonI5IgAws-igxFhSk1clu-snV0jKL4o8uSa5Kx2VnLNDnhgD8IdSLAFtIQv6ILSPAVBj1tQtCB6n-4GzwCztAcSM/s72-c/0817%20Booking%20assistant%20agentic%20cloud_Meta.png"
+      "id": "c60ba9876d98",
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+      "url": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-28T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO20b_Evan_office_001-1-scaled.jpg"
     },
     {
       "id": "6cd482ddbb18",
@@ -155,49 +155,74 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Current-compilation-with-IDEA-1.jpg"
     },
     {
-      "id": "674e85fd7b2e",
-      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
+      "id": "d599f0a282be",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-02T15:19:50.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png"
+    },
+    {
+      "id": "8a253d0557ff",
+      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/03/branchingout.png?fit=2402%2C1263"
+    },
+    {
+      "id": "88ae5f936034",
+      "title": "Constraints that make developers faster",
+      "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-02T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "5f8ccfa3a8af",
+      "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-25T16:01:03.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png"
+      "publishedAt": "2026-10-02T03:35:00.000Z"
     },
     {
-      "id": "e1b8590ba5d9",
-      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
-      "url": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-25T13:59:49.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*rpPtLPVIw6N8AMF1KNnyWw.png"
-    },
-    {
-      "id": "657af94282d5",
-      "title": "An update on Angular’s TypeScript 7-powered Compiler",
-      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "cf877b657992",
+      "title": "Demoting i686 Windows targets to std-only",
+      "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+      "source": "Rust Blog",
       "category": "languages",
-      "publishedAt": "2026-09-25T13:59:11.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "89d99fa23758",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "source": "Spring Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20260924/SpringAI-2.1.0-M1-release-3.png"
+      "id": "fd798cf29d84",
+      "title": "Amazon Redshift now supports cross-Region queries for your data lake",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-01T18:41:00.000Z"
     },
     {
-      "id": "191f158a1319",
-      "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
-      "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+      "id": "352d2d7c3e13",
+      "title": "Trust Docker for the agents you don’t",
+      "url": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
       "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-09-24T17:15:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/09/agents-trust-factory-transparent.gif"
+      "category": "tools",
+      "publishedAt": "2026-10-01T18:26:12.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
+      "url": "https://developer.apple.com/news/?id=w4atic4c",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-01T17:00:11.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
       "id": "8e0951c2b255",
@@ -234,15 +259,6 @@
       "category": "languages",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "9cdc11585ef0",
-      "title": "Anyone can start building verified knowledge with Stack Internal",
-      "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d08132a755affce02a3a537cfc79e17db41a0ce7-2400x1260.png?w=1200&h=630&auto=format"
     },
     {
       "id": "e217ef8b1828",
@@ -290,22 +306,13 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Build for iPhone Duo with new resources",
-      "url": "https://developer.apple.com/news/?id=nyuppv9r",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-09-18T17:00:57.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg"
-    },
-    {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+      "id": "657af94282d5",
+      "title": "An update on Angular’s TypeScript 7-powered Compiler",
+      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-25T13:59:11.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
       "id": "e985d81f9505",
@@ -370,13 +377,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "5b5462006ea1",
-      "title": "GitHub Actions leaking secrets when Miri output is cached",
-      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "b8054564eb69",
@@ -422,15 +429,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
-    },
-    {
-      "id": "c790553d7b2f",
-      "title": "Affordable and Fast Migration",
-      "url": "https://astro.build/case-studies/evil-martians/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     }
   ]
 }
