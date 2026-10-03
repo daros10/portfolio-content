@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-02T16:02:16.494Z",
+  "generatedAt": "2026-10-03T14:28:48.700Z",
   "items": [
+    {
+      "id": "e448a42568bc",
+      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-02T19:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_5g4QmVa.gif"
+    },
+    {
+      "id": "429215ba772b",
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "url": "https://blog.cloudflare.com/streamline/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T16:13:45.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKCAN8X5Q5KQ1Q5EW20NBG.01M3XKCB43AH4EZPQE0QQ7MNND.png"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+    },
+    {
+      "id": "fe30c269013d",
+      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+      "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_bE1RXzx.max-600x600.png"
+    },
     {
       "id": "38ccbac90b61",
       "title": "Device Streaming and Android skills - available in Android CLI",
@@ -8,7 +44,7 @@
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-10-02T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbzB-dXz9U08GGVzIbJwcD2JgbDYuo-MRS4raEacQLDT6hisodssycv_PNrnMC_6sy4iEHBfq4ve9jmBC28ejRuTu0aXeeCKCITDF9_U84AhkZZPG9gpVWrYrqRa9yooqUR1Tw2qIqK2a6fBI5SVNQA31pwgw_AsmgdsX0TbzrNQo0NCk5c2-NvJkDgs/s72-c/%5BABL_135%5D%20Android%20CLI%20&%20Android%20skills_Blog.png"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDUqavb1UUynRdoV_70aed9cNtzw60CqiCcmaul3YImihcTyOPjSj_aiFvzoNa82f_l3N4EuAuOlxbx3L92Kv5-piru8kElDCNOXljPrOesxK5V9ytExhGxV1mP9ZbmV4H_0Dwffp9x29RTNon6TKW4ztLP5kYp9WSMyBEwx3mW9zaxJzGYk8Kbm5NSWI/s72-c/%5BABL_135%5D%20Android%20CLI%20&%20Android%20skills_Meta.png"
     },
     {
       "id": "d26cbd179582",
@@ -38,33 +74,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
     },
     {
-      "id": "bc7eda42cb3f",
-      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
-      "url": "https://blog.cloudflare.com/cloudflare-tracing/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XE9TZRDPWVKPPQNAVJDCYT.01M3XE9W5HREEF8Q70M7G034M2.png"
-    },
-    {
-      "id": "fe30c269013d",
-      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
-      "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_bE1RXzx.max-600x600.png"
-    },
-    {
-      "id": "5ad2af65d4af",
-      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_mhC0eeP.max-1000x1000.png"
-    },
-    {
       "id": "9f5dfd796365",
       "title": "Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers",
       "url": "https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev",
@@ -74,31 +83,22 @@
       "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261006/spring-ai-rag-advisor-overview.png"
     },
     {
-      "id": "052491b0337f",
-      "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
-      "url": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XOxHkrR.max-1000x1000.jpg"
-    },
-    {
       "id": "fc31e5dc5fea",
       "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%",
       "url": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html",
       "source": "Android Developers",
       "category": "ai",
       "publishedAt": "2026-09-30T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiToIrLld0-C-pvslgz8at79PAB8PEmBYXR2-gn52dMNYSRRSS7CyH72MMAaYfYzlyytkN7zetm8aNLzPzUM4a6KSSNIbxQwTE6Q4hvF-8pXEAowszAsKUJprdYHdIf04ywrg3J90aCzt0gXrzV79Wic16zJJlmh-qCpNAOku_ntRvIRnXk4vnPcJ1MVtk/s72-c/ComposeCarousel-Header-3.jpg"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KN_Y7DVtBcMxSP0aPw0lhOEPjIL8pl7TlcJ1M4LrAV6DuZ2MF6XfjNqmrnFeZXNijVj81-wsqzjGqcuFt8Y9pcGbfRekTh4e5o4yFBLrlbQRhQZ-5HIPFQ8sPvOPtwhN8BT3NEbOVvKJTlsC4MWek8D7KKmaB3Xyp8aIxxFTB3T04JuDmb9a8Y4-U9U/s72-c/ComposeCarousel-Meta-3%20(1).jpg"
     },
     {
-      "id": "396b95f3429c",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-09-30T15:03:07.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
+      "id": "ea795ec9f41b",
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "url": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/word-image-54217-2.webp"
     },
     {
       "id": "a03c40f9e37f",
@@ -128,6 +128,15 @@
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
+      "id": "2397c8680bc4",
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "url": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-09-29T06:30:00.000Z",
+      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117414-fabriciqinm365"
+    },
+    {
       "id": "ebb851930de7",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -135,15 +144,6 @@
       "category": "ai",
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c60ba9876d98",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "url": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO20b_Evan_office_001-1-scaled.jpg"
     },
     {
       "id": "6cd482ddbb18",
@@ -155,6 +155,39 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Current-compilation-with-IDEA-1.jpg"
     },
     {
+      "id": "834a1a98e137",
+      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T20:18:00.000Z"
+    },
+    {
+      "id": "189fec623305",
+      "title": "AWS Health introduces the version catalog for software lifecycle management",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-02T18:09:00.000Z"
+    },
+    {
+      "id": "8e206c4d9ed6",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-02T16:15:00.000Z"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-02T16:00:19.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png"
+    },
+    {
       "id": "d599f0a282be",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -162,15 +195,6 @@
       "category": "ai",
       "publishedAt": "2026-10-02T15:19:50.000Z",
       "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png"
-    },
-    {
-      "id": "8a253d0557ff",
-      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/03/branchingout.png?fit=2402%2C1263"
     },
     {
       "id": "88ae5f936034",
@@ -182,14 +206,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "5f8ccfa3a8af",
-      "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T03:35:00.000Z"
-    },
-    {
       "id": "cf877b657992",
       "title": "Demoting i686 Windows targets to std-only",
       "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
@@ -199,12 +215,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "fd798cf29d84",
-      "title": "Amazon Redshift now supports cross-Region queries for your data lake",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-01T18:41:00.000Z"
+      "id": "aa4c22f4b58e",
+      "title": "Arch-specific SIMD in Go",
+      "url": "https://go.dev/blog/archsimd",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "352d2d7c3e13",
@@ -214,15 +231,6 @@
       "category": "tools",
       "publishedAt": "2026-10-01T18:26:12.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
-      "url": "https://developer.apple.com/news/?id=w4atic4c",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-01T17:00:11.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
       "id": "8e0951c2b255",
@@ -366,15 +374,6 @@
       "category": "backend",
       "publishedAt": "2026-09-22T09:03:49.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
-    },
-    {
-      "id": "8cf2436fc3f2",
-      "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
-      "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "e6f3a9c39c33",
