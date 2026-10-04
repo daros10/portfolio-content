@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:28:48.700Z",
+  "generatedAt": "2026-10-04T15:02:44.136Z",
   "items": [
     {
       "id": "e448a42568bc",
@@ -92,6 +92,15 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KN_Y7DVtBcMxSP0aPw0lhOEPjIL8pl7TlcJ1M4LrAV6DuZ2MF6XfjNqmrnFeZXNijVj81-wsqzjGqcuFt8Y9pcGbfRekTh4e5o4yFBLrlbQRhQZ-5HIPFQ8sPvOPtwhN8BT3NEbOVvKJTlsC4MWek8D7KKmaB3Xyp8aIxxFTB3T04JuDmb9a8Y4-U9U/s72-c/ComposeCarousel-Meta-3%20(1).jpg"
     },
     {
+      "id": "396b95f3429c",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-09-30T15:03:07.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
+    },
+    {
       "id": "ea795ec9f41b",
       "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
       "url": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
@@ -155,6 +164,15 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Current-compilation-with-IDEA-1.jpg"
     },
     {
+      "id": "89764eae0099",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png"
+    },
+    {
       "id": "834a1a98e137",
       "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
@@ -171,14 +189,6 @@
       "publishedAt": "2026-10-02T18:09:00.000Z"
     },
     {
-      "id": "8e206c4d9ed6",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-02T16:15:00.000Z"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://developer.apple.com/news/?id=p6zjojqw",
@@ -186,15 +196,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-02T16:00:19.000Z",
       "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png"
-    },
-    {
-      "id": "d599f0a282be",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-02T15:19:50.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png"
     },
     {
       "id": "88ae5f936034",
