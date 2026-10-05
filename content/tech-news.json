@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-04T15:02:44.136Z",
+  "generatedAt": "2026-10-05T18:58:30.904Z",
   "items": [
+    {
+      "id": "95bf95542c30",
+      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
+      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_7EZHDX9.gif"
+    },
+    {
+      "id": "d1602119935a",
+      "title": "Everything we launched during Birthday Week 2026",
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-05T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M45M6F7F4N2RT9KMZ0Q5DRQT.png"
+    },
+    {
+      "id": "917bc7059d97",
+      "title": "One year later: the power of 1.1.1.1 interns",
+      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-05T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M40BZTRXM8420FKPHKZ2HBJT.png"
+    },
     {
       "id": "e448a42568bc",
       "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
@@ -11,22 +38,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_5g4QmVa.gif"
     },
     {
-      "id": "429215ba772b",
-      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-      "url": "https://blog.cloudflare.com/streamline/",
+      "id": "afad8aacc340",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
       "source": "Cloudflare Blog",
       "category": "cloud",
-      "publishedAt": "2026-10-02T16:13:45.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKCAN8X5Q5KQ1Q5EW20NBG.01M3XKCB43AH4EZPQE0QQ7MNND.png"
-    },
-    {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+      "publishedAt": "2026-10-02T18:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
     },
     {
       "id": "fe30c269013d",
@@ -54,24 +72,6 @@
       "category": "ai",
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5282f8714e4c",
-      "title": "Introducing Web Search API via AI Gateway",
-      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-02T13:28:10.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMA3KN5CDQCSF0YHZ0WFBH.01M3XMA452ZT41JBXKRPY1HH3F.png"
-    },
-    {
-      "id": "afad8aacc340",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
     },
     {
       "id": "9f5dfd796365",
@@ -155,22 +155,30 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "6cd482ddbb18",
-      "title": "A More Reliable Compilation Scheme for Kotlin Multiplatform Modules",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/a-more-reliable-compilation-scheme-for-kotlin-multiplatform-modules/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-28T09:38:26.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/Current-compilation-with-IDEA-1.jpg"
+      "id": "e4f96ea3e7c3",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-05T15:59:40.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png"
     },
     {
-      "id": "89764eae0099",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-03T22:56:48.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png"
+      "id": "50870647a43e",
+      "title": "Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-05T10:46:19.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/KM-social-BlogSocialShare-1280x720-1.png"
+    },
+    {
+      "id": "b075a15ef79b",
+      "title": "AWS Private CA now provides detailed certificate issuance logs",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-05T09:00:00.000Z"
     },
     {
       "id": "834a1a98e137",
@@ -179,14 +187,6 @@
       "source": "AWS",
       "category": "cloud",
       "publishedAt": "2026-10-02T20:18:00.000Z"
-    },
-    {
-      "id": "189fec623305",
-      "title": "AWS Health introduces the version catalog for software lifecycle management",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T18:09:00.000Z"
     },
     {
       "id": "7d7079a0abaf",
@@ -286,15 +286,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
-    },
-    {
-      "id": "087f91671161",
-      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-29T15:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png?fit=1200%2C630"
     },
     {
       "id": "82db0cd76f9f",
@@ -429,6 +420,15 @@
       "category": "frontend",
       "publishedAt": "2026-09-09T00:00:00.000Z",
       "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
+    },
+    {
+      "id": "c790553d7b2f",
+      "title": "Affordable and Fast Migration",
+      "url": "https://astro.build/case-studies/evil-martians/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     }
   ]
 }
