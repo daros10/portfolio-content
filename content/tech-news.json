@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-10-05T18:58:30.904Z",
+  "generatedAt": "2026-10-06T16:24:52.913Z",
   "items": [
     {
-      "id": "95bf95542c30",
-      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
-      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "id": "97c9e3a42c0b",
+      "title": "Tales from the 2026 Developer Survey results",
+      "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-06T17:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "304b9ee1a8d6",
+      "title": "AlloyDB: A unified database engine for hybrid search",
+      "url": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
       "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-05T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_7EZHDX9.gif"
+      "category": "cloud",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XqX6b2x.max-1000x1000.png"
+    },
+    {
+      "id": "af6c75c26110",
+      "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
+      "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_bmVFk8w.max-1000x1000.jpg"
+    },
+    {
+      "id": "52954c80b9f7",
+      "title": "A Practical Guide To Naming Things",
+      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
+    },
+    {
+      "id": "67d8e346daed",
+      "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
+      "url": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GPS_Summit2025_BlogPreview_5.max-600x600.png"
+    },
+    {
+      "id": "261bece6d30f",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-05T18:00:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/node-swap-chart.svg"
     },
     {
       "id": "d1602119935a",
@@ -29,15 +74,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M40BZTRXM8420FKPHKZ2HBJT.png"
     },
     {
-      "id": "e448a42568bc",
-      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-02T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_5g4QmVa.gif"
-    },
-    {
       "id": "afad8aacc340",
       "title": "8 major updates to Cloudflare Observability",
       "url": "https://blog.cloudflare.com/one-observability-platform/",
@@ -45,15 +81,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-02T18:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
-    },
-    {
-      "id": "fe30c269013d",
-      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
-      "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_bE1RXzx.max-600x600.png"
     },
     {
       "id": "38ccbac90b61",
@@ -119,40 +146,48 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
-      "id": "3772ccdd9663",
-      "title": "Driving growth on Google Play: The next era of subscriptions",
-      "url": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4hEv-n7l4L86PQZkkNb_7bfV98Mt6LNSApcYb2_suH6jldGZfqWilw5uLlDooM9vFzw7mHdheo4AevL2UK0IP1mvZ2YkhXn4Oe-AhB3D4mT3kIopfrEpgCCW-QDnc6HWteF0E6aPRo3sXUBwiMAYTu5dXiVP5jm8tTIpG53E27sRIWjWztkUfP2U7Bf8/s72-c/ABL-0137-Meta.png"
+      "id": "ab85acc9f216",
+      "title": "The results of the 2026 Developer Survey are here!",
+      "url": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/38cc717508afa8cc3a85ac3a849aea2e8baf53e2-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
     },
     {
-      "id": "693eb427693b",
-      "title": "Expanding the power of build tool plugins to build something fun",
-      "url": "https://forums.swift.org/t/expanding-the-power-of-build-tool-plugins-to-build-something-fun/89819",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-29T15:27:28.000Z",
-      "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
-    },
-    {
-      "id": "2397c8680bc4",
-      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-      "url": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-09-29T06:30:00.000Z",
-      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1117414-fabriciqinm365"
-    },
-    {
-      "id": "ebb851930de7",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
+      "id": "085f7195b66f",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+      "publishedAt": "2026-10-06T06:44:39.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Prepare and submit your apps for iPhone Duo",
+      "url": "https://developer.apple.com/news/?id=kkphp5qo",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-06T00:05:33.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
+    },
+    {
+      "id": "dfa6cd118ba4",
+      "title": "This Week in Spring - October 6th, 2026",
+      "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "dc3b6b7d7abe",
+      "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-10-05T21:42:00.000Z"
     },
     {
       "id": "e4f96ea3e7c3",
@@ -164,6 +199,14 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png"
     },
     {
+      "id": "78ad53815846",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-05T15:00:00.000Z"
+    },
+    {
       "id": "50870647a43e",
       "title": "Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/",
@@ -173,29 +216,13 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/KM-social-BlogSocialShare-1280x720-1.png"
     },
     {
-      "id": "b075a15ef79b",
-      "title": "AWS Private CA now provides detailed certificate issuance logs",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-05T09:00:00.000Z"
-    },
-    {
-      "id": "834a1a98e137",
-      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T20:18:00.000Z"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-02T16:00:19.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png"
+      "id": "65ce981afbd1",
+      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
+      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "88ae5f936034",
@@ -243,24 +270,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png"
     },
     {
-      "id": "fe7da842bf0b",
-      "title": "A look back before we look forward: A Developer Survey retrospective",
-      "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-01T14:47:33.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f1eaeb7033473c3cb15daf4abd4560630f1c5393-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "67d8b94fc717",
-      "title": "A Bootiful Podcast: JReleaser creator and fellow Java Champion Andres Almiray",
-      "url": "https://spring.io/blog/2026/10/01/a-bootiful-podcast-andres-almiray",
-      "source": "Spring Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "cb5a7e360bc1",
       "title": "Announcing Rust 1.99.0",
       "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
@@ -288,22 +297,22 @@
       "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
     },
     {
-      "id": "82db0cd76f9f",
-      "title": "The State of Kotlin in 2026 Report",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-29T12:38:29.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/X-800x418-1-1.png"
+      "id": "3772ccdd9663",
+      "title": "Driving growth on Google Play: The next era of subscriptions",
+      "url": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4hEv-n7l4L86PQZkkNb_7bfV98Mt6LNSApcYb2_suH6jldGZfqWilw5uLlDooM9vFzw7mHdheo4AevL2UK0IP1mvZ2YkhXn4Oe-AhB3D4mT3kIopfrEpgCCW-QDnc6HWteF0E6aPRo3sXUBwiMAYTu5dXiVP5jm8tTIpG53E27sRIWjWztkUfP2U7Bf8/s72-c/ABL-0137-Meta.png"
     },
     {
-      "id": "563d1b384061",
-      "title": "This Week in Spring - September 29th, 2026",
-      "url": "https://spring.io/blog/2026/09/29/this-week-in-spring-september-29th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "693eb427693b",
+      "title": "Expanding the power of build tool plugins to build something fun",
+      "url": "https://forums.swift.org/t/expanding-the-power-of-build-tool-plugins-to-build-something-fun/89819",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-09-29T15:27:28.000Z",
+      "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
       "id": "657af94282d5",
@@ -313,6 +322,15 @@
       "category": "languages",
       "publishedAt": "2026-09-25T13:59:11.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
+    },
+    {
+      "id": "82db0cd76f9f",
+      "title": "The State of Kotlin in 2026 Report",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-29T12:38:29.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/X-800x418-1-1.png"
     },
     {
       "id": "e985d81f9505",
@@ -359,15 +377,6 @@
       "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "7d6e35329909",
-      "title": "Node.js 26.10.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.10.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-22T09:03:49.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
-    },
-    {
       "id": "e6f3a9c39c33",
       "title": "Leave the Class Path in the Rearview Mirror",
       "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
@@ -386,6 +395,24 @@
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
+      "id": "7d6e35329909",
+      "title": "Node.js 26.10.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.10.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-22T09:03:49.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
+    },
+    {
+      "id": "8cf2436fc3f2",
+      "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
+      "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "077aebeea6e8",
       "title": "Node.js 26.9.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.9.0",
@@ -402,33 +429,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-16T16:58:32.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "a86ea82d513c",
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
-      "id": "ae47a5f4e507",
-      "title": "React 19.3",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "source": "React Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
-    },
-    {
-      "id": "c790553d7b2f",
-      "title": "Affordable and Fast Migration",
-      "url": "https://astro.build/case-studies/evil-martians/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/social-image.B6O9kkt6.webp"
     }
   ]
 }
