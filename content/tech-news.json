@@ -1,23 +1,59 @@
 {
-  "generatedAt": "2026-10-06T16:24:52.913Z",
+  "generatedAt": "2026-10-07T17:07:57.841Z",
   "items": [
     {
-      "id": "97c9e3a42c0b",
-      "title": "Tales from the 2026 Developer Survey results",
-      "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-06T17:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+      "id": "59ba7555bc4a",
+      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-07T16:30:36.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
     },
     {
-      "id": "304b9ee1a8d6",
-      "title": "AlloyDB: A unified database engine for hybrid search",
-      "url": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+      "id": "d3e7adcfba0b",
+      "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
+      "url": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_XqX6b2x.max-1000x1000.png"
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/cme_group_g3mWTg1.max-1000x1000.jpg"
+    },
+    {
+      "id": "ea4f899dc8df",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9ba2eb578c30",
+      "title": "Start Your Next KMP App With Kotlin Toolchain 0.13",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-07T10:21:46.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
+    },
+    {
+      "id": "02e463243791",
+      "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
+      "source": "Google Cloud Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-06T19:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/announcing-mcp-toolbox-java-sdk-v10-agentic-.max-600x600.png"
+    },
+    {
+      "id": "ddec0ece98fa",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-06T17:50:11.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M490CTJ7YDMNAYZRST2FH35F.png"
     },
     {
       "id": "af6c75c26110",
@@ -29,6 +65,15 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_bmVFk8w.max-1000x1000.jpg"
     },
     {
+      "id": "7d7079a0abaf",
+      "title": "Hello Developer: October 2026",
+      "url": "https://developer.apple.com/news/?id=gv788oj6",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-06T15:00:23.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/9BD5744A-C297-4581-98EC-3078A03BC6A0/2048.jpeg"
+    },
+    {
       "id": "52954c80b9f7",
       "title": "A Practical Guide To Naming Things",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
@@ -36,15 +81,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
-    },
-    {
-      "id": "67d8e346daed",
-      "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
-      "url": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GPS_Summit2025_BlogPreview_5.max-600x600.png"
     },
     {
       "id": "261bece6d30f",
@@ -63,24 +99,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-05T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M45M6F7F4N2RT9KMZ0Q5DRQT.png"
-    },
-    {
-      "id": "917bc7059d97",
-      "title": "One year later: the power of 1.1.1.1 interns",
-      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-05T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M40BZTRXM8420FKPHKZ2HBJT.png"
-    },
-    {
-      "id": "afad8aacc340",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-02T18:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
     },
     {
       "id": "38ccbac90b61",
@@ -119,31 +137,73 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KN_Y7DVtBcMxSP0aPw0lhOEPjIL8pl7TlcJ1M4LrAV6DuZ2MF6XfjNqmrnFeZXNijVj81-wsqzjGqcuFt8Y9pcGbfRekTh4e5o4yFBLrlbQRhQZ-5HIPFQ8sPvOPtwhN8BT3NEbOVvKJTlsC4MWek8D7KKmaB3Xyp8aIxxFTB3T04JuDmb9a8Y4-U9U/s72-c/ComposeCarousel-Meta-3%20(1).jpg"
     },
     {
-      "id": "396b95f3429c",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "DeepMind",
+      "id": "0825a4897dea",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-09-30T15:03:07.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
+      "publishedAt": "2026-10-07T16:54:33.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/hLsllw4zhC04cVGiV69v0.png"
     },
     {
-      "id": "ea795ec9f41b",
-      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-      "url": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-      "source": "Azure",
+      "id": "77911c722c41",
+      "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/word-image-54217-2.webp"
+      "publishedAt": "2026-10-07T15:00:00.000Z"
     },
     {
-      "id": "a03c40f9e37f",
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-30T13:30:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
+      "id": "5b67963fa7b0",
+      "title": "Node.js 26.11.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.11.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-07T14:45:09.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.0%20(Current)"
+    },
+    {
+      "id": "5bdd694c6290",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-07T12:45:31.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67b8b0096c3182e96bf6cea1/zB6BNaB-3tiCCsnOo7gik.png"
+    },
+    {
+      "id": "ad4e14640e35",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "d12760993a97",
+      "title": "Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-06T20:57:56.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-github-logo.png"
+    },
+    {
+      "id": "fb4b6e85afe4",
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-06T18:00:00.000Z"
+    },
+    {
+      "id": "97c9e3a42c0b",
+      "title": "Tales from the 2026 Developer Survey results",
+      "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-06T17:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
       "id": "ab85acc9f216",
@@ -155,24 +215,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/38cc717508afa8cc3a85ac3a849aea2e8baf53e2-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
     },
     {
-      "id": "085f7195b66f",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-06T06:44:39.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Prepare and submit your apps for iPhone Duo",
-      "url": "https://developer.apple.com/news/?id=kkphp5qo",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-06T00:05:33.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
-    },
-    {
       "id": "dfa6cd118ba4",
       "title": "This Week in Spring - October 6th, 2026",
       "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
@@ -180,31 +222,6 @@
       "category": "backend",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "dc3b6b7d7abe",
-      "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
-      "source": "AWS",
-      "category": "ai",
-      "publishedAt": "2026-10-05T21:42:00.000Z"
-    },
-    {
-      "id": "e4f96ea3e7c3",
-      "title": "ReviewBench: An open benchmark for AI code review",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-05T15:59:40.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png"
-    },
-    {
-      "id": "78ad53815846",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-05T15:00:00.000Z"
     },
     {
       "id": "50870647a43e",
@@ -261,15 +278,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "8e0951c2b255",
-      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-01T15:07:16.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png"
-    },
-    {
       "id": "cb5a7e360bc1",
       "title": "Announcing Rust 1.99.0",
       "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
@@ -279,22 +287,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "e217ef8b1828",
-      "title": "The Companions to Come",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-09-30T10:33:03.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-social-BlogSocialShare-1280x720-1-1.png"
-    },
-    {
-      "id": "a4a49ac0e21a",
-      "title": "What's new in Astro - September 2026",
-      "url": "https://astro.build/blog/whats-new-september-2026/",
-      "source": "Astro Blog",
+      "id": "a03c40f9e37f",
+      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+      "source": "Smashing Magazine",
       "category": "frontend",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
+      "publishedAt": "2026-09-30T13:30:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
       "id": "3772ccdd9663",
@@ -324,13 +323,22 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
-      "id": "82db0cd76f9f",
-      "title": "The State of Kotlin in 2026 Report",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/",
+      "id": "e217ef8b1828",
+      "title": "The Companions to Come",
+      "url": "https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/",
       "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-29T12:38:29.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/X-800x418-1-1.png"
+      "category": "mobile",
+      "publishedAt": "2026-09-30T10:33:03.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-social-BlogSocialShare-1280x720-1-1.png"
+    },
+    {
+      "id": "a4a49ac0e21a",
+      "title": "What's new in Astro - September 2026",
+      "url": "https://astro.build/blog/whats-new-september-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
     },
     {
       "id": "e985d81f9505",
@@ -360,6 +368,15 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
     },
     {
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+    },
+    {
       "id": "f71b4953a841",
       "title": "Generate SBOM for package dependencies of Xcode project?",
       "url": "https://forums.swift.org/t/generate-sbom-for-package-dependencies-of-xcode-project/89717",
@@ -377,13 +394,13 @@
       "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+      "id": "7d6e35329909",
+      "title": "Node.js 26.10.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.10.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-09-22T09:03:49.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
     },
     {
       "id": "b8054564eb69",
@@ -395,33 +412,6 @@
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     },
     {
-      "id": "7d6e35329909",
-      "title": "Node.js 26.10.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.10.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-22T09:03:49.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
-    },
-    {
-      "id": "8cf2436fc3f2",
-      "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
-      "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "077aebeea6e8",
-      "title": "Node.js 26.9.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.9.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-16T18:17:42.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.9.0%20(Current)"
-    },
-    {
       "id": "3e92cef7a8d3",
       "title": "Swift-Syntax Prebuilts for use in iOS apps at run-time?",
       "url": "https://forums.swift.org/t/swift-syntax-prebuilts-for-use-in-ios-apps-at-run-time/89600",
@@ -429,6 +419,15 @@
       "category": "mobile",
       "publishedAt": "2026-09-16T16:58:32.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "ae47a5f4e507",
+      "title": "React 19.3",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "source": "React Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
     }
   ]
 }
