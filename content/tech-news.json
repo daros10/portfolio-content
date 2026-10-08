@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-07T17:07:57.841Z",
+  "generatedAt": "2026-10-08T17:05:47.338Z",
   "items": [
+    {
+      "id": "3a1030c05313",
+      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4DWXM8QH1FEK7XDTCR1RVA5.01M4DWXN5TGFT9XA1WXDCVYJ4B.png"
+    },
+    {
+      "id": "381acf60590f",
+      "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
+      "url": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ireland-innovation-companies-startups-govern.max-600x600.jpg"
+    },
+    {
+      "id": "5cf92daa9dea",
+      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+      "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/SUNY_professor.max-600x600.jpg"
+    },
+    {
+      "id": "3b29c164decd",
+      "title": "Empowering SMBs to do more with Gemini",
+      "url": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/startups_how-to-grow-your-small-business-usi.max-600x600.png"
+    },
     {
       "id": "59ba7555bc4a",
       "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
@@ -11,13 +47,13 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
     },
     {
-      "id": "d3e7adcfba0b",
-      "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
-      "url": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-07T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/cme_group_g3mWTg1.max-1000x1000.jpg"
+      "id": "b36fabe41f88",
+      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
+      "url": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-10-07T15:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/261001_AI-Powered_Systems_Blog-1-1024x576.jpeg"
     },
     {
       "id": "ea4f899dc8df",
@@ -38,13 +74,13 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
     },
     {
-      "id": "02e463243791",
-      "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
-      "source": "Google Cloud Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-06T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/announcing-mcp-toolbox-java-sdk-v10-agentic-.max-600x600.png"
+      "id": "90484d9d3eca",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-06T21:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Figure_1_Magic_Quadrant_for_Global_Industrial_AIoT_Platforms_highres-894x1024.webp"
     },
     {
       "id": "ddec0ece98fa",
@@ -54,15 +90,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-06T17:50:11.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M490CTJ7YDMNAYZRST2FH35F.png"
-    },
-    {
-      "id": "af6c75c26110",
-      "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
-      "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_bmVFk8w.max-1000x1000.jpg"
     },
     {
       "id": "7d7079a0abaf",
@@ -92,15 +119,6 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/node-swap-chart.svg"
     },
     {
-      "id": "d1602119935a",
-      "title": "Everything we launched during Birthday Week 2026",
-      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-05T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M45M6F7F4N2RT9KMZ0Q5DRQT.png"
-    },
-    {
       "id": "38ccbac90b61",
       "title": "Device Streaming and Android skills - available in Android CLI",
       "url": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html",
@@ -128,27 +146,70 @@
       "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261006/spring-ai-rag-advisor-overview.png"
     },
     {
-      "id": "fc31e5dc5fea",
-      "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%",
-      "url": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html",
-      "source": "Android Developers",
-      "category": "ai",
-      "publishedAt": "2026-09-30T19:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KN_Y7DVtBcMxSP0aPw0lhOEPjIL8pl7TlcJ1M4LrAV6DuZ2MF6XfjNqmrnFeZXNijVj81-wsqzjGqcuFt8Y9pcGbfRekTh4e5o4yFBLrlbQRhQZ-5HIPFQ8sPvOPtwhN8BT3NEbOVvKJTlsC4MWek8D7KKmaB3Xyp8aIxxFTB3T04JuDmb9a8Y4-U9U/s72-c/ComposeCarousel-Meta-3%20(1).jpg"
+      "id": "35fe231cc388",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-08T17:02:52.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
     },
     {
-      "id": "0825a4897dea",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face",
+      "id": "2e5589be400d",
+      "title": "A green exit code is not evidence that the work happened",
+      "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/29bbae9c01de534b803084e4f0b9a77f9cd90e5c-12000x6300.jpg?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "077dea1e8a7a",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-10-07T16:54:33.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/hLsllw4zhC04cVGiV69v0.png"
+      "publishedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "59749e321cba",
+      "title": "Node.js 26.11.1 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.11.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-07T23:56:26.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.1%20(Current)"
+    },
+    {
+      "id": "f1cad6f59721",
+      "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+      "url": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-07T20:31:12.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1d3b4a8953f24499f8d4efeb586549a0baa73f73-3000x1500.png?rect=72,0,2857,1500&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "b96448f5a552",
+      "title": "Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-07T17:45:34.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png"
     },
     {
       "id": "77911c722c41",
       "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-07T15:00:00.000Z"
+    },
+    {
+      "id": "c5244bbd57c6",
+      "title": "AWS Config now supports 77 new resource types",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
       "source": "AWS",
       "category": "cloud",
       "publishedAt": "2026-10-07T15:00:00.000Z"
@@ -163,56 +224,12 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.0%20(Current)"
     },
     {
-      "id": "5bdd694c6290",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-07T12:45:31.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67b8b0096c3182e96bf6cea1/zB6BNaB-3tiCCsnOo7gik.png"
-    },
-    {
-      "id": "ad4e14640e35",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "d12760993a97",
-      "title": "Building Git infrastructure for agent-scale development",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-06T20:57:56.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-github-logo.png"
-    },
-    {
       "id": "fb4b6e85afe4",
       "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
       "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
       "source": "Kubernetes Blog",
       "category": "cloud",
       "publishedAt": "2026-10-06T18:00:00.000Z"
-    },
-    {
-      "id": "97c9e3a42c0b",
-      "title": "Tales from the 2026 Developer Survey results",
-      "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-06T17:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "ab85acc9f216",
-      "title": "The results of the 2026 Developer Survey are here!",
-      "url": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-06T14:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/38cc717508afa8cc3a85ac3a849aea2e8baf53e2-1200x627.png?rect=3,0,1194,627&w=1200&h=630&auto=format"
     },
     {
       "id": "dfa6cd118ba4",
@@ -242,15 +259,6 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "88ae5f936034",
-      "title": "Constraints that make developers faster",
-      "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-02T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
       "id": "cf877b657992",
       "title": "Demoting i686 Windows targets to std-only",
       "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
@@ -276,15 +284,6 @@
       "category": "tools",
       "publishedAt": "2026-10-01T18:26:12.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "cb5a7e360bc1",
-      "title": "Announcing Rust 1.99.0",
-      "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "a03c40f9e37f",
@@ -323,6 +322,15 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
+      "id": "cb5a7e360bc1",
+      "title": "Announcing Rust 1.99.0",
+      "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "e217ef8b1828",
       "title": "The Companions to Come",
       "url": "https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/",
@@ -339,6 +347,15 @@
       "category": "frontend",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
+    },
+    {
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "e985d81f9505",
@@ -368,15 +385,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
     },
     {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
-    },
-    {
       "id": "f71b4953a841",
       "title": "Generate SBOM for package dependencies of Xcode project?",
       "url": "https://forums.swift.org/t/generate-sbom-for-package-dependencies-of-xcode-project/89717",
@@ -394,13 +402,13 @@
       "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "7d6e35329909",
-      "title": "Node.js 26.10.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.10.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-22T09:03:49.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.10.0%20(Current)"
+      "id": "8cf2436fc3f2",
+      "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
+      "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "b8054564eb69",
@@ -419,15 +427,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-16T16:58:32.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "ae47a5f4e507",
-      "title": "React 19.3",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "source": "React Blog",
-      "category": "frontend",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "imageUrl": "https://react.dev/images/og/blog-2026-09-09-react-19-3.png"
     }
   ]
 }
