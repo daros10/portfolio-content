@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-08T17:05:47.338Z",
+  "generatedAt": "2026-10-09T16:43:53.651Z",
   "items": [
+    {
+      "id": "cc3ddc8e1b37",
+      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+      "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-09T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_1k1nSQi_c5ubZpu.max-1000x1000.jpg"
+    },
+    {
+      "id": "e3c0433a069c",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
+    },
+    {
+      "id": "12cb3b705543",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M497X1XKZ8XG2FXKMTKEX5F4.png"
+    },
+    {
+      "id": "3d92c6e4141d",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-09T12:50:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4EN399YDFNQMGM5VG6EHTNS.01M4EN39V1RNGJ3FBS356QEAB5.png"
+    },
     {
       "id": "3a1030c05313",
       "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
@@ -29,24 +65,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/SUNY_professor.max-600x600.jpg"
     },
     {
-      "id": "3b29c164decd",
-      "title": "Empowering SMBs to do more with Gemini",
-      "url": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/startups_how-to-grow-your-small-business-usi.max-600x600.png"
-    },
-    {
-      "id": "59ba7555bc4a",
-      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-      "url": "https://blog.cloudflare.com/agentic-security-operations/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-07T16:30:36.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
-    },
-    {
       "id": "b36fabe41f88",
       "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
       "url": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
@@ -71,7 +89,7 @@
       "source": "Kotlin Blog",
       "category": "languages",
       "publishedAt": "2026-10-07T10:21:46.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
+      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
     },
     {
       "id": "90484d9d3eca",
@@ -81,15 +99,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-06T21:00:00.000Z",
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Figure_1_Magic_Quadrant_for_Global_Industrial_AIoT_Platforms_highres-894x1024.webp"
-    },
-    {
-      "id": "ddec0ece98fa",
-      "title": "The keys to the Internet change on October 11. Are you ready?",
-      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-06T17:50:11.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M490CTJ7YDMNAYZRST2FH35F.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -119,31 +128,72 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/node-swap-chart.svg"
     },
     {
-      "id": "38ccbac90b61",
-      "title": "Device Streaming and Android skills - available in Android CLI",
-      "url": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDUqavb1UUynRdoV_70aed9cNtzw60CqiCcmaul3YImihcTyOPjSj_aiFvzoNa82f_l3N4EuAuOlxbx3L92Kv5-piru8kElDCNOXljPrOesxK5V9ytExhGxV1mP9ZbmV4H_0Dwffp9x29RTNon6TKW4ztLP5kYp9WSMyBEwx3mW9zaxJzGYk8Kbm5NSWI/s72-c/%5BABL_135%5D%20Android%20CLI%20&%20Android%20skills_Meta.png"
+      "id": "b0aa6f993286",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-09T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-invertocat-logo.png?fit=1920%2C1080"
     },
     {
-      "id": "d26cbd179582",
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
+      "id": "43ef54e74d27",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+      "publishedAt": "2026-10-09T15:20:29.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png"
     },
     {
-      "id": "9f5dfd796365",
-      "title": "Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers",
-      "url": "https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev",
-      "source": "Spring Blog",
+      "id": "bf3074960b9c",
+      "title": "A Treatise on Model Oriented Programming Languages",
+      "url": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/",
+      "source": "Stack Overflow Blog",
       "category": "ai",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261006/spring-ai-rag-advisor-overview.png"
+      "publishedAt": "2026-10-09T14:59:04.000Z"
+    },
+    {
+      "id": "5aba7f9d6f3e",
+      "title": "Taking a look under your agent’s hood",
+      "url": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
+      "source": "Stack Overflow Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-09T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "edd58468d564",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "id": "2890e018feee",
+      "title": "Production-grade LLMs and agents: a field guide",
+      "url": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-08T20:22:56.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d0aca2e0e717159d7ab5e7aa30df3a1884b1fb95-3000x1500.png?rect=72,0,2857,1500&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "b62a6103b354",
+      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-08T18:51:00.000Z"
+    },
+    {
+      "id": "265746cdcb1f",
+      "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-08T18:00:00.000Z"
     },
     {
       "id": "35fe231cc388",
@@ -155,21 +205,13 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
     },
     {
-      "id": "2e5589be400d",
-      "title": "A green exit code is not evidence that the work happened",
-      "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/29bbae9c01de534b803084e4f0b9a77f9cd90e5c-12000x6300.jpg?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "077dea1e8a7a",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-08T00:00:00.000Z"
+      "id": "67c9d0339d5e",
+      "title": "A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi",
+      "url": "https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi",
+      "source": "Spring Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "59749e321cba",
@@ -181,15 +223,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.1%20(Current)"
     },
     {
-      "id": "f1cad6f59721",
-      "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
-      "url": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-07T20:31:12.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1d3b4a8953f24499f8d4efeb586549a0baa73f73-3000x1500.png?rect=72,0,2857,1500&w=1200&h=630&auto=format"
-    },
-    {
       "id": "b96448f5a552",
       "title": "Secret protection must scale with software",
       "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
@@ -199,22 +232,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png"
     },
     {
-      "id": "77911c722c41",
-      "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-07T15:00:00.000Z"
-    },
-    {
-      "id": "c5244bbd57c6",
-      "title": "AWS Config now supports 77 new resource types",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-07T15:00:00.000Z"
-    },
-    {
       "id": "5b67963fa7b0",
       "title": "Node.js 26.11.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.11.0",
@@ -222,14 +239,6 @@
       "category": "backend",
       "publishedAt": "2026-10-07T14:45:09.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.0%20(Current)"
-    },
-    {
-      "id": "fb4b6e85afe4",
-      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-06T18:00:00.000Z"
     },
     {
       "id": "dfa6cd118ba4",
@@ -259,31 +268,13 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "cf877b657992",
-      "title": "Demoting i686 Windows targets to std-only",
-      "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "aa4c22f4b58e",
-      "title": "Arch-specific SIMD in Go",
-      "url": "https://go.dev/blog/archsimd",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "352d2d7c3e13",
-      "title": "Trust Docker for the agents you don’t",
-      "url": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-01T18:26:12.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+      "id": "38ccbac90b61",
+      "title": "Device Streaming and Android skills - available in Android CLI",
+      "url": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDUqavb1UUynRdoV_70aed9cNtzw60CqiCcmaul3YImihcTyOPjSj_aiFvzoNa82f_l3N4EuAuOlxbx3L92Kv5-piru8kElDCNOXljPrOesxK5V9ytExhGxV1mP9ZbmV4H_0Dwffp9x29RTNon6TKW4ztLP5kYp9WSMyBEwx3mW9zaxJzGYk8Kbm5NSWI/s72-c/%5BABL_135%5D%20Android%20CLI%20&%20Android%20skills_Meta.png"
     },
     {
       "id": "a03c40f9e37f",
@@ -313,13 +304,31 @@
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
-      "id": "657af94282d5",
-      "title": "An update on Angular’s TypeScript 7-powered Compiler",
-      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "cf877b657992",
+      "title": "Demoting i686 Windows targets to std-only",
+      "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+      "source": "Rust Blog",
       "category": "languages",
-      "publishedAt": "2026-09-25T13:59:11.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "aa4c22f4b58e",
+      "title": "Arch-specific SIMD in Go",
+      "url": "https://go.dev/blog/archsimd",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "352d2d7c3e13",
+      "title": "Trust Docker for the agents you don’t",
+      "url": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-01T18:26:12.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "cb5a7e360bc1",
@@ -349,13 +358,13 @@
       "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
     },
     {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
+      "id": "657af94282d5",
+      "title": "An update on Angular’s TypeScript 7-powered Compiler",
+      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "languages",
+      "publishedAt": "2026-09-25T13:59:11.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
       "id": "e985d81f9505",
@@ -402,13 +411,13 @@
       "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "8cf2436fc3f2",
-      "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
-      "url": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "b8054564eb69",
@@ -418,15 +427,6 @@
       "category": "frontend",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
-    },
-    {
-      "id": "3e92cef7a8d3",
-      "title": "Swift-Syntax Prebuilts for use in iOS apps at run-time?",
-      "url": "https://forums.swift.org/t/swift-syntax-prebuilts-for-use-in-ios-apps-at-run-time/89600",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-16T16:58:32.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
