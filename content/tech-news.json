@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-11T16:04:42.436Z",
+  "generatedAt": "2026-10-12T19:32:04.662Z",
   "items": [
+    {
+      "id": "8854e0572f75",
+      "title": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development",
+      "url": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html",
+      "source": "Android Developers",
+      "category": "ai",
+      "publishedAt": "2026-10-12T18:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK7QT_pxotYHR0CDxMZgG9S2Yhu9K2vkq8JswertAOn0nLCg-gkyz62QMIPdwfLDt8zQ6Ukzo2ENfWBKiCcTiH9yupRUpHXK_A67aNzaj255aTabY6J5A7wR6454ejvqQicvJy9loG4Wl_OuQdkRKC4Vy95sv0ey1IdYrYL5lv-r3PxaixGtu_9C-RUrs/s72-c/1006-%5BABL_141%5D-Meta.png"
+    },
+    {
+      "id": "6897dd3f55f0",
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/timesfm_3_in_ca_2.gif"
+    },
+    {
+      "id": "b2afc406a0d0",
+      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_SS6pcLF.gif"
+    },
+    {
+      "id": "ce9e3e86b1cc",
+      "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering”",
+      "url": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/SRE_Book_2e_Front_Cover.max-1000x1000.jpg"
+    },
+    {
+      "id": "5b9983880383",
+      "title": "Filter, reshape, and redact logs before export with Transformers",
+      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-12T14:44:59.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4PM499GF25H969ZFXCA3.png"
+    },
     {
       "id": "0f232d59a4cf",
       "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
@@ -9,24 +54,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-09T18:27:34.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4GV0AV5F55NC2CCEBK9XCTA.png"
-    },
-    {
-      "id": "3090d38083de",
-      "title": "What’s new with Google Data Cloud",
-      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-09T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/whats_new_data_cloud_fWg4bKK.png"
-    },
-    {
-      "id": "cc3ddc8e1b37",
-      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
-      "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-09T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_1k1nSQi_c5ubZpu.max-1000x1000.jpg"
     },
     {
       "id": "e3c0433a069c",
@@ -45,24 +72,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-09T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M497X1XKZ8XG2FXKMTKEX5F4.png"
-    },
-    {
-      "id": "3d92c6e4141d",
-      "title": "Deno is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-09T12:50:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4EN399YDFNQMGM5VG6EHTNS.01M4EN39V1RNGJ3FBS356QEAB5.png"
-    },
-    {
-      "id": "16da57f90f8c",
-      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_3.max-600x600_REh34sF.jpg"
     },
     {
       "id": "b36fabe41f88",
@@ -119,21 +128,39 @@
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
     },
     {
-      "id": "261bece6d30f",
-      "title": "Scaling Kubernetes Workloads with Node Swap",
-      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-05T18:00:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/node-swap-chart.svg"
+      "id": "acb868617334",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-12T17:43:59.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-3.08.26-PM.png"
     },
     {
-      "id": "cb8bc5aa4b68",
-      "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+      "id": "9d1c125ff9b7",
+      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
+      "url": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "1de57a147863",
+      "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+      "url": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/",
+      "source": "Stack Overflow Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/8a64378e027670afb27fde755664558501b6b23a-2400x1260.png?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "7229f1645920",
+      "title": "AWS Transfer Family supports custom ports for public SFTP servers",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-10-09T22:00:00.000Z"
+      "publishedAt": "2026-10-12T08:00:00.000Z"
     },
     {
       "id": "b0aa6f993286",
@@ -179,23 +206,6 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "id": "90995f7dbc9c",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "id": "2890e018feee",
-      "title": "Production-grade LLMs and agents: a field guide",
-      "url": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-08T20:22:56.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d0aca2e0e717159d7ab5e7aa30df3a1884b1fb95-3000x1500.png?rect=72,0,2857,1500&w=1200&h=630&auto=format"
-    },
-    {
       "id": "35fe231cc388",
       "title": "How one bug bounty researcher chooses the features they investigate",
       "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
@@ -223,15 +233,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.1%20(Current)"
     },
     {
-      "id": "b96448f5a552",
-      "title": "Secret protection must scale with software",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-07T17:45:34.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png"
-    },
-    {
       "id": "5b67963fa7b0",
       "title": "Node.js 26.11.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.11.0",
@@ -241,30 +242,30 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.0%20(Current)"
     },
     {
+      "id": "05ba082472a1",
+      "title": "What's New in WebGPU (Chrome 155-156)",
+      "url": "https://developer.chrome.com/blog/new-in-webgpu-155-156?hl=en",
+      "source": "Chrome Developers",
+      "category": "frontend",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "imageUrl": "https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png"
+    },
+    {
+      "id": "e36111052c28",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome?hl=en",
+      "source": "Chrome Developers",
+      "category": "frontend",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
+    },
+    {
       "id": "dfa6cd118ba4",
       "title": "This Week in Spring - October 6th, 2026",
       "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
       "source": "Spring Blog",
       "category": "backend",
       "publishedAt": "2026-10-06T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "50870647a43e",
-      "title": "Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-05T10:46:19.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/KM-social-BlogSocialShare-1280x720-1.png"
-    },
-    {
-      "id": "65ce981afbd1",
-      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
-      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-05T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
@@ -286,15 +287,6 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
-      "id": "3772ccdd9663",
-      "title": "Driving growth on Google Play: The next era of subscriptions",
-      "url": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4hEv-n7l4L86PQZkkNb_7bfV98Mt6LNSApcYb2_suH6jldGZfqWilw5uLlDooM9vFzw7mHdheo4AevL2UK0IP1mvZ2YkhXn4Oe-AhB3D4mT3kIopfrEpgCCW-QDnc6HWteF0E6aPRo3sXUBwiMAYTu5dXiVP5jm8tTIpG53E27sRIWjWztkUfP2U7Bf8/s72-c/ABL-0137-Meta.png"
-    },
-    {
       "id": "693eb427693b",
       "title": "Expanding the power of build tool plugins to build something fun",
       "url": "https://forums.swift.org/t/expanding-the-power-of-build-tool-plugins-to-build-something-fun/89819",
@@ -302,6 +294,42 @@
       "category": "mobile",
       "publishedAt": "2026-09-29T15:27:28.000Z",
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
+    },
+    {
+      "id": "50870647a43e",
+      "title": "Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-05T10:46:19.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/KM-social-BlogSocialShare-1280x720-1.png"
+    },
+    {
+      "id": "ebe40cffec89",
+      "title": "Email verification updates, October 2026",
+      "url": "https://developer.chrome.com/blog/email-verification-october-2026?hl=en",
+      "source": "Chrome Developers",
+      "category": "frontend",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "imageUrl": "https://developer.chrome.com/static/blog/email-verification-october-2026/image/email-verification-october.png"
+    },
+    {
+      "id": "65ce981afbd1",
+      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
+      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "d5c32aa19059",
+      "title": "New to the web platform in September",
+      "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
+      "source": "web.dev",
+      "category": "frontend",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "imageUrl": "https://web.dev/static/blog/web-platform-09-2026/hero.png"
     },
     {
       "id": "cf877b657992",
@@ -367,15 +395,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
     },
     {
-      "id": "e985d81f9505",
-      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
-      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-09-24T16:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
       "id": "e0645c8a9048",
       "title": "Platform-independent SIMD in Go",
       "url": "https://go.dev/blog/simd-experiment",
@@ -409,24 +428,6 @@
       "source": "Kubernetes Blog",
       "category": "backend",
       "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "id": "e6f3a9c39c33",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-09-18T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
-    },
-    {
-      "id": "b8054564eb69",
-      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-16T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
     }
   ]
 }
