@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-13T17:16:30.095Z",
+  "generatedAt": "2026-10-14T14:48:12.336Z",
   "items": [
+    {
+      "id": "df5005d2e421",
+      "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+      "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-14T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4VK1DV41VQ8EZCK68R7E0CS.png"
+    },
     {
       "id": "cc0d01ee401f",
       "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
@@ -8,16 +17,34 @@
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-10-13T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwd-bmAvRIvteqcgbeTm3SsCIjhU8mhjZU5mv31x1yD0wK-Zgn7nYPYXiiF1L6IDcn_uAK40WbEZU19u_i8MdXfsKycF8pidZIk6Oe4QXuWEtga5RYXTLSXGczYa4z460mOUzmyqI2jnCst6RLhEJLixX-LAbkPndpawW9zd17keadwSTSpJb48r3ywI0/s72-c/Developer%20Blogger%20Banner_4209_1253.png"
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX7jJafCrsAQxte5UOEd5EPs9vbg901R1xC4tPWYag8RtzJpeK-dsWzrlSpwQYTI3yqn6wSIDBWibMuI2NhuRNJoD5_LIYGtfFPF8eTyOFFdl6lS-mNDDFH8e_Ui0Kqzt9y6NuPmG-uLINCTWW2lSngdT7LvKN7me1voVi0htGr1czNIK51zpIsILPi3M/s72-c/DeveloperMetadataCard_2048x1323.png"
     },
     {
       "id": "209aa195cf46",
-      "title": "Under the hood, off the hot path: how D1 scales to millions of databases",
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
       "url": "https://blog.cloudflare.com/d1-control-plane/",
       "source": "Cloudflare Blog",
       "category": "cloud",
       "publishedAt": "2026-10-13T16:20:18.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW45ADESEJPK73KY57K3T0NX.png"
+    },
+    {
+      "id": "7757f3cefb0e",
+      "title": "Advancing hardware security with open-source Integrated HSM technology",
+      "url": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-13T16:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/image-2-1.webp"
+    },
+    {
+      "id": "814dcdebb31a",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+      "url": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-13T16:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Phoenix-Data-Center-Shoot-2026_Stills-2-1-scaled.webp"
     },
     {
       "id": "66cb1e68848f",
@@ -83,15 +110,6 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK7QT_pxotYHR0CDxMZgG9S2Yhu9K2vkq8JswertAOn0nLCg-gkyz62QMIPdwfLDt8zQ6Ukzo2ENfWBKiCcTiH9yupRUpHXK_A67aNzaj255aTabY6J5A7wR6454ejvqQicvJy9loG4Wl_OuQdkRKC4Vy95sv0ey1IdYrYL5lv-r3PxaixGtu_9C-RUrs/s72-c/1006-%5BABL_141%5D-Meta.png"
     },
     {
-      "id": "5b9983880383",
-      "title": "Filter, reshape, and redact logs before export with Transformers",
-      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-12T14:44:59.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4PM499GF25H969ZFXCA3.png"
-    },
-    {
       "id": "280ae80917c4",
       "title": "Deep dive into Azure Maia 300 architecture",
       "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
@@ -110,49 +128,82 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     },
     {
-      "id": "b36fabe41f88",
-      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
-      "url": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-10-07T15:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/261001_AI-Powered_Systems_Blog-1-1024x576.jpeg"
+      "id": "87eaf42eac0d",
+      "title": "\"Object 0x710ae8019d90 of class _MultiHandle deallocated with non-zero retain count 2\" error when trying to install the Static Linux SDK",
+      "url": "https://forums.swift.org/t/object-0x710ae8019d90-of-class-multihandle-deallocated-with-non-zero-retain-count-2-error-when-trying-to-install-the-static-linux-sdk/90057",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-10-14T14:02:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "ea4f899dc8df",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9ba2eb578c30",
-      "title": "Start Your Next KMP App With Kotlin Toolchain 0.13",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/",
+      "id": "3b90b8a80bf5",
+      "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
       "source": "Kotlin Blog",
       "category": "languages",
-      "publishedAt": "2026-10-07T10:21:46.000Z",
-      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
+      "publishedAt": "2026-10-14T11:03:00.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/image-166.png"
     },
     {
-      "id": "90484d9d3eca",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
-      "source": "Azure",
+      "id": "e31bf18aa91a",
+      "title": "Wednesday, October 21, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
+    },
+    {
+      "id": "9e3b1d82d279",
+      "title": "AWS Security Hub now supports resource criticality for prioritization",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-10-06T21:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Figure_1_Magic_Quadrant_for_Global_Industrial_AIoT_Platforms_highres-894x1024.webp"
+      "publishedAt": "2026-10-14T01:00:00.000Z"
     },
     {
-      "id": "550c4c02e9ff",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
+      "id": "2f3282e48314",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-10-13T17:05:48.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png"
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Updated Apple Developer Program License Agreement now available",
+      "url": "https://developer.apple.com/news/?id=17mwd36z",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-13T22:00:09.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
+    },
+    {
+      "id": "8795a8541426",
+      "title": "AWS Agent Registry now supports custom metadata for registry records",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-10-13T21:00:00.000Z"
+    },
+    {
+      "id": "49fe8a3fc3d9",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "source": "GitHub Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-13T17:56:33.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-security-logo.png"
+    },
+    {
+      "id": "2f9f546eacf8",
+      "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+      "url": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-13T16:35:35.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/b58940ae556a8df40dac4aa32a517aabc7bb3b36-1774x887.jpg?rect=42,0,1690,887&w=1200&h=630&auto=format"
     },
     {
       "id": "7e84e4afbb13",
@@ -164,20 +215,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "15c79e8597f2",
-      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-12T23:10:00.000Z"
-    },
-    {
-      "id": "ae94a744c5f8",
-      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-12T22:30:00.000Z"
+      "id": "11cd4bb47ffc",
+      "title": "This Week in Spring - October 13th, 2026",
+      "url": "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "acb868617334",
@@ -207,15 +251,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-invertocat-logo.png?fit=1920%2C1080"
     },
     {
-      "id": "35fe231cc388",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-08T17:02:52.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
-    },
-    {
       "id": "67c9d0339d5e",
       "title": "A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi",
       "url": "https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi",
@@ -234,6 +269,24 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.11.1%20(Current)"
     },
     {
+      "id": "9ba2eb578c30",
+      "title": "Start Your Next KMP App With Kotlin Toolchain 0.13",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-07T10:21:46.000Z",
+      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
+    },
+    {
+      "id": "52954c80b9f7",
+      "title": "A Practical Guide To Naming Things",
+      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
+    },
+    {
       "id": "5b67963fa7b0",
       "title": "Node.js 26.11.0 (Current)",
       "url": "https://nodejs.org/en/blog/release/v26.11.0",
@@ -250,33 +303,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-07T07:00:00.000Z",
       "imageUrl": "https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Hello Developer: October 2026",
-      "url": "https://developer.apple.com/news/?id=gv788oj6",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-06T15:00:23.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/9BD5744A-C297-4581-98EC-3078A03BC6A0/2048.jpeg"
-    },
-    {
-      "id": "52954c80b9f7",
-      "title": "A Practical Guide To Naming Things",
-      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
-    },
-    {
-      "id": "a03c40f9e37f",
-      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-09-30T13:30:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
       "id": "e36111052c28",
@@ -313,15 +339,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-05T07:00:00.000Z",
       "imageUrl": "https://developer.chrome.com/static/blog/email-verification-october-2026/image/email-verification-october.png"
-    },
-    {
-      "id": "65ce981afbd1",
-      "title": "Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long",
-      "url": "https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "d5c32aa19059",
@@ -369,22 +386,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "e217ef8b1828",
-      "title": "The Companions to Come",
-      "url": "https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-09-30T10:33:03.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/09/KT-social-BlogSocialShare-1280x720-1-1.png"
-    },
-    {
-      "id": "a4a49ac0e21a",
-      "title": "What's new in Astro - September 2026",
-      "url": "https://astro.build/blog/whats-new-september-2026/",
-      "source": "Astro Blog",
+      "id": "a03c40f9e37f",
+      "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+      "source": "Smashing Magazine",
       "category": "frontend",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
+      "publishedAt": "2026-09-30T13:30:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-october-2026/oct-26-a-night-of-universal-magic-and-joy-preview-opt.png"
     },
     {
       "id": "693eb427693b",
@@ -396,22 +404,22 @@
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
-      "id": "657af94282d5",
-      "title": "An update on Angular’s TypeScript 7-powered Compiler",
-      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-25T13:59:11.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
+      "id": "a4a49ac0e21a",
+      "title": "What's new in Astro - September 2026",
+      "url": "https://astro.build/blog/whats-new-september-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.Bag9CK8m.webp"
     },
     {
-      "id": "095114eac54a",
-      "title": "Node.js 22.23.3 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.23.3",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-23T18:22:40.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.3%20(LTS)"
+      "id": "e6f3a9c39c33",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-09-18T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png"
     },
     {
       "id": "f71b4953a841",
@@ -421,14 +429,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-23T06:29:38.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "093f0d0f2f3c",
-      "title": "Spotlight on SIG Apps",
-      "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
-      "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-09-22T18:00:00.000Z"
     }
   ]
 }
