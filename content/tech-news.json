@@ -1,14 +1,103 @@
 {
-  "generatedAt": "2026-10-15T14:34:31.821Z",
+  "generatedAt": "2026-10-16T14:25:53.405Z",
   "items": [
     {
-      "id": "80fe6b88f123",
-      "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
-      "url": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
-      "source": "Stack Overflow Blog",
+      "id": "c11712eb305e",
+      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "dbfb9a2e3c4b",
+      "title": "Continuous accountability for Verified bots",
+      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-16T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png"
+    },
+    {
+      "id": "2b3bef51034d",
+      "title": "Is Your Organization Messing Up AI Adoption?",
+      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+      "source": "Smashing Magazine",
       "category": "ai",
-      "publishedAt": "2026-10-15T17:00:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/cfa03bbf8dc5b9bc6d427b8d50d57ff5a6e07ce3-1200x630.png?w=1200&h=630&auto=format"
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg"
+    },
+    {
+      "id": "66808deb0ce7",
+      "title": "Android Developers Blog is moving",
+      "url": "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwXghLDTL1ueTuTEjRM3rFRaSnNXlLYEjwMSBABIilgKEAsMaGohyphenhyphenlFqHmtQmiBBkrCkgqEblvOxm9peI6nJe_UB-4h1T6215cxLEvxOEAwFfTXg0eMympQINceVb5RXWI9JmA1HjIYI1_QIBZb2IrMt9k8jQS4DWpUejVwTU3GL5hFrQiosBxdJ46ctk/s72-c/%5BABL_143%5D-BlogHeader%20(1).png"
+    },
+    {
+      "id": "f118bcb568c3",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-15T18:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
+    },
+    {
+      "id": "4c419dd8c4a4",
+      "title": "A fully programmable secure web gateway",
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-15T17:11:12.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M50725GWYBHA14CTTDWFESC7.png"
+    },
+    {
+      "id": "1d4cff712a9a",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-10-15T16:08:03.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "1a85c62f072b",
+      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
+      "url": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Tu66Q25.max-1000x1000.png"
+    },
+    {
+      "id": "ee9bd979c61b",
+      "title": "What the Gemini agent means for startups",
+      "url": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/startups-gemini-agent-header2.max-600x600.png"
+    },
+    {
+      "id": "3f6e7e640fa4",
+      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/image1_HJqokGb.gif"
+    },
+    {
+      "id": "8922037e2097",
+      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-15T15:03:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
     },
     {
       "id": "a83fbbf7416f",
@@ -18,15 +107,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-15T14:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4XW9N9BNAM3T4W2SE62A1B1.01M4XW9NZG3B1PTR3QTA8CK4GR.png"
-    },
-    {
-      "id": "5dbfd745016d",
-      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
-      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4YQC03MMFYZ10P30YWNWGG4.png"
     },
     {
       "id": "84ed3dda6781",
@@ -45,15 +125,6 @@
       "category": "ai",
       "publishedAt": "2026-10-14T22:08:33.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/docker_AI-Agent-Security-Risks-2320x1218.jpg"
-    },
-    {
-      "id": "d99ce6561eba",
-      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-      "url": "https://blog.cloudflare.com/yandex-outage/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T20:24:19.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y142SWPQXA8GMMX3DTNYBY.png"
     },
     {
       "id": "ed5131a76407",
@@ -92,6 +163,15 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*lWLZiuDQ7WWaPsdEHZoNnw.png"
     },
     {
+      "id": "7c4619645630",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-14T19:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/image.jpg"
+    },
+    {
       "id": "d35aa0de54f9",
       "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
       "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
@@ -101,31 +181,13 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.svg"
     },
     {
-      "id": "dc318e7f0ebc",
-      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
-    },
-    {
-      "id": "6bbf47feae0b",
-      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
-      "url": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_dxxy8WS.max-1000x1000.png"
-    },
-    {
       "id": "3b90b8a80bf5",
       "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
       "source": "Kotlin Blog",
       "category": "languages",
       "publishedAt": "2026-10-14T11:03:00.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/kotlin-enterprise-playbook-highlight.png"
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
     },
     {
       "id": "5cb1618c1db5",
@@ -146,6 +208,24 @@
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX7jJafCrsAQxte5UOEd5EPs9vbg901R1xC4tPWYag8RtzJpeK-dsWzrlSpwQYTI3yqn6wSIDBWibMuI2NhuRNJoD5_LIYGtfFPF8eTyOFFdl6lS-mNDDFH8e_Ui0Kqzt9y6NuPmG-uLINCTWW2lSngdT7LvKN7me1voVi0htGr1czNIK51zpIsILPi3M/s72-c/DeveloperMetadataCard_2048x1323.png"
     },
     {
+      "id": "7757f3cefb0e",
+      "title": "Advancing hardware security with open-source Integrated HSM technology",
+      "url": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-13T16:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/image-2-1.webp"
+    },
+    {
+      "id": "814dcdebb31a",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+      "url": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-13T16:15:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Phoenix-Data-Center-Shoot-2026_Stills-2-1-scaled.webp"
+    },
+    {
       "id": "66cb1e68848f",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -155,56 +235,48 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
     },
     {
-      "id": "06d31f7b83a6",
-      "title": "Cross-cloud conversational analytics made simple with open standards",
-      "url": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_dTgBJRG.max-1000x1000.png"
-    },
-    {
-      "id": "e3c0433a069c",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
-      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-09T14:01:05.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
-    },
-    {
-      "id": "08ad789760aa",
-      "title": "Amazon CloudWatch announces log routing and chained log parsers",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T22:14:00.000Z"
-    },
-    {
-      "id": "42cfdf49638a",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-14T19:11:33.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-invertocat-mona-logo.png"
-    },
-    {
-      "id": "33d01253b6d9",
-      "title": "ARC Region switch adds four new capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T17:38:00.000Z"
-    },
-    {
-      "id": "3c1f6fe86841",
-      "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
-      "url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+      "id": "9c4789172b18",
+      "title": "MCP standardized tools. Now we need the infrastructure around them.",
+      "url": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
       "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-10-14T17:12:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/751dae65e9dfa3fa920e2e69dd68f6a3b9970f5b-12000x6293.jpg?rect=7,0,11987,6293&w=1200&h=630&auto=format"
+      "publishedAt": "2026-10-15T20:39:29.000Z"
+    },
+    {
+      "id": "61022bc6478f",
+      "title": "The next developer interface is ambient intelligence",
+      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-15T19:39:27.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png"
+    },
+    {
+      "id": "192b430e0845",
+      "title": "Astro 7.4",
+      "url": "https://astro.build/blog/astro-740/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og-astro-7.4.D0_QPXcD.webp"
+    },
+    {
+      "id": "b14657b37358",
+      "title": "A Bootiful Podcast: Can Java be more performant than Rust? Andrew Lombardi has the numbers",
+      "url": "https://spring.io/blog/2026/10/15/a-bootiful-podcast-andrew-lombardi",
+      "source": "Spring Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "9b1c2a5338a2",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "956c8ddb527a",
@@ -261,15 +333,6 @@
       "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
-      "id": "2f9f546eacf8",
-      "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
-      "url": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-13T16:35:35.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/b58940ae556a8df40dac4aa32a517aabc7bb3b36-1774x887.jpg?rect=42,0,1690,887&w=1200&h=630&auto=format"
-    },
-    {
       "id": "11cd4bb47ffc",
       "title": "This Week in Spring - October 13th, 2026",
       "url": "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026",
@@ -288,22 +351,13 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "9ba2eb578c30",
-      "title": "Start Your Next KMP App With Kotlin Toolchain 0.13",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-07T10:21:46.000Z",
-      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/10/01-kotlin-new-application-type.png"
-    },
-    {
-      "id": "90484d9d3eca",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-10-06T21:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Figure_1_Magic_Quadrant_for_Global_Industrial_AIoT_Platforms_highres-894x1024.webp"
+      "id": "e3c0433a069c",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     },
     {
       "id": "52954c80b9f7",
@@ -313,15 +367,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
-    },
-    {
-      "id": "261bece6d30f",
-      "title": "Scaling Kubernetes Workloads with Node Swap",
-      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-05T18:00:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/node-swap-chart.svg"
     },
     {
       "id": "67c9d0339d5e",
@@ -351,15 +396,6 @@
       "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
     },
     {
-      "id": "dfa6cd118ba4",
-      "title": "This Week in Spring - October 6th, 2026",
-      "url": "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "ebe40cffec89",
       "title": "Email verification updates, October 2026",
       "url": "https://developer.chrome.com/blog/email-verification-october-2026?hl=en",
@@ -367,33 +403,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-05T07:00:00.000Z",
       "imageUrl": "https://developer.chrome.com/static/blog/email-verification-october-2026/image/email-verification-october.png"
-    },
-    {
-      "id": "d5c32aa19059",
-      "title": "New to the web platform in September",
-      "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
-      "source": "web.dev",
-      "category": "frontend",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "imageUrl": "https://web.dev/static/blog/web-platform-09-2026/hero.png"
-    },
-    {
-      "id": "cf877b657992",
-      "title": "Demoting i686 Windows targets to std-only",
-      "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "aa4c22f4b58e",
-      "title": "Arch-specific SIMD in Go",
-      "url": "https://go.dev/blog/archsimd",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "a03c40f9e37f",
@@ -414,22 +423,13 @@
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
     },
     {
-      "id": "657af94282d5",
-      "title": "An update on Angular’s TypeScript 7-powered Compiler",
-      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "languages",
-      "publishedAt": "2026-09-25T13:59:11.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4k4UMa9Aru0yU0Z_iNs2QA.png"
-    },
-    {
-      "id": "cb5a7e360bc1",
-      "title": "Announcing Rust 1.99.0",
-      "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "id": "d5c32aa19059",
+      "title": "New to the web platform in September",
+      "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
+      "source": "web.dev",
+      "category": "frontend",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "imageUrl": "https://web.dev/static/blog/web-platform-09-2026/hero.png"
     }
   ]
 }
