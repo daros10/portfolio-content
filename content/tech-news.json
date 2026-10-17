@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:25:53.405Z",
+  "generatedAt": "2026-10-17T13:23:05.325Z",
   "items": [
     {
       "id": "c11712eb305e",
@@ -8,6 +8,33 @@
       "source": "React Native",
       "category": "mobile",
       "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "07ba5258ec92",
+      "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_architecture.max-1000x1000.png"
+    },
+    {
+      "id": "9007a7d049a4",
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-16T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*oFq_6JphuwR2l1zG6i8J5A.png"
+    },
+    {
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "id": "dbfb9a2e3c4b",
@@ -26,15 +53,6 @@
       "category": "ai",
       "publishedAt": "2026-10-16T10:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg"
-    },
-    {
-      "id": "66808deb0ce7",
-      "title": "Android Developers Blog is moving",
-      "url": "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-15T20:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwXghLDTL1ueTuTEjRM3rFRaSnNXlLYEjwMSBABIilgKEAsMaGohyphenhyphenlFqHmtQmiBBkrCkgqEblvOxm9peI6nJe_UB-4h1T6215cxLEvxOEAwFfTXg0eMympQINceVb5RXWI9JmA1HjIYI1_QIBZb2IrMt9k8jQS4DWpUejVwTU3GL5hFrQiosBxdJ46ctk/s72-c/%5BABL_143%5D-BlogHeader%20(1).png"
     },
     {
       "id": "f118bcb568c3",
@@ -62,33 +80,6 @@
       "category": "ai",
       "publishedAt": "2026-10-15T16:08:03.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "1a85c62f072b",
-      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
-      "url": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_Tu66Q25.max-1000x1000.png"
-    },
-    {
-      "id": "ee9bd979c61b",
-      "title": "What the Gemini agent means for startups",
-      "url": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/startups-gemini-agent-header2.max-600x600.png"
-    },
-    {
-      "id": "3f6e7e640fa4",
-      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
-      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/image1_HJqokGb.gif"
     },
     {
       "id": "8922037e2097",
@@ -154,15 +145,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*dcANBgrIzPINy2sZeZNXMQ.png"
     },
     {
-      "id": "d50f8b873d03",
-      "title": "Measuring the Impact of Personalized Recommendations",
-      "url": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-14T19:57:43.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*lWLZiuDQ7WWaPsdEHZoNnw.png"
-    },
-    {
       "id": "7c4619645630",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
       "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
@@ -199,15 +181,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "cc0d01ee401f",
-      "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
-      "url": "https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-13T17:00:00.000Z",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX7jJafCrsAQxte5UOEd5EPs9vbg901R1xC4tPWYag8RtzJpeK-dsWzrlSpwQYTI3yqn6wSIDBWibMuI2NhuRNJoD5_LIYGtfFPF8eTyOFFdl6lS-mNDDFH8e_Ui0Kqzt9y6NuPmG-uLINCTWW2lSngdT7LvKN7me1voVi0htGr1czNIK51zpIsILPi3M/s72-c/DeveloperMetadataCard_2048x1323.png"
-    },
-    {
       "id": "7757f3cefb0e",
       "title": "Advancing hardware security with open-source Integrated HSM technology",
       "url": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
@@ -233,6 +206,41 @@
       "category": "ai",
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Updated App Review Guidelines are now available",
+      "url": "https://developer.apple.com/news/?id=92th7e5i",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-16T20:05:42.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
+    },
+    {
+      "id": "65442e708214",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "id": "d4da02923c02",
+      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
+      "url": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "66b01ef31145",
+      "title": "Interactive refactoring in gopls",
+      "url": "https://go.dev/blog/interactive-refactoring",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "9c4789172b18",
@@ -324,13 +332,13 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Updated Apple Developer Program License Agreement now available",
-      "url": "https://developer.apple.com/news/?id=17mwd36z",
-      "source": "Apple Developer",
+      "id": "c1943c76c01f",
+      "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
+      "url": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth",
+      "source": "Android Developers",
       "category": "mobile",
-      "publishedAt": "2026-10-13T22:00:09.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/Developer_Strapi_Banner_2000x1000_c21932c96a_15TVgM.webp"
     },
     {
       "id": "11cd4bb47ffc",
@@ -340,15 +348,6 @@
       "category": "backend",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "9d1c125ff9b7",
-      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
-      "url": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "e3c0433a069c",
