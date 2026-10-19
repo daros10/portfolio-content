@@ -1,22 +1,32 @@
 {
-  "generatedAt": "2026-10-18T13:42:00.105Z",
+  "generatedAt": "2026-10-19T16:43:41.923Z",
   "items": [
     {
-      "id": "c11712eb305e",
-      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
-      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T00:00:00.000Z"
+      "id": "c9d09c464f1d",
+      "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
+      "url": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/virtual-vehicles-on-Google-Cloud-header.max-600x600.png"
     },
     {
-      "id": "07ba5258ec92",
-      "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "id": "4d6eaeae52c9",
+      "title": "How to Use Python UDF Logging for Pipeline Observability",
+      "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
       "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_architecture.max-1000x1000.png"
+      "category": "languages",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_D3BL7NE.max-1000x1000.jpg"
+    },
+    {
+      "id": "ea6bcd3b0215",
+      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-19T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
     },
     {
       "id": "9007a7d049a4",
@@ -26,15 +36,6 @@
       "category": "tools",
       "publishedAt": "2026-10-16T16:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*oFq_6JphuwR2l1zG6i8J5A.png"
-    },
-    {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
       "id": "dbfb9a2e3c4b",
@@ -73,15 +74,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M50725GWYBHA14CTTDWFESC7.png"
     },
     {
-      "id": "1d4cff712a9a",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-10-15T16:08:03.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
-    },
-    {
       "id": "8922037e2097",
       "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
@@ -89,15 +81,6 @@
       "category": "languages",
       "publishedAt": "2026-10-15T15:03:05.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
-    },
-    {
-      "id": "a83fbbf7416f",
-      "title": "Deploy with Void",
-      "url": "https://blog.cloudflare.com/deploy-with-void/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-15T14:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4XW9N9BNAM3T4W2SE62A1B1.01M4XW9NZG3B1PTR3QTA8CK4GR.png"
     },
     {
       "id": "84ed3dda6781",
@@ -160,7 +143,7 @@
       "source": "Kubernetes Blog",
       "category": "cloud",
       "publishedAt": "2026-10-14T18:35:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.svg"
+      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
     },
     {
       "id": "3b90b8a80bf5",
@@ -170,15 +153,6 @@
       "category": "languages",
       "publishedAt": "2026-10-14T11:03:00.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
-    },
-    {
-      "id": "5cb1618c1db5",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-10-14T02:00:14.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "7757f3cefb0e",
@@ -208,6 +182,32 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
     },
     {
+      "id": "eed30223f6d2",
+      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
+      "url": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/51_-_Google_Cloud_Consulting_PlSNkqy.max-2600x2600.jpg"
+    },
+    {
+      "id": "9945b74e6f5b",
+      "title": "Production-grade LLMs and agents: a field guide",
+      "url": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-19T15:32:01.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/3040c9c18b08b62fc09c2160bba2a851825788db-12000x6300.jpg?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "c11712eb305e",
+      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
       "id": "7d7079a0abaf",
       "title": "Updated App Review Guidelines are now available",
       "url": "https://developer.apple.com/news/?id=92th7e5i",
@@ -232,6 +232,24 @@
       "category": "tools",
       "publishedAt": "2026-10-16T16:00:00.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "e2fbc51cc9cc",
+      "title": "AI says you’re right, formal methods say you’re wrong",
+      "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+      "source": "Stack Overflow Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-16T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "ba4e7337aba2",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-16T01:44:47.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png"
     },
     {
       "id": "66b01ef31145",
@@ -395,15 +413,6 @@
       "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
     },
     {
-      "id": "ebe40cffec89",
-      "title": "Email verification updates, October 2026",
-      "url": "https://developer.chrome.com/blog/email-verification-october-2026?hl=en",
-      "source": "Chrome Developers",
-      "category": "frontend",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "imageUrl": "https://developer.chrome.com/static/blog/email-verification-october-2026/image/email-verification-october.png"
-    },
-    {
       "id": "a03c40f9e37f",
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
       "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
@@ -420,15 +429,6 @@
       "category": "mobile",
       "publishedAt": "2026-09-29T15:27:28.000Z",
       "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
-    },
-    {
-      "id": "d5c32aa19059",
-      "title": "New to the web platform in September",
-      "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
-      "source": "web.dev",
-      "category": "frontend",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "imageUrl": "https://web.dev/static/blog/web-platform-09-2026/hero.png"
     }
   ]
 }
