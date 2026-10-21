@@ -1,50 +1,86 @@
 {
-  "generatedAt": "2026-10-20T14:35:38.821Z",
+  "generatedAt": "2026-10-21T14:47:03.052Z",
   "items": [
     {
-      "id": "5e241867830c",
-      "title": "Introducing tsrs: a Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "id": "e31bf18aa91a",
+      "title": "Wednesday, October 21, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-21T22:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
+    },
+    {
+      "id": "eb7286d4ac2e",
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T14:10:42.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png"
+    },
+    {
+      "id": "dedbc374478f",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T13:56:45.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
+    },
+    {
+      "id": "acfc346900ff",
+      "title": "Google Public Sector increases partner investments for frontline adoption",
+      "url": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GPS_Blog_Image_Header_2436x1200_v1.max-600x600.png"
+    },
+    {
+      "id": "50afaf72bfb9",
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSA5Z4MMJ6XYBSMECP05T.png"
+    },
+    {
+      "id": "aa51f1367f4a",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_10.max-600x600.png"
+    },
+    {
+      "id": "6bc0a4e087e6",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "72099188aed0",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "TypeScript DevBlog",
       "category": "languages",
-      "publishedAt": "2026-10-20T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5C82VPWPDDZ7P6P0G4H7KB3.png"
+      "publishedAt": "2026-10-20T17:53:06.000Z",
+      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
-      "id": "954b49145c5b",
-      "title": "Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/",
-      "source": "Google Cloud Blog",
+      "id": "630e178266bc",
+      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+      "source": "Azure",
       "category": "ai",
-      "publishedAt": "2026-10-20T11:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Figure_1_-_llm-d_1.0_distributed_infer.max-1000x1000.png"
-    },
-    {
-      "id": "4c65221d768c",
-      "title": "Introducing Gemini for government services",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Industry_headers_2.max-600x600.png"
-    },
-    {
-      "id": "fa45f57b682b",
-      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-19T19:12:53.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M58N5J1Y9HY8N3R115KEY6NE.png"
-    },
-    {
-      "id": "bd9b3f35c98c",
-      "title": "Introducing Clairic, a new System One class of extraction models",
-      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-19T17:48:26.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCGDJHDMM9AVJKV73MJGX.png"
+      "publishedAt": "2026-10-19T19:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Msft-Intel-YourAI-960.gif"
     },
     {
       "id": "9007a7d049a4",
@@ -65,13 +101,13 @@
       "imageUrl": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg"
     },
     {
-      "id": "f118bcb568c3",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
+      "id": "1d4cff712a9a",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-10-15T16:08:03.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "4fe80e5d0fd4",
@@ -110,15 +146,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/docker_AI-Agent-Security-Risks-2320x1218.jpg"
     },
     {
-      "id": "ed5131a76407",
-      "title": "Integrating Netflix’s Foundation Model into Personalization applications",
-      "url": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "ai",
-      "publishedAt": "2026-10-14T20:02:22.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*9xBaz1zkvALNwB3iT3xK8g.png"
-    },
-    {
       "id": "ba69a65221dd",
       "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
       "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
@@ -126,15 +153,6 @@
       "category": "tools",
       "publishedAt": "2026-10-14T19:59:08.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*dcANBgrIzPINy2sZeZNXMQ.png"
-    },
-    {
-      "id": "7c4619645630",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T19:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/image.jpg"
     },
     {
       "id": "d35aa0de54f9",
@@ -146,31 +164,73 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
     },
     {
-      "id": "3b90b8a80bf5",
-      "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-14T11:03:00.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
-    },
-    {
-      "id": "66cb1e68848f",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "4cad46895af9",
-      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
+      "id": "559211218945",
+      "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
+      "url": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-10-20T11:30:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/AI_infrastructure_default.max-2600x2600.jpg"
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg"
+    },
+    {
+      "id": "61f4d0141ff3",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "id": "2169860c1018",
+      "title": "Node.js 26.12.1 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.12.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-21T10:39:20.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.1%20(Current)"
+    },
+    {
+      "id": "8b081c5b578c",
+      "title": "Node.js 24.22.1 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.22.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-21T10:39:14.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.1%20(LTS)"
+    },
+    {
+      "id": "1ecfd1ce7a1c",
+      "title": "Help set Go's priorities for next year",
+      "url": "https://go.dev/blog/survey2026-announce",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "542e8076a984",
+      "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-20T23:26:00.000Z"
+    },
+    {
+      "id": "98c05bbfc4df",
+      "title": "Amazon DynamoDB global tables now support disassociating replicas",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-20T23:00:00.000Z"
+    },
+    {
+      "id": "eb477756520c",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "source": "GitHub Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-20T16:05:03.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo.png"
     },
     {
       "id": "f1e66fdacb8a",
@@ -182,13 +242,22 @@
       "imageUrl": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
     },
     {
-      "id": "633b5d895611",
-      "title": "Don't forget about the UI for AI",
-      "url": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
-      "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-20T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+      "id": "1a7908131b3d",
+      "title": "This Week in Spring - October 20th, 2026",
+      "url": "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "9436a8927468",
+      "title": "Announcing rustup 1.29.2",
+      "url": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "6f41e119c0a1",
@@ -200,22 +269,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "6f293f6f0121",
-      "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-19T21:45:00.000Z"
-    },
-    {
-      "id": "1ab29820b8ca",
-      "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-19T19:10:00.000Z"
-    },
-    {
       "id": "f73f11092849",
       "title": "How to continue a GitHub Copilot app session in VS Code",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
@@ -223,14 +276,6 @@
       "category": "tools",
       "publishedAt": "2026-10-19T18:47:22.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png"
-    },
-    {
-      "id": "e2296cec5af4",
-      "title": "EC2 Image Builder now integrates with ASG for faster image builds",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-19T17:30:00.000Z"
     },
     {
       "id": "9945b74e6f5b",
@@ -257,6 +302,15 @@
       "source": "React Native",
       "category": "mobile",
       "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "fc02ee4982dd",
+      "title": "Spring Office Hours Podcast: S5E26 - dev2Next, Native JSON and a Week of New Models",
+      "url": "https://spring.io/blog/2026/10/19/spring-office-hours-podcast-S5E26",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -322,22 +376,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "956c8ddb527a",
-      "title": "Node.js 24.22.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.22.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-14T15:26:48.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.0%20(LTS)"
-    },
-    {
-      "id": "4c740006bab3",
-      "title": "Node.js 26.12.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.12.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-14T15:23:06.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.0%20(Current)"
+      "id": "e3c0433a069c",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     },
     {
       "id": "87eaf42eac0d",
@@ -349,33 +394,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "e31bf18aa91a",
-      "title": "Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-14T03:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
-    },
-    {
-      "id": "1f9db072441b",
-      "title": "Better HTTP/1 connection reuse",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "e3c0433a069c",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
-      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-09T14:01:05.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
-    },
-    {
       "id": "c1943c76c01f",
       "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
       "url": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth",
@@ -383,33 +401,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "imageUrl": "https://developer.android.com/static/blog/assets/Developer_Strapi_Banner_2000x1000_c21932c96a_15TVgM.webp"
-    },
-    {
-      "id": "11cd4bb47ffc",
-      "title": "This Week in Spring - October 13th, 2026",
-      "url": "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "67c9d0339d5e",
-      "title": "A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi",
-      "url": "https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi",
-      "source": "Spring Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "05ba082472a1",
-      "title": "What's New in WebGPU (Chrome 155-156)",
-      "url": "https://developer.chrome.com/blog/new-in-webgpu-155-156?hl=en",
-      "source": "Chrome Developers",
-      "category": "frontend",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "imageUrl": "https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png"
     },
     {
       "id": "52954c80b9f7",
@@ -421,13 +412,22 @@
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
     },
     {
-      "id": "693eb427693b",
-      "title": "Expanding the power of build tool plugins to build something fun",
-      "url": "https://forums.swift.org/t/expanding-the-power-of-build-tool-plugins-to-build-something-fun/89819",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-09-29T15:27:28.000Z",
-      "imageUrl": "https://emoji.discourse-cdn.com/apple/slight_smile.png?v=15"
+      "id": "05ba082472a1",
+      "title": "What's New in WebGPU (Chrome 155-156)",
+      "url": "https://developer.chrome.com/blog/new-in-webgpu-155-156?hl=en",
+      "source": "Chrome Developers",
+      "category": "frontend",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "imageUrl": "https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png"
+    },
+    {
+      "id": "e36111052c28",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome?hl=en",
+      "source": "Chrome Developers",
+      "category": "frontend",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
     }
   ]
 }
