@@ -1,14 +1,77 @@
 {
-  "generatedAt": "2026-10-21T14:47:03.052Z",
+  "generatedAt": "2026-10-22T14:46:59.445Z",
   "items": [
     {
-      "id": "e31bf18aa91a",
-      "title": "Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-21T22:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
+      "id": "655df0fb22ac",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-10-22T14:30:24.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "bc9c46bf9767",
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-199472cfded5?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-22T14:15:09.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*ythh9zcAdpGtawj9PSrGkQ.png"
+    },
+    {
+      "id": "cfdc2639bf91",
+      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image2_sXzRF5b.max-1000x1000.png"
+    },
+    {
+      "id": "8021cc12e6d8",
+      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+      "url": "https://blog.cloudflare.com/k-isms/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
+    },
+    {
+      "id": "b20b9c261d23",
+      "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
+      "url": "https://www.docker.com/blog/docker-activestate-partnership/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-22T11:30:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/10/Screenshot-2026-10-21-at-12.25.58-PM.png"
+    },
+    {
+      "id": "0d299af9f60b",
+      "title": "Introducing Agent Compute Engine and expanded agent governance",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ACE_hero.max-600x600.png"
+    },
+    {
+      "id": "ae9ac73da22c",
+      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
+      "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-21T16:10:49.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image1.png"
+    },
+    {
+      "id": "3409d407397d",
+      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
+      "url": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_4ahVBX3.max-1000x1000.png"
     },
     {
       "id": "eb7286d4ac2e",
@@ -27,33 +90,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-21T13:56:45.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
-    },
-    {
-      "id": "acfc346900ff",
-      "title": "Google Public Sector increases partner investments for frontline adoption",
-      "url": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GPS_Blog_Image_Header_2436x1200_v1.max-600x600.png"
-    },
-    {
-      "id": "50afaf72bfb9",
-      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "url": "https://blog.cloudflare.com/webmcp-commerce/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSA5Z4MMJ6XYBSMECP05T.png"
-    },
-    {
-      "id": "aa51f1367f4a",
-      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_10.max-600x600.png"
     },
     {
       "id": "6bc0a4e087e6",
@@ -110,15 +146,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "4fe80e5d0fd4",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/CLO20b_Madeleine_office_009-1024x683.jpg"
-    },
-    {
       "id": "8922037e2097",
       "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
@@ -128,57 +155,45 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
     },
     {
-      "id": "84ed3dda6781",
-      "title": "What Makes a Great KotlinConf Proposal?",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-10-15T09:11:39.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
+      "id": "e31bf18aa91a",
+      "title": "Wednesday, October 21, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-21T22:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
     },
     {
-      "id": "c8181f0e00bb",
-      "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
-      "url": "https://www.docker.com/blog/ai-agent-security-risks/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-14T22:08:33.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/10/docker_AI-Agent-Security-Risks-2320x1218.jpg"
+      "id": "f8b7899f6eab",
+      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T19:10:00.000Z"
     },
     {
-      "id": "ba69a65221dd",
-      "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
-      "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
+      "id": "5cfb76df3e58",
+      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T17:21:00.000Z"
+    },
+    {
+      "id": "78f8b3aec1c7",
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "id": "09c8f23256d8",
+      "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
+      "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/",
+      "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-10-14T19:59:08.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*dcANBgrIzPINy2sZeZNXMQ.png"
-    },
-    {
-      "id": "d35aa0de54f9",
-      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T18:35:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
-    },
-    {
-      "id": "559211218945",
-      "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
-      "url": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg"
-    },
-    {
-      "id": "61f4d0141ff3",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
+      "publishedAt": "2026-10-21T16:26:42.000Z"
     },
     {
       "id": "2169860c1018",
@@ -199,6 +214,15 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.1%20(LTS)"
     },
     {
+      "id": "e3e7e625ac59",
+      "title": "A more reliable way to add and edit contacts on Android",
+      "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/1009_ABL_142_A_more_reliable_way_to_add_and_edit_contacts_on_Android_Strapi_b510ec4fc0_Z1wE0B4.webp"
+    },
+    {
       "id": "1ecfd1ce7a1c",
       "title": "Help set Go's priorities for next year",
       "url": "https://go.dev/blog/survey2026-announce",
@@ -208,20 +232,13 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "542e8076a984",
-      "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
-      "source": "AWS",
+      "id": "abedaf2dbb11",
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "source": "Azure",
       "category": "cloud",
-      "publishedAt": "2026-10-20T23:26:00.000Z"
-    },
-    {
-      "id": "98c05bbfc4df",
-      "title": "Amazon DynamoDB global tables now support disassociating replicas",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-20T23:00:00.000Z"
+      "publishedAt": "2026-10-20T17:34:47.000Z",
+      "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Hero-10_19-1024x576.jpg"
     },
     {
       "id": "eb477756520c",
@@ -278,15 +295,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png"
     },
     {
-      "id": "9945b74e6f5b",
-      "title": "Production-grade LLMs and agents: a field guide",
-      "url": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-19T15:32:01.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/3040c9c18b08b62fc09c2160bba2a851825788db-12000x6300.jpg?w=1200&h=630&auto=format"
-    },
-    {
       "id": "bf8384cadd9e",
       "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
       "url": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
@@ -340,13 +348,31 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "61022bc6478f",
-      "title": "The next developer interface is ambient intelligence",
-      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-15T19:39:27.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png"
+      "id": "84ed3dda6781",
+      "title": "What Makes a Great KotlinConf Proposal?",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-10-15T09:11:39.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
+    },
+    {
+      "id": "3b90b8a80bf5",
+      "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-14T11:03:00.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
+    },
+    {
+      "id": "e3c0433a069c",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     },
     {
       "id": "192b430e0845",
@@ -367,24 +393,6 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "9b1c2a5338a2",
-      "title": "Announcing Rust 1.99.1",
-      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "e3c0433a069c",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
-      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-09T14:01:05.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
-    },
-    {
       "id": "87eaf42eac0d",
       "title": "\"Object 0x710ae8019d90 of class _MultiHandle deallocated with non-zero retain count 2\" error when trying to install the Static Linux SDK",
       "url": "https://forums.swift.org/t/object-0x710ae8019d90-of-class-multihandle-deallocated-with-non-zero-retain-count-2-error-when-trying-to-install-the-static-linux-sdk/90057",
@@ -392,15 +400,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-14T14:02:38.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "c1943c76c01f",
-      "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
-      "url": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/Developer_Strapi_Banner_2000x1000_c21932c96a_15TVgM.webp"
     },
     {
       "id": "52954c80b9f7",
