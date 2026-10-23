@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-22T14:46:59.445Z",
+  "generatedAt": "2026-10-23T14:33:35.970Z",
   "items": [
+    {
+      "id": "d053d7081b69",
+      "title": "Accordion Icons: Which Work Best?",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
+    },
+    {
+      "id": "e45502f48b70",
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-22T22:19:12.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/0*4IREcZPdQdbU43hA.png"
+    },
+    {
+      "id": "8bd04de0c257",
+      "title": "Expanding Claude availability and deployment choice on Google Cloud",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-22T21:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_11.max-600x600.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Offer your subscriptions to businesses and schools",
+      "url": "https://developer.apple.com/news/?id=yfo21auu",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-22T18:00:08.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/89A63B85-1520-4050-BFEF-15CD0483A16C/2048.jpeg"
+    },
+    {
+      "id": "a48503d4bd74",
+      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+      "url": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1-explore-search.gif"
+    },
     {
       "id": "655df0fb22ac",
       "title": "Beyond tree cover: mapping the world’s forest types",
@@ -9,15 +54,6 @@
       "category": "ai",
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "bc9c46bf9767",
-      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-199472cfded5?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-22T14:15:09.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*ythh9zcAdpGtawj9PSrGkQ.png"
     },
     {
       "id": "cfdc2639bf91",
@@ -47,15 +83,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/Screenshot-2026-10-21-at-12.25.58-PM.png"
     },
     {
-      "id": "0d299af9f60b",
-      "title": "Introducing Agent Compute Engine and expanded agent governance",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ACE_hero.max-600x600.png"
-    },
-    {
       "id": "ae9ac73da22c",
       "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
       "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
@@ -63,15 +90,6 @@
       "category": "ai",
       "publishedAt": "2026-10-21T16:10:49.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/image1.png"
-    },
-    {
-      "id": "3409d407397d",
-      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
-      "url": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_4ahVBX3.max-1000x1000.png"
     },
     {
       "id": "eb7286d4ac2e",
@@ -128,31 +146,90 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*oFq_6JphuwR2l1zG6i8J5A.png"
     },
     {
-      "id": "2b3bef51034d",
-      "title": "Is Your Organization Messing Up AI Adoption?",
-      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-      "source": "Smashing Magazine",
+      "id": "15c1f8ef7a58",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg"
+      "publishedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "id": "1d4cff712a9a",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "DeepMind",
+      "id": "6430909168b5",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-10-15T16:08:03.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
     },
     {
-      "id": "8922037e2097",
-      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-15T15:03:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
+      "id": "5e98e89e4d91",
+      "title": "Spring Boot 4.1.2 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "d56f64672547",
+      "title": "Spring Boot 4.2.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "fc162148b0d4",
+      "title": "Spring Boot 4.0.9 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "78c7bd5827a1",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-22T21:00:00.000Z"
+    },
+    {
+      "id": "0eeee969f58f",
+      "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+      "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-22T19:37:29.000Z"
+    },
+    {
+      "id": "29deee6d0c61",
+      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-22T18:34:00.000Z"
+    },
+    {
+      "id": "efd8de82d610",
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-22T17:22:47.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "651b6a2bacfd",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-22T17:21:30.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
     },
     {
       "id": "e31bf18aa91a",
@@ -162,30 +239,6 @@
       "category": "backend",
       "publishedAt": "2026-10-21T22:00:00.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
-    },
-    {
-      "id": "f8b7899f6eab",
-      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T19:10:00.000Z"
-    },
-    {
-      "id": "5cfb76df3e58",
-      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T17:21:00.000Z"
-    },
-    {
-      "id": "78f8b3aec1c7",
-      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T17:00:00.000Z"
     },
     {
       "id": "09c8f23256d8",
@@ -259,15 +312,6 @@
       "imageUrl": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
     },
     {
-      "id": "1a7908131b3d",
-      "title": "This Week in Spring - October 20th, 2026",
-      "url": "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "9436a8927468",
       "title": "Announcing rustup 1.29.2",
       "url": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
@@ -284,15 +328,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-19T23:11:38.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "f73f11092849",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-19T18:47:22.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png"
     },
     {
       "id": "bf8384cadd9e",
@@ -312,40 +347,13 @@
       "publishedAt": "2026-10-19T00:00:00.000Z"
     },
     {
-      "id": "fc02ee4982dd",
-      "title": "Spring Office Hours Podcast: S5E26 - dev2Next, Native JSON and a Week of New Models",
-      "url": "https://spring.io/blog/2026/10/19/spring-office-hours-podcast-S5E26",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Updated App Review Guidelines are now available",
-      "url": "https://developer.apple.com/news/?id=92th7e5i",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-16T20:05:42.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
-    },
-    {
-      "id": "d4da02923c02",
-      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
-      "url": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "66b01ef31145",
-      "title": "Interactive refactoring in gopls",
-      "url": "https://go.dev/blog/interactive-refactoring",
-      "source": "Go Blog",
+      "id": "8922037e2097",
+      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
+      "source": "Kotlin Blog",
       "category": "languages",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+      "publishedAt": "2026-10-15T15:03:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
     },
     {
       "id": "84ed3dda6781",
@@ -357,6 +365,15 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
     },
     {
+      "id": "d35aa0de54f9",
+      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+      "source": "Kubernetes Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-14T18:35:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
+    },
+    {
       "id": "3b90b8a80bf5",
       "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
@@ -366,13 +383,13 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
     },
     {
-      "id": "e3c0433a069c",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
-      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-09T14:01:05.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
+      "id": "66b01ef31145",
+      "title": "Interactive refactoring in gopls",
+      "url": "https://go.dev/blog/interactive-refactoring",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "192b430e0845",
@@ -384,13 +401,13 @@
       "imageUrl": "https://astro.build/_astro/og-astro-7.4.D0_QPXcD.webp"
     },
     {
-      "id": "b14657b37358",
-      "title": "A Bootiful Podcast: Can Java be more performant than Rust? Andrew Lombardi has the numbers",
-      "url": "https://spring.io/blog/2026/10/15/a-bootiful-podcast-andrew-lombardi",
-      "source": "Spring Blog",
+      "id": "9b1c2a5338a2",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "source": "Rust Blog",
       "category": "languages",
       "publishedAt": "2026-10-15T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "87eaf42eac0d",
@@ -402,31 +419,13 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "52954c80b9f7",
-      "title": "A Practical Guide To Naming Things",
-      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "source": "Smashing Magazine",
+      "id": "e3c0433a069c",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/1-classnames.jpg"
-    },
-    {
-      "id": "05ba082472a1",
-      "title": "What's New in WebGPU (Chrome 155-156)",
-      "url": "https://developer.chrome.com/blog/new-in-webgpu-155-156?hl=en",
-      "source": "Chrome Developers",
-      "category": "frontend",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "imageUrl": "https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png"
-    },
-    {
-      "id": "e36111052c28",
-      "title": "Shipping JPEG XL in Chrome",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome?hl=en",
-      "source": "Chrome Developers",
-      "category": "frontend",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     }
   ]
 }
