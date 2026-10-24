@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-23T14:33:35.970Z",
+  "generatedAt": "2026-10-24T13:45:12.834Z",
   "items": [
+    {
+      "id": "5c4b417b27b9",
+      "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+      "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-23T18:32:51.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png"
+    },
+    {
+      "id": "20d42f488708",
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-23T18:22:59.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZP89Y10XGACD5T6G2F398.png"
+    },
+    {
+      "id": "5d93986f3f76",
+      "title": "Bringing post-quantum cryptography to geographically fenced key management",
+      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-23T18:06:56.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF3Y4CXM47ZAN16JYM04W.png"
+    },
+    {
+      "id": "56a7035cf57d",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
+    },
     {
       "id": "d053d7081b69",
       "title": "Accordion Icons: Which Work Best?",
@@ -44,7 +80,7 @@
       "source": "Google Cloud Blog",
       "category": "cloud",
       "publishedAt": "2026-10-22T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1-explore-search.gif"
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1-Configuring_an_enrichment_task_with_connected_sources_evaluation_and_sel.gif"
     },
     {
       "id": "655df0fb22ac",
@@ -92,24 +128,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/image1.png"
     },
     {
-      "id": "eb7286d4ac2e",
-      "title": "Introducing full transaction detection for Cloudflare WAF",
-      "url": "https://blog.cloudflare.com/full-transaction-waf/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T14:10:42.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png"
-    },
-    {
-      "id": "dedbc374478f",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-21T13:56:45.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
-    },
-    {
       "id": "6bc0a4e087e6",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -137,48 +155,54 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Msft-Intel-YourAI-960.gif"
     },
     {
-      "id": "9007a7d049a4",
-      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-16T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*oFq_6JphuwR2l1zG6i8J5A.png"
+      "id": "116e84c7c9fa",
+      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-23T21:04:00.000Z"
     },
     {
-      "id": "15c1f8ef7a58",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "id": "298c8de07d18",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-10-23T00:00:00.000Z"
+      "publishedAt": "2026-10-23T17:00:00.000Z"
     },
     {
-      "id": "6430909168b5",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "id": "0e15fa33c581",
+      "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": "d5dfb55b0129",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "imageUrl": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
     },
     {
-      "id": "5e98e89e4d91",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "e3f05cf15ec7",
+      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-23T15:43:00.000Z"
     },
     {
-      "id": "d56f64672547",
-      "title": "Spring Boot 4.2.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "id": "a26768addf5c",
+      "title": "Rumors of the SaaS demise are greatly exaggerated",
+      "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-23T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
       "id": "fc162148b0d4",
@@ -190,12 +214,13 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "78c7bd5827a1",
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-22T21:00:00.000Z"
+      "id": "5e98e89e4d91",
+      "title": "Spring Boot 4.1.2 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "0eeee969f58f",
@@ -204,14 +229,6 @@
       "source": "Stack Overflow Blog",
       "category": "tools",
       "publishedAt": "2026-10-22T19:37:29.000Z"
-    },
-    {
-      "id": "29deee6d0c61",
-      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-22T18:34:00.000Z"
     },
     {
       "id": "efd8de82d610",
@@ -365,15 +382,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
     },
     {
-      "id": "d35aa0de54f9",
-      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T18:35:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
-    },
-    {
       "id": "3b90b8a80bf5",
       "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
@@ -417,15 +425,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-14T14:02:38.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "e3c0433a069c",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
-      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-09T14:01:05.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*GOB0DDkMj6a9rc8lkPcInQ.png"
     }
   ]
 }
