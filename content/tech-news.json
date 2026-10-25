@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:45:12.834Z",
+  "generatedAt": "2026-10-25T14:01:41.662Z",
   "items": [
     {
       "id": "5c4b417b27b9",
@@ -156,7 +156,7 @@
     },
     {
       "id": "116e84c7c9fa",
-      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
       "source": "AWS",
       "category": "cloud",
