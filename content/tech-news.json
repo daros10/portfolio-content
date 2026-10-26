@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-25T14:01:41.662Z",
+  "generatedAt": "2026-10-26T16:23:36.640Z",
   "items": [
+    {
+      "id": "7028f0740bab",
+      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-26T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg"
+    },
+    {
+      "id": "188e9fbc4643",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b66f2264c397",
+      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_-_LookML_Indexing_in_Knowledge_Catalog.gif"
+    },
     {
       "id": "5c4b417b27b9",
       "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
@@ -74,15 +101,6 @@
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/89A63B85-1520-4050-BFEF-15CD0483A16C/2048.jpeg"
     },
     {
-      "id": "a48503d4bd74",
-      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
-      "url": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1-Configuring_an_enrichment_task_with_connected_sources_evaluation_and_sel.gif"
-    },
-    {
       "id": "655df0fb22ac",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -90,15 +108,6 @@
       "category": "ai",
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "cfdc2639bf91",
-      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image2_sXzRF5b.max-1000x1000.png"
     },
     {
       "id": "8021cc12e6d8",
@@ -117,15 +126,6 @@
       "category": "tools",
       "publishedAt": "2026-10-22T11:30:00.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2026/10/Screenshot-2026-10-21-at-12.25.58-PM.png"
-    },
-    {
-      "id": "ae9ac73da22c",
-      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
-      "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-21T16:10:49.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image1.png"
     },
     {
       "id": "6bc0a4e087e6",
@@ -155,6 +155,41 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Msft-Intel-YourAI-960.gif"
     },
     {
+      "id": "1aebd7e4d2fd",
+      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+      "url": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg"
+    },
+    {
+      "id": "fb4e0f430939",
+      "title": "CSS-Tricks has a new owner!",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-10-26T15:29:36.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+    },
+    {
+      "id": "eb7708c5f537",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-26T07:00:00.000Z"
+    },
+    {
+      "id": "7976df2ce6c6",
+      "title": "How to fund Rust contributors",
+      "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "116e84c7c9fa",
       "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
@@ -179,21 +214,21 @@
       "publishedAt": "2026-10-23T17:00:00.000Z"
     },
     {
-      "id": "d5dfb55b0129",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-23T16:15:50.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
-    },
-    {
       "id": "e3f05cf15ec7",
       "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
       "source": "AWS",
       "category": "cloud",
       "publishedAt": "2026-10-23T15:43:00.000Z"
+    },
+    {
+      "id": "b902e5badadc",
+      "title": "PHP2Shell and eMudhra Patched",
+      "url": "https://www.docker.com/blog/php2shell-and-emudhra-patched/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-23T13:08:08.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "a26768addf5c",
@@ -240,15 +275,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "651b6a2bacfd",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-22T17:21:30.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
-    },
-    {
       "id": "e31bf18aa91a",
       "title": "Wednesday, October 21, 2026 Security Releases",
       "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
@@ -256,14 +282,6 @@
       "category": "backend",
       "publishedAt": "2026-10-21T22:00:00.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
-    },
-    {
-      "id": "09c8f23256d8",
-      "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
-      "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-21T16:26:42.000Z"
     },
     {
       "id": "2169860c1018",
@@ -347,23 +365,6 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "bf8384cadd9e",
-      "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
-      "url": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ANDDM_Grab_Strapi_2000x1000_STATIC_1_dbb884ce74_SODRQ.webp"
-    },
-    {
-      "id": "c11712eb305e",
-      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
-      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
       "id": "8922037e2097",
       "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
@@ -391,6 +392,23 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
     },
     {
+      "id": "bf8384cadd9e",
+      "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
+      "url": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ANDDM_Grab_Strapi_2000x1000_STATIC_1_dbb884ce74_SODRQ.webp"
+    },
+    {
+      "id": "c11712eb305e",
+      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
       "id": "66b01ef31145",
       "title": "Interactive refactoring in gopls",
       "url": "https://go.dev/blog/interactive-refactoring",
@@ -407,24 +425,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og-astro-7.4.D0_QPXcD.webp"
-    },
-    {
-      "id": "9b1c2a5338a2",
-      "title": "Announcing Rust 1.99.1",
-      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "87eaf42eac0d",
-      "title": "\"Object 0x710ae8019d90 of class _MultiHandle deallocated with non-zero retain count 2\" error when trying to install the Static Linux SDK",
-      "url": "https://forums.swift.org/t/object-0x710ae8019d90-of-class-multihandle-deallocated-with-non-zero-retain-count-2-error-when-trying-to-install-the-static-linux-sdk/90057",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-10-14T14:02:38.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
