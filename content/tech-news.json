@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-26T16:23:36.640Z",
+  "generatedAt": "2026-10-27T15:38:01.311Z",
   "items": [
+    {
+      "id": "e11e908022d2",
+      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200.fo.max-600x600.png"
+    },
+    {
+      "id": "73905398b90a",
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
+    },
+    {
+      "id": "008876f8cd1c",
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW453HMZRQX1BZKZQMN21EG8.png"
+    },
+    {
+      "id": "0acf0590490d",
+      "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
+      "url": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/NASA_BLOG.max-600x600.jpg"
+    },
+    {
+      "id": "95d5916fd628",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-26T22:01:23.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2P2KSNBX6J13E3B4219PW.png"
+    },
+    {
+      "id": "cfc31401c2b7",
+      "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
+      "url": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-26T20:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/swiss-franc-stablecoin-gcul-2_3lwzLOd.max-600x600.png"
+    },
+    {
+      "id": "8475093c4b1d",
+      "title": "Making Failure Diagnosis Reliable with Pensive AI",
+      "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "ai",
+      "publishedAt": "2026-10-26T17:04:57.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*2TSVpCdPYj4fMMlFPuheCg.png"
+    },
     {
       "id": "7028f0740bab",
       "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
@@ -20,13 +83,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
     },
     {
-      "id": "b66f2264c397",
-      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
-      "url": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
-      "source": "Google Cloud Blog",
+      "id": "a1fd010ba462",
+      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
+      "url": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
+      "source": "Azure",
       "category": "cloud",
       "publishedAt": "2026-10-26T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_-_LookML_Indexing_in_Knowledge_Catalog.gif"
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Screenshot-2026-10-22-170942.webp"
     },
     {
       "id": "5c4b417b27b9",
@@ -36,24 +99,6 @@
       "category": "tools",
       "publishedAt": "2026-10-23T18:32:51.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png"
-    },
-    {
-      "id": "20d42f488708",
-      "title": "Origin Range Requests: Serving large files without range-request tuning",
-      "url": "https://blog.cloudflare.com/origin-range-requests/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-23T18:22:59.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZP89Y10XGACD5T6G2F398.png"
-    },
-    {
-      "id": "5d93986f3f76",
-      "title": "Bringing post-quantum cryptography to geographically fenced key management",
-      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-23T18:06:56.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF3Y4CXM47ZAN16JYM04W.png"
     },
     {
       "id": "56a7035cf57d",
@@ -74,24 +119,6 @@
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
     },
     {
-      "id": "e45502f48b70",
-      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-22T22:19:12.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/0*4IREcZPdQdbU43hA.png"
-    },
-    {
-      "id": "8bd04de0c257",
-      "title": "Expanding Claude availability and deployment choice on Google Cloud",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-22T21:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_11.max-600x600.png"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Offer your subscriptions to businesses and schools",
       "url": "https://developer.apple.com/news/?id=yfo21auu",
@@ -108,15 +135,6 @@
       "category": "ai",
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "8021cc12e6d8",
-      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
-      "url": "https://blog.cloudflare.com/k-isms/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
     },
     {
       "id": "b20b9c261d23",
@@ -146,22 +164,62 @@
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
-      "id": "630e178266bc",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-10-19T19:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Msft-Intel-YourAI-960.gif"
+      "id": "723a7368b38e",
+      "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
+      "url": "https://css-tricks.com/whats-important-19/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-10-27T15:09:16.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
     },
     {
-      "id": "1aebd7e4d2fd",
-      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-      "url": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "source": "Google Cloud Blog",
+      "id": "0a80542424ea",
+      "title": "Elevators, toasters, and the birth of Java",
+      "url": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+      "source": "Stack Overflow Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-27T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "d9d01bde1a56",
+      "title": "Announcing the Workload Conformance Working Group",
+      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+      "source": "Kubernetes Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-27T04:30:00.000Z"
+    },
+    {
+      "id": "250e5d8f3024",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
       "category": "ai",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg"
+      "publishedAt": "2026-10-26T22:00:00.000Z"
+    },
+    {
+      "id": "437706c5d261",
+      "title": "Amazon ECR now supports replication backfill for existing container images",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-26T20:24:00.000Z"
+    },
+    {
+      "id": "c7498dd56440",
+      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-10-26T18:27:00.000Z"
+    },
+    {
+      "id": "b20a5c1b594f",
+      "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-26T18:00:00.000Z"
     },
     {
       "id": "fb4e0f430939",
@@ -173,12 +231,13 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
     },
     {
-      "id": "eb7708c5f537",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-26T07:00:00.000Z"
+      "id": "8ef77e2fb944",
+      "title": "Spring Office Hours Podcast: S5E27 - Hugging Face for Java Developers with Pratik Patel",
+      "url": "https://spring.io/blog/2026/10/26/spring-office-hours-podcast-S5E27",
+      "source": "Spring Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "7976df2ce6c6",
@@ -190,36 +249,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "116e84c7c9fa",
-      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-23T21:04:00.000Z"
-    },
-    {
-      "id": "298c8de07d18",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "id": "0e15fa33c581",
-      "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "id": "e3f05cf15ec7",
-      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-23T15:43:00.000Z"
+      "id": "b19d44d93223",
+      "title": "Our Response To The eMudhra Key Disclosure Incident",
+      "url": "https://go.dev/blog/emudhra-incident",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "b902e5badadc",
@@ -249,15 +285,6 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "5e98e89e4d91",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "0eeee969f58f",
       "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
       "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
@@ -273,6 +300,15 @@
       "category": "tools",
       "publishedAt": "2026-10-22T17:22:47.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+    },
+    {
+      "id": "651b6a2bacfd",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-22T17:21:30.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
     },
     {
       "id": "e31bf18aa91a",
@@ -338,33 +374,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo.png"
     },
     {
-      "id": "f1e66fdacb8a",
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
-    },
-    {
-      "id": "9436a8927468",
-      "title": "Announcing rustup 1.29.2",
-      "url": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "6f41e119c0a1",
-      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
-      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T23:11:38.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
       "id": "8922037e2097",
       "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
@@ -383,13 +392,22 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
     },
     {
-      "id": "3b90b8a80bf5",
-      "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-14T11:03:00.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Ad2dLe2AFcCKCJdw59PhuWW6LDAPMatti4HwN63rGpA-1.webp"
+      "id": "f1e66fdacb8a",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
+    },
+    {
+      "id": "6f41e119c0a1",
+      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
+      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T23:11:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
       "id": "bf8384cadd9e",
@@ -407,24 +425,6 @@
       "source": "React Native",
       "category": "mobile",
       "publishedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "66b01ef31145",
-      "title": "Interactive refactoring in gopls",
-      "url": "https://go.dev/blog/interactive-refactoring",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "192b430e0845",
-      "title": "Astro 7.4",
-      "url": "https://astro.build/blog/astro-740/",
-      "source": "Astro Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "imageUrl": "https://astro.build/_astro/og-astro-7.4.D0_QPXcD.webp"
     }
   ]
 }
