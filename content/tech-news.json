@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-28T16:22:25.157Z",
+  "generatedAt": "2026-10-29T16:31:44.842Z",
   "items": [
+    {
+      "id": "decf42c69ac7",
+      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+      "url": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_9nWgq7s.max-1000x1000.jpg"
+    },
+    {
+      "id": "5b23bcb1a200",
+      "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+    },
+    {
+      "id": "80b936e6dfd4",
+      "title": "Grounding agents in one context graph connecting semantic models you already trust",
+      "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1._Side-by-side_comparison_z1p0n9c.gif"
+    },
+    {
+      "id": "4937bb769d43",
+      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image2-1.png"
+    },
+    {
+      "id": "efe72c6018e6",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-29T12:55:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6256EDR0931RP6THCDNZ2R5.01M6256F3NTWXMKQE0RGKEM0G2.png"
+    },
+    {
+      "id": "4c0d339112d7",
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+      "source": "Kubernetes Blog",
+      "category": "ai",
+      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/ai_conf_kubecon.jpg"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Say hello to Touch on Mac",
+      "url": "https://developer.apple.com/news/?id=i9boeiqc",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-28T17:00:55.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/E57D1B55-40D6-4688-A08C-2C366CB8D2EC/2048.jpeg"
+    },
     {
       "id": "85daa6a85474",
       "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -9,33 +72,6 @@
       "category": "tools",
       "publishedAt": "2026-10-28T16:07:40.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576"
-    },
-    {
-      "id": "9e3006c02e11",
-      "title": "BigQuery measures is now GA, unifying BI metrics and knowledge graphs for AI accuracy",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Unified_Model_BI_and_Graphs.max-1000x1000.png"
-    },
-    {
-      "id": "acba4548410e",
-      "title": "How GKE networking scales to support high densities of concurrent AI agents",
-      "url": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_qePrOOs.max-1000x1000.png"
-    },
-    {
-      "id": "1ecaa98acf0a",
-      "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_HzpvhDD.gif"
     },
     {
       "id": "de96adf12bfa",
@@ -72,15 +108,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-27T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW453HMZRQX1BZKZQMN21EG8.png"
-    },
-    {
-      "id": "95d5916fd628",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-10-26T22:01:23.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2P2KSNBX6J13E3B4219PW.png"
     },
     {
       "id": "8475093c4b1d",
@@ -146,22 +173,66 @@
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Offer your subscriptions to businesses and schools",
-      "url": "https://developer.apple.com/news/?id=yfo21auu",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-22T18:00:08.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/89A63B85-1520-4050-BFEF-15CD0483A16C/2048.jpeg"
+      "id": "6f763d923b85",
+      "title": "The Frankenstein Table",
+      "url": "https://css-tricks.com/the-frankenstein-table/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-10-29T13:47:08.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
     },
     {
-      "id": "655df0fb22ac",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "DeepMind",
+      "id": "f3538b6fb36f",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
       "category": "ai",
-      "publishedAt": "2026-10-22T14:30:24.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
+      "publishedAt": "2026-10-29T13:37:07.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
+    },
+    {
+      "id": "e1c742c1d925",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg"
+    },
+    {
+      "id": "b2587f37e413",
+      "title": "A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder",
+      "url": "https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "bfd118a130ac",
+      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-28T21:00:00.000Z"
+    },
+    {
+      "id": "0912e56e8ede",
+      "title": "Node.js 24.22.2 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.22.2",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-28T18:40:14.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.2%20(LTS)"
+    },
+    {
+      "id": "cc6a0ea70cfd",
+      "title": "Node.js 26.13.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v26.13.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-28T16:58:40.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.0%20(LTS)"
     },
     {
       "id": "6275c06097e7",
@@ -191,28 +262,31 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "86d942bece21",
-      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-27T23:31:00.000Z"
+      "id": "4001ba3aa601",
+      "title": "Agentic and Flexible: A next era of Android development",
+      "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/Mesa_de_trabajo_1_copy_8_3f8cf8a935_Z1QqkpY.webp"
     },
     {
-      "id": "2dad5a9dd342",
-      "title": "SageMaker MLflow Apps now support MLflow 3.16",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-27T20:40:00.000Z"
+      "id": "28d5f2e7c696",
+      "title": "What's new in Android developer tools and performance at Android Dev Summit",
+      "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_146_ADS_Spotlight_Tools_and_Performance_47f52bd6b1_Z1qi2aR.webp"
     },
     {
-      "id": "c165f235c379",
-      "title": "Amazon Aurora serverless now supports up to 384 ACUs",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-27T16:00:00.000Z"
+      "id": "be4cd100f4af",
+      "title": "Your favorite agents are now integrated in Android Studio",
+      "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/Rabbit2_Strapi_27563aeaf4_RYuQD.webp"
     },
     {
       "id": "723a7368b38e",
@@ -241,15 +315,6 @@
       "publishedAt": "2026-10-27T04:30:00.000Z"
     },
     {
-      "id": "92c175632a1e",
-      "title": "This Week in Spring - October 27th, 2026",
-      "url": "https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "fb4e0f430939",
       "title": "CSS-Tricks has a new owner!",
       "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
@@ -257,15 +322,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-26T15:29:36.000Z",
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-    },
-    {
-      "id": "8ef77e2fb944",
-      "title": "Spring Office Hours Podcast: S5E27 - Hugging Face for Java Developers with Pratik Patel",
-      "url": "https://spring.io/blog/2026/10/26/spring-office-hours-podcast-S5E27",
-      "source": "Spring Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "7976df2ce6c6",
@@ -295,22 +351,13 @@
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "a26768addf5c",
-      "title": "Rumors of the SaaS demise are greatly exaggerated",
-      "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
-      "source": "Stack Overflow Blog",
+      "id": "651b6a2bacfd",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-10-23T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "e31bf18aa91a",
-      "title": "Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-21T22:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
+      "publishedAt": "2026-10-22T17:21:30.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
     },
     {
       "id": "72099188aed0",
@@ -322,58 +369,13 @@
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
-      "id": "8922037e2097",
-      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-15T15:03:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
-    },
-    {
-      "id": "84ed3dda6781",
-      "title": "What Makes a Great KotlinConf Proposal?",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-10-15T09:11:39.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
-    },
-    {
-      "id": "d35aa0de54f9",
-      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-      "source": "Kubernetes Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-14T18:35:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/kueue-admission-architecture.png"
-    },
-    {
-      "id": "2169860c1018",
-      "title": "Node.js 26.12.1 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.12.1",
+      "id": "e31bf18aa91a",
+      "title": "Wednesday, October 21, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
       "source": "Node.js Blog",
       "category": "backend",
-      "publishedAt": "2026-10-21T10:39:20.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.1%20(Current)"
-    },
-    {
-      "id": "8b081c5b578c",
-      "title": "Node.js 24.22.1 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.22.1",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-21T10:39:14.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.1%20(LTS)"
-    },
-    {
-      "id": "e3e7e625ac59",
-      "title": "A more reliable way to add and edit contacts on Android",
-      "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/1009_ABL_142_A_more_reliable_way_to_add_and_edit_contacts_on_Android_Strapi_b510ec4fc0_Z1wE0B4.webp"
+      "publishedAt": "2026-10-21T22:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
     },
     {
       "id": "1ecfd1ce7a1c",
@@ -412,21 +414,21 @@
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     },
     {
-      "id": "bf8384cadd9e",
-      "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
-      "url": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ANDDM_Grab_Strapi_2000x1000_STATIC_1_dbb884ce74_SODRQ.webp"
-    },
-    {
       "id": "c11712eb305e",
       "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
       "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
       "source": "React Native",
       "category": "mobile",
       "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "66b01ef31145",
+      "title": "Interactive refactoring in gopls",
+      "url": "https://go.dev/blog/interactive-refactoring",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
