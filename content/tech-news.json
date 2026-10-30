@@ -1,32 +1,59 @@
 {
-  "generatedAt": "2026-10-29T16:31:44.842Z",
+  "generatedAt": "2026-10-30T16:23:35.181Z",
   "items": [
     {
-      "id": "decf42c69ac7",
-      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-      "url": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_9nWgq7s.max-1000x1000.jpg"
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
     },
     {
-      "id": "5b23bcb1a200",
-      "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
+      "id": "7927d7eea976",
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "url": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/updated_architecture_official_icon.max-1000x1000.png"
     },
     {
-      "id": "80b936e6dfd4",
-      "title": "Grounding agents in one context graph connecting semantic models you already trust",
-      "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "id": "69a04a767ee3",
+      "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+      "url": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
       "source": "Google Cloud Blog",
       "category": "cloud",
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Live_Costs_-_Hi_Res_Mock.max-1000x1000.png"
+    },
+    {
+      "id": "1c645bca188b",
+      "title": "Cloudflare services for private origins is now generally available",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-10-30T14:23:43.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png"
+    },
+    {
+      "id": "f15b8cc4d8db",
+      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-30T12:02:33.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
+    },
+    {
+      "id": "9e0baf15d40d",
+      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+      "source": "Azure",
+      "category": "cloud",
       "publishedAt": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1._Side-by-side_comparison_z1p0n9c.gif"
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
     },
     {
       "id": "4937bb769d43",
@@ -54,15 +81,6 @@
       "category": "ai",
       "publishedAt": "2026-10-29T05:00:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/ai_conf_kubecon.jpg"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Say hello to Touch on Mac",
-      "url": "https://developer.apple.com/news/?id=i9boeiqc",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-28T17:00:55.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/E57D1B55-40D6-4688-A08C-2C366CB8D2EC/2048.jpeg"
     },
     {
       "id": "85daa6a85474",
@@ -99,15 +117,6 @@
       "category": "cloud",
       "publishedAt": "2026-10-27T13:00:00.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
-    },
-    {
-      "id": "008876f8cd1c",
-      "title": "What took the Internet offline in Q3 2026",
-      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW453HMZRQX1BZKZQMN21EG8.png"
     },
     {
       "id": "8475093c4b1d",
@@ -155,22 +164,48 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png"
     },
     {
-      "id": "56a7035cf57d",
-      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
-      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-23T14:58:56.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
+      "id": "b2098f2882bb",
+      "title": "It’s ok that computers are (sometimes) better than us",
+      "url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-30T07:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "d053d7081b69",
-      "title": "Accordion Icons: Which Work Best?",
-      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-10-23T13:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
+      "id": "c1dec23f30ed",
+      "title": "The reports of Stack Overflow's death are greatly exaggerated",
+      "url": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-29T22:30:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f077426960fd528ef7706da767d169cf49038d71-2048x1152.png?rect=0,39,2048,1075&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "d07aa7b55820",
+      "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-29T19:52:29.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)"
+    },
+    {
+      "id": "7bf0065ceb16",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
+      "url": "https://developer.apple.com/news/?id=w9mxlhek",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-10-29T15:00:56.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
       "id": "6f763d923b85",
@@ -191,15 +226,6 @@
       "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
     },
     {
-      "id": "e1c742c1d925",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "imageUrl": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg"
-    },
-    {
       "id": "b2587f37e413",
       "title": "A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder",
       "url": "https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder",
@@ -207,14 +233,6 @@
       "category": "backend",
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "bfd118a130ac",
-      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-10-28T21:00:00.000Z"
     },
     {
       "id": "0912e56e8ede",
@@ -242,15 +260,6 @@
       "category": "tools",
       "publishedAt": "2026-10-28T16:09:28.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png"
-    },
-    {
-      "id": "101a0d25b61a",
-      "title": "Delivering controlled and concentrated context",
-      "url": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-28T14:55:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2896e0a931ba2ad6afc31c70b61eaa24d2d7ed4-1200x630.png?w=1200&h=630&auto=format"
     },
     {
       "id": "2a3f88df807b",
@@ -298,15 +307,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
     },
     {
-      "id": "0a80542424ea",
-      "title": "Elevators, toasters, and the birth of Java",
-      "url": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
-      "source": "Stack Overflow Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-27T07:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
       "id": "d9d01bde1a56",
       "title": "Announcing the Workload Conformance Working Group",
       "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
@@ -342,22 +342,22 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "b902e5badadc",
-      "title": "PHP2Shell and eMudhra Patched",
-      "url": "https://www.docker.com/blog/php2shell-and-emudhra-patched/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-23T13:08:08.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
+      "id": "56a7035cf57d",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
     },
     {
-      "id": "651b6a2bacfd",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-22T17:21:30.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
+      "id": "d053d7081b69",
+      "title": "Accordion Icons: Which Work Best?",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
     },
     {
       "id": "72099188aed0",
@@ -369,13 +369,13 @@
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
-      "id": "e31bf18aa91a",
-      "title": "Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-21T22:00:00.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases"
+      "id": "b902e5badadc",
+      "title": "PHP2Shell and eMudhra Patched",
+      "url": "https://www.docker.com/blog/php2shell-and-emudhra-patched/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-10-23T13:08:08.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
       "id": "1ecfd1ce7a1c",
@@ -422,13 +422,13 @@
       "publishedAt": "2026-10-19T00:00:00.000Z"
     },
     {
-      "id": "66b01ef31145",
-      "title": "Interactive refactoring in gopls",
-      "url": "https://go.dev/blog/interactive-refactoring",
-      "source": "Go Blog",
+      "id": "8922037e2097",
+      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
+      "source": "Kotlin Blog",
       "category": "languages",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+      "publishedAt": "2026-10-15T15:03:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
     }
   ]
 }
