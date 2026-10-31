@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-30T16:23:35.181Z",
+  "generatedAt": "2026-10-31T15:33:45.964Z",
   "items": [
     {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Google Cloud Blog",
+      "id": "cbd8445c9de8",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-10-31T08:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-november-2026/nov-26-from-spooky-to-scruffy-preview-opt.png"
+    },
+    {
+      "id": "16ec2c40ac77",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "Cloudflare Blog",
       "category": "cloud",
+      "publishedAt": "2026-10-30T17:38:50.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
+    },
+    {
+      "id": "ba722fd91068",
+      "title": "What’s new in AI infrastructure and orchestration in October",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
       "publishedAt": "2026-10-30T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-600x600.jpg"
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Whats_new_in_AI_infrastructure.max-600x600.jpg"
     },
     {
       "id": "7927d7eea976",
@@ -110,15 +128,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "73905398b90a",
-      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-      "url": "https://blog.cloudflare.com/php-ctf/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
-    },
-    {
       "id": "8475093c4b1d",
       "title": "Making Failure Diagnosis Reliable with Pensive AI",
       "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
@@ -155,13 +164,21 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Screenshot-2026-10-22-170942.webp"
     },
     {
-      "id": "5c4b417b27b9",
-      "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-23T18:32:51.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png"
+      "id": "e721105ebf24",
+      "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-10-30T20:43:00.000Z"
+    },
+    {
+      "id": "b2263e9f8412",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-10-30T17:57:24.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
     },
     {
       "id": "b2098f2882bb",
@@ -191,14 +208,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)"
     },
     {
-      "id": "7bf0065ceb16",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-10-29T17:00:00.000Z"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
       "url": "https://developer.apple.com/news/?id=w9mxlhek",
@@ -215,15 +224,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-29T13:47:08.000Z",
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
-    },
-    {
-      "id": "f3538b6fb36f",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-10-29T13:37:07.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
     },
     {
       "id": "b2587f37e413",
@@ -342,6 +342,15 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
+      "id": "5c4b417b27b9",
+      "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+      "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-23T18:32:51.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png"
+    },
+    {
       "id": "56a7035cf57d",
       "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
       "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
@@ -420,15 +429,6 @@
       "source": "React Native",
       "category": "mobile",
       "publishedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "8922037e2097",
-      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-15T15:03:05.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
     }
   ]
 }
