@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:33:45.964Z",
+  "generatedAt": "2026-11-01T16:30:59.188Z",
   "items": [
     {
       "id": "cbd8445c9de8",
@@ -162,6 +162,15 @@
       "category": "cloud",
       "publishedAt": "2026-10-26T16:00:00.000Z",
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Screenshot-2026-10-22-170942.webp"
+    },
+    {
+      "id": "02eb758bb46a",
+      "title": "What's new in Astro - October 2026",
+      "url": "https://astro.build/blog/whats-new-october-2026/",
+      "source": "Astro Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
+      "imageUrl": "https://astro.build/_astro/og.m5r1T33i.webp"
     },
     {
       "id": "e721105ebf24",
@@ -421,14 +430,6 @@
       "category": "mobile",
       "publishedAt": "2026-10-19T23:11:38.000Z",
       "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "c11712eb305e",
-      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
-      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
-      "source": "React Native",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T00:00:00.000Z"
     }
   ]
 }
