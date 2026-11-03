@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-02T19:54:35.222Z",
+  "generatedAt": "2026-11-03T17:27:10.727Z",
   "items": [
+    {
+      "id": "adafdd4764cb",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "5101d1a486d6",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ6AY4JP65PWEN7N433797.01M6GJ6BBQ9P5FYVNPWDVKT2EY.png"
+    },
+    {
+      "id": "89375f5d5154",
+      "title": "Modern CSS Might Make Your Front-End More Complex",
+      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-11-03T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/comment-paragraph-devtools.png"
+    },
+    {
+      "id": "f5a0d7153ecc",
+      "title": "Five rules for evaluating agent skills before they bloat your context window",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_dRIBHtV.max-1000x1000.jpg"
+    },
+    {
+      "id": "78a1dbd86988",
+      "title": "Introducing Physical-Engineering’s Last Exam for agents",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/PLE_Kaggle_-_ple_disciplines_description.max-1000x1000.png"
+    },
+    {
+      "id": "12359b882a77",
+      "title": "The Platform Behind the Next AI Breakthrough",
+      "url": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-11-02T20:52:22.000Z",
+      "imageUrl": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg"
+    },
     {
       "id": "1802721ebc5f",
       "title": "The latest AI news we announced in October 2026",
@@ -9,33 +63,6 @@
       "category": "ai",
       "publishedAt": "2026-11-02T17:45:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "56f658505807",
-      "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
-      "url": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_oV7twdV.max-1000x1000.png"
-    },
-    {
-      "id": "63028db311b2",
-      "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-02T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Usage_chart_showing_LLMJacking_ge.max-1000x1000_IcanCpV.png"
-    },
-    {
-      "id": "30b15a7c5706",
-      "title": "Shutting the Door on the XCPE Botnet",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-02T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_XCPE_malware_overview.max-1000x1000.png"
     },
     {
       "id": "0a490515f796",
@@ -83,15 +110,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
     },
     {
-      "id": "1c645bca188b",
-      "title": "Cloudflare services for private origins is now generally available",
-      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-30T14:23:43.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png"
-    },
-    {
       "id": "ea66f5a34808",
       "title": "Speeding up planning decisions with AI",
       "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
@@ -137,15 +155,6 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/ai_conf_kubecon.jpg"
     },
     {
-      "id": "85daa6a85474",
-      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-28T16:07:40.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576"
-    },
-    {
       "id": "de96adf12bfa",
       "title": "Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip",
       "url": "https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay",
@@ -155,13 +164,65 @@
       "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/dimitarproynov/20261028/message-hierarchy.png"
     },
     {
-      "id": "5ef94984dce4",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-10-27T16:01:38.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
+      "id": "0e7b16327df7",
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-03T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/692880266-19c28791-dea3-4df2-beab-3916036a4d0b.png?fit=1280%2C720"
+    },
+    {
+      "id": "d53daf64646b",
+      "title": "Re-Implementing :nth-child() With Modern CSS",
+      "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-03T14:50:32.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
+    },
+    {
+      "id": "393e45878a25",
+      "title": "Oh, your agents need OAuth2, too",
+      "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-03T08:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "2a811bfd7c0c",
+      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "d6d51e5a2cab",
+      "title": "This Week in Spring - November 3rd, 2026",
+      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "35fb88327d65",
+      "title": "Announcing rustup 1.29.3",
+      "url": "https://blog.rust-lang.org/2026/11/03/Rustup-1.29.3/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "a001212ef654",
+      "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-02T20:45:00.000Z"
     },
     {
       "id": "8f2869a54f9f",
@@ -172,12 +233,13 @@
       "publishedAt": "2026-11-02T18:43:00.000Z"
     },
     {
-      "id": "63f6859190e5",
-      "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-02T18:36:00.000Z"
+      "id": "7d7079a0abaf",
+      "title": "Upcoming: New age rating content descriptors in App Store Connect",
+      "url": "https://developer.apple.com/news/?id=yxkh08us",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-11-02T17:30:07.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
     },
     {
       "id": "b8ddd3b56843",
@@ -189,21 +251,13 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
     },
     {
-      "id": "19244c7aa206",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
-    },
-    {
       "id": "79d509c9c758",
       "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
       "url": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
       "source": "Android Developers",
       "category": "mobile",
       "publishedAt": "2026-11-02T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_155_Strapi_73849d3c63_Z98ywJ.webp"
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_155_Strapi_1_f48145e2db_qY0vp.webp"
     },
     {
       "id": "826e500342a5",
@@ -249,15 +303,6 @@
       "category": "backend",
       "publishedAt": "2026-10-29T19:52:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
-      "url": "https://developer.apple.com/news/?id=w9mxlhek",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-10-29T15:00:56.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/apple-developer-og.png"
     },
     {
       "id": "6f763d923b85",
@@ -323,32 +368,6 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_146_ADS_Spotlight_Tools_and_Performance_47f52bd6b1_Z1qi2aR.webp"
     },
     {
-      "id": "723a7368b38e",
-      "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-      "url": "https://css-tricks.com/whats-important-19/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-10-27T15:09:16.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
-    },
-    {
-      "id": "d9d01bde1a56",
-      "title": "Announcing the Workload Conformance Working Group",
-      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
-      "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-27T04:30:00.000Z"
-    },
-    {
-      "id": "7028f0740bab",
-      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-26T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg"
-    },
-    {
       "id": "56a7035cf57d",
       "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
       "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
@@ -376,6 +395,14 @@
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
+      "id": "d9d01bde1a56",
+      "title": "Announcing the Workload Conformance Working Group",
+      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+      "source": "Kubernetes Blog",
+      "category": "backend",
+      "publishedAt": "2026-10-27T04:30:00.000Z"
+    },
+    {
       "id": "7976df2ce6c6",
       "title": "How to fund Rust contributors",
       "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
@@ -401,33 +428,6 @@
       "category": "languages",
       "publishedAt": "2026-10-21T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "f1e66fdacb8a",
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
-    },
-    {
-      "id": "9436a8927468",
-      "title": "Announcing rustup 1.29.2",
-      "url": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "6f41e119c0a1",
-      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
-      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-10-19T23:11:38.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
