@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-03T17:27:10.727Z",
+  "generatedAt": "2026-11-04T17:40:21.437Z",
   "items": [
+    {
+      "id": "f2bb0b62f309",
+      "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+      "url": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GPS2026_1020_153905-6308_ALIVE.max-600x600.jpg"
+    },
+    {
+      "id": "2c3c9648ace7",
+      "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/compute-engine-multi-version-hero.max-600x600.jpg"
+    },
+    {
+      "id": "19361844fc32",
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "Siri AI is now open to all developers",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf",
+      "source": "Apple Developer",
+      "category": "ai",
+      "publishedAt": "2026-11-03T18:00:20.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/511D5BB8-613D-4B6E-BB7A-C19C1991B592/2048.jpeg"
+    },
     {
       "id": "adafdd4764cb",
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -27,33 +63,6 @@
       "category": "frontend",
       "publishedAt": "2026-11-03T10:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/comment-paragraph-devtools.png"
-    },
-    {
-      "id": "f5a0d7153ecc",
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_dRIBHtV.max-1000x1000.jpg"
-    },
-    {
-      "id": "78a1dbd86988",
-      "title": "Introducing Physical-Engineering’s Last Exam for agents",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/PLE_Kaggle_-_ple_disciplines_description.max-1000x1000.png"
-    },
-    {
-      "id": "12359b882a77",
-      "title": "The Platform Behind the Next AI Breakthrough",
-      "url": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-11-02T20:52:22.000Z",
-      "imageUrl": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg"
     },
     {
       "id": "1802721ebc5f",
@@ -101,15 +110,6 @@
       "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-november-2026/nov-26-from-spooky-to-scruffy-preview-opt.png"
     },
     {
-      "id": "16ec2c40ac77",
-      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-      "url": "https://blog.cloudflare.com/emudhra-patching/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-10-30T17:38:50.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
-    },
-    {
       "id": "ea66f5a34808",
       "title": "Speeding up planning decisions with AI",
       "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
@@ -155,13 +155,64 @@
       "imageUrl": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/ai_conf_kubecon.jpg"
     },
     {
-      "id": "de96adf12bfa",
-      "title": "Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip",
-      "url": "https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay",
-      "source": "Spring Blog",
+      "id": "3b6af3c9f587",
+      "title": "Helping you build and defend at machine-speed in the agentic era",
+      "url": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Security__Identity.max-2500x2500.jpg"
+    },
+    {
+      "id": "889dda4bf23b",
+      "title": "Your .NET parallel loop can become serial in a one-CPU container",
+      "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-04T16:34:13.000Z"
+    },
+    {
+      "id": "84ecd190588d",
+      "title": "Smashing AI Conference",
+      "url": "https://css-tricks.com/smashing-ai-conference/",
+      "source": "CSS-Tricks",
       "category": "ai",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/dimitarproynov/20261028/message-hierarchy.png"
+      "publishedAt": "2026-11-04T15:02:51.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
+    },
+    {
+      "id": "3a06f84c0f51",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-04T14:30:00.000Z"
+    },
+    {
+      "id": "75679f5aa60b",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T07:00:00.000Z"
+    },
+    {
+      "id": "41552834405f",
+      "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
+      "url": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ADS_Compose_blog_1_9a0f711253_1AsfNj.webp"
+    },
+    {
+      "id": "47a0b5ef9f7f",
+      "title": "Wednesday, November 11, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases"
     },
     {
       "id": "0e7b16327df7",
@@ -191,14 +242,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "2a811bfd7c0c",
-      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
       "id": "d6d51e5a2cab",
       "title": "This Week in Spring - November 3rd, 2026",
       "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
@@ -215,31 +258,6 @@
       "category": "languages",
       "publishedAt": "2026-11-03T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "a001212ef654",
-      "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-02T20:45:00.000Z"
-    },
-    {
-      "id": "8f2869a54f9f",
-      "title": "Amazon RDS now supports per snapshot billing",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-02T18:43:00.000Z"
-    },
-    {
-      "id": "7d7079a0abaf",
-      "title": "Upcoming: New age rating content descriptors in App Store Connect",
-      "url": "https://developer.apple.com/news/?id=yxkh08us",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-11-02T17:30:07.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/app-store-connect-og.png"
     },
     {
       "id": "b8ddd3b56843",
@@ -287,15 +305,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "c1dec23f30ed",
-      "title": "The reports of Stack Overflow's death are greatly exaggerated",
-      "url": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-10-29T22:30:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f077426960fd528ef7706da767d169cf49038d71-2048x1152.png?rect=0,39,2048,1075&w=1200&h=630&auto=format"
-    },
-    {
       "id": "d07aa7b55820",
       "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
@@ -303,15 +312,6 @@
       "category": "backend",
       "publishedAt": "2026-10-29T19:52:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)"
-    },
-    {
-      "id": "6f763d923b85",
-      "title": "The Frankenstein Table",
-      "url": "https://css-tricks.com/the-frankenstein-table/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-10-29T13:47:08.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
     },
     {
       "id": "b2587f37e413",
@@ -332,40 +332,13 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.2%20(LTS)"
     },
     {
-      "id": "cc6a0ea70cfd",
-      "title": "Node.js 26.13.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v26.13.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-28T16:58:40.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.0%20(LTS)"
-    },
-    {
-      "id": "6275c06097e7",
-      "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "source": "GitHub Blog",
+      "id": "7028f0740bab",
+      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
       "category": "tools",
-      "publishedAt": "2026-10-28T16:09:28.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png"
-    },
-    {
-      "id": "4001ba3aa601",
-      "title": "Agentic and Flexible: A next era of Android development",
-      "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/Mesa_de_trabajo_1_copy_8_3f8cf8a935_Z1QqkpY.webp"
-    },
-    {
-      "id": "28d5f2e7c696",
-      "title": "What's new in Android developer tools and performance at Android Dev Summit",
-      "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_146_ADS_Spotlight_Tools_and_Performance_47f52bd6b1_Z1qi2aR.webp"
+      "publishedAt": "2026-10-26T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg"
     },
     {
       "id": "56a7035cf57d",
@@ -386,13 +359,13 @@
       "imageUrl": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
     },
     {
-      "id": "72099188aed0",
-      "title": "Announcing TypeScript 7.1 Beta",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
-      "source": "TypeScript DevBlog",
-      "category": "languages",
-      "publishedAt": "2026-10-20T17:53:06.000Z",
-      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
+      "id": "4001ba3aa601",
+      "title": "Agentic and Flexible: A next era of Android development",
+      "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/Mesa_de_trabajo_1_copy_8_3f8cf8a935_Z1QqkpY.webp"
     },
     {
       "id": "d9d01bde1a56",
@@ -419,6 +392,33 @@
       "category": "languages",
       "publishedAt": "2026-10-26T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "72099188aed0",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "TypeScript DevBlog",
+      "category": "languages",
+      "publishedAt": "2026-10-20T17:53:06.000Z",
+      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
+    },
+    {
+      "id": "8922037e2097",
+      "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-15T15:03:05.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/2026-06-28-17.38.09-EDIT.jpg"
+    },
+    {
+      "id": "84ed3dda6781",
+      "title": "What Makes a Great KotlinConf Proposal?",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-10-15T09:11:39.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/pamela.webp"
     },
     {
       "id": "1ecfd1ce7a1c",
