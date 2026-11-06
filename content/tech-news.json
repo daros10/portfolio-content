@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-05T17:46:32.076Z",
+  "generatedAt": "2026-11-06T17:03:25.246Z",
   "items": [
+    {
+      "id": "8701fa3f5588",
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Mito-hero.max-600x600.png"
+    },
+    {
+      "id": "4e545977b446",
+      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
+      "url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/nutanix_CyX4UCq.max-1000x1000.jpg"
+    },
+    {
+      "id": "67b8c97dc4a8",
+      "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
+      "url": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-11-06T15:01:04.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
+    },
+    {
+      "id": "dab63348f0c7",
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNKQ9RKEJ9CKY6DGNF44RV.01M6RNKRJAQTN05BV66646AM7Z.png"
+    },
+    {
+      "id": "fd494cf14bb0",
+      "title": "A New Community For In-House UX People",
+      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+      "source": "Smashing Magazine",
+      "category": "frontend",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders.jpg"
+    },
+    {
+      "id": "4246d58cd50e",
+      "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
+      "url": "https://www.docker.com/blog/docker-sandboxes-vs-containers/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-06T03:17:04.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/docker_sandboxes-vs-containers_110226_v1_DARK-2320x1218.jpg"
+    },
+    {
+      "id": "69af5f8a1220",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-05T20:23:21.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483"
+    },
     {
       "id": "65bf7a9e9f17",
       "title": "Agents aren’t humans (but they kinda are)",
@@ -20,33 +83,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"
     },
     {
-      "id": "f30582815c21",
-      "title": "Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Hero_tsgSDxO.max-600x600.jpg"
-    },
-    {
-      "id": "50dcc273211c",
-      "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
-      "url": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_xGJBEhT.max-1000x1000.jpg"
-    },
-    {
-      "id": "bd5d29a32a5f",
-      "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-omni.max-600x600.jpg"
-    },
-    {
       "id": "12fa902d826a",
       "title": "Accessibility statements now have a home on GitHub",
       "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
@@ -57,7 +93,7 @@
     },
     {
       "id": "5dcd3e9eb13e",
-      "title": "Docker + ActiveState Extending Secure Defaults to the Packages Developers Install",
+      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
       "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
       "source": "Docker Blog",
       "category": "tools",
@@ -110,15 +146,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
     },
     {
-      "id": "5101d1a486d6",
-      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "url": "https://blog.cloudflare.com/zero-wire/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ6AY4JP65PWEN7N433797.01M6GJ6BBQ9P5FYVNPWDVKT2EY.png"
-    },
-    {
       "id": "89375f5d5154",
       "title": "Modern CSS Might Make Your Front-End More Complex",
       "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
@@ -126,6 +153,15 @@
       "category": "frontend",
       "publishedAt": "2026-11-03T10:00:00.000Z",
       "imageUrl": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/comment-paragraph-devtools.png"
+    },
+    {
+      "id": "12359b882a77",
+      "title": "The Platform Behind the Next AI Breakthrough",
+      "url": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+      "source": "Azure",
+      "category": "ai",
+      "publishedAt": "2026-11-02T20:52:22.000Z",
+      "imageUrl": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg"
     },
     {
       "id": "1802721ebc5f",
@@ -137,40 +173,64 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "7c6b46d680c8",
-      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
-      "url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
-      "source": "Docker Blog",
+      "id": "4e4ef1baa493",
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "73da5c2802b2",
+      "title": "Welcome to life in the chip age",
+      "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
+      "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-11-02T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image1-3.png"
+      "publishedAt": "2026-11-06T08:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "cbd8445c9de8",
-      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-10-31T08:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/desktop-wallpaper-calendars-november-2026/nov-26-from-spooky-to-scruffy-preview-opt.png"
+      "id": "f1280b003fab",
+      "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
+      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Data_Analytics_JooYPJr.max-2500x2500.jpg"
     },
     {
-      "id": "ea66f5a34808",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-10-30T14:18:30.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo"
+      "id": "cb67656657c5",
+      "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-06T00:30:00.000Z"
     },
     {
-      "id": "f15b8cc4d8db",
-      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
+      "id": "91dfb96a8eea",
+      "title": "Spring Boot 4.2.0-RC2 available now",
+      "url": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
+    },
+    {
+      "id": "2e92d8d7a0a8",
+      "title": "The Kotlin Multiplatform Contest Is Open: Win a Trip to KotlinConf",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-multiplatform-contest-2027/",
       "source": "Kotlin Blog",
       "category": "languages",
-      "publishedAt": "2026-10-30T12:02:33.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
+      "publishedAt": "2026-11-05T22:05:21.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KM-social-BlogSocialShare-1280x720-1.png"
+    },
+    {
+      "id": "22651fee2657",
+      "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-05T21:30:00.000Z"
     },
     {
       "id": "a6e94442468c",
@@ -199,28 +259,31 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/announcements/Node.js%20%E2%80%94%20Notable%20V8%20changes%20from%20Node.js%2026%20to%2027%20(Alpha)"
     },
     {
-      "id": "6e7a4887b92d",
-      "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-04T21:29:00.000Z"
+      "id": "4e62dd342954",
+      "title": "From in-app agents to the Android intelligence system: What’s new in intelligent apps at the Android Developer Summit",
+      "url": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ADS_Intelligent_Aps_df6b69d7ef_Z1LuzQ9.webp"
     },
     {
-      "id": "5b5831df5949",
-      "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
-      "source": "AWS",
+      "id": "ab77d4b5b67e",
+      "title": "Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
+      "source": "Spring Blog",
       "category": "cloud",
-      "publishedAt": "2026-11-04T19:00:00.000Z"
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "a28408ccadea",
-      "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-04T18:40:00.000Z"
+      "id": "3eb96fe66d60",
+      "title": "A Bootiful Podcast: Temporal.io's Cornelia Davis",
+      "url": "https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "889dda4bf23b",
@@ -276,24 +339,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
     },
     {
-      "id": "393e45878a25",
-      "title": "Oh, your agents need OAuth2, too",
-      "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-03T08:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "d6d51e5a2cab",
-      "title": "This Week in Spring - November 3rd, 2026",
-      "url": "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-03T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "35fb88327d65",
       "title": "Announcing rustup 1.29.3",
       "url": "https://blog.rust-lang.org/2026/11/03/Rustup-1.29.3/",
@@ -321,6 +366,15 @@
       "imageUrl": "https://astro.build/_astro/og.m5r1T33i.webp"
     },
     {
+      "id": "f15b8cc4d8db",
+      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-30T12:02:33.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
+    },
+    {
       "id": "d07aa7b55820",
       "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
@@ -328,51 +382,6 @@
       "category": "backend",
       "publishedAt": "2026-10-29T19:52:29.000Z",
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)"
-    },
-    {
-      "id": "9e0baf15d40d",
-      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
-    },
-    {
-      "id": "a1fd010ba462",
-      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-      "url": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Screenshot-2026-10-22-170942.webp"
-    },
-    {
-      "id": "56a7035cf57d",
-      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
-      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-10-23T14:58:56.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
-    },
-    {
-      "id": "b2587f37e413",
-      "title": "A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder",
-      "url": "https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "4001ba3aa601",
-      "title": "Agentic and Flexible: A next era of Android development",
-      "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/Mesa_de_trabajo_1_copy_8_3f8cf8a935_Z1QqkpY.webp"
     },
     {
       "id": "d9d01bde1a56",
@@ -401,6 +410,15 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
+      "id": "56a7035cf57d",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
+    },
+    {
       "id": "72099188aed0",
       "title": "Announcing TypeScript 7.1 Beta",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
@@ -408,24 +426,6 @@
       "category": "languages",
       "publishedAt": "2026-10-20T17:53:06.000Z",
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
-    },
-    {
-      "id": "1ecfd1ce7a1c",
-      "title": "Help set Go's priorities for next year",
-      "url": "https://go.dev/blog/survey2026-announce",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "9436a8927468",
-      "title": "Announcing rustup 1.29.2",
-      "url": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
