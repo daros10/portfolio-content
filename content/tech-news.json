@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T17:03:25.246Z",
+  "generatedAt": "2026-11-07T15:59:35.652Z",
   "items": [
     {
-      "id": "8701fa3f5588",
-      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
-      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "id": "6d7526357c23",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Google Cloud Blog",
-      "category": "ai",
+      "category": "cloud",
       "publishedAt": "2026-11-06T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Mito-hero.max-600x600.png"
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_with_google_cloud.max-600x600.jpg"
     },
     {
       "id": "4e545977b446",
@@ -18,6 +18,15 @@
       "category": "ai",
       "publishedAt": "2026-11-06T17:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/nutanix_CyX4UCq.max-1000x1000.jpg"
+    },
+    {
+      "id": "8701fa3f5588",
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Mito-hero.max-600x600.png"
     },
     {
       "id": "67b8c97dc4a8",
@@ -173,12 +182,38 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
     },
     {
-      "id": "4e4ef1baa493",
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+      "id": "317a771eb373",
+      "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-06T14:00:00.000Z"
+      "publishedAt": "2026-11-06T22:47:00.000Z"
+    },
+    {
+      "id": "5cecc12e376b",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-06T22:15:59.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png"
+    },
+    {
+      "id": "2c2f6c870eaa",
+      "title": "RSS Club: CSS-Tricks Redesign Preview",
+      "url": "https://css-tricks.com/css-tricks-redesign-preview/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-06T18:52:59.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+    },
+    {
+      "id": "d52d67ed0704",
+      "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-06T16:00:00.000Z"
     },
     {
       "id": "73da5c2802b2",
@@ -190,21 +225,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "f1280b003fab",
-      "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Data_Analytics_JooYPJr.max-2500x2500.jpg"
-    },
-    {
-      "id": "cb67656657c5",
-      "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-06T00:30:00.000Z"
+      "id": "62df8fdc1d26",
+      "title": "Build for an expanding lineup of Android XR devices with production-ready tools from Android Developer Summit",
+      "url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_149_Strapi_A2_B_8fa837edce_Z1vNdw4.webp"
     },
     {
       "id": "91dfb96a8eea",
@@ -223,14 +250,6 @@
       "category": "languages",
       "publishedAt": "2026-11-05T22:05:21.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KM-social-BlogSocialShare-1280x720-1.png"
-    },
-    {
-      "id": "22651fee2657",
-      "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-05T21:30:00.000Z"
     },
     {
       "id": "a6e94442468c",
@@ -260,7 +279,7 @@
     },
     {
       "id": "4e62dd342954",
-      "title": "From in-app agents to the Android intelligence system: What’s new in intelligent apps at the Android Developer Summit",
+      "title": "What’s new in intelligent apps at the Android Developer Summit",
       "url": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
       "source": "Android Developers",
       "category": "mobile",
@@ -294,6 +313,15 @@
       "publishedAt": "2026-11-04T16:34:13.000Z"
     },
     {
+      "id": "9bc464ef8a07",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "url": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg"
+    },
+    {
       "id": "41552834405f",
       "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
       "url": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
@@ -321,24 +349,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases"
     },
     {
-      "id": "0e7b16327df7",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-03T16:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/692880266-19c28791-dea3-4df2-beab-3916036a4d0b.png?fit=1280%2C720"
-    },
-    {
-      "id": "d53daf64646b",
-      "title": "Re-Implementing :nth-child() With Modern CSS",
-      "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-03T14:50:32.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
-    },
-    {
       "id": "35fb88327d65",
       "title": "Announcing rustup 1.29.3",
       "url": "https://blog.rust-lang.org/2026/11/03/Rustup-1.29.3/",
@@ -348,13 +358,13 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "79d509c9c758",
-      "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
-      "url": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_155_Strapi_1_f48145e2db_qY0vp.webp"
+      "id": "f15b8cc4d8db",
+      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
+      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-30T12:02:33.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
     },
     {
       "id": "02eb758bb46a",
@@ -364,15 +374,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-31T00:00:00.000Z",
       "imageUrl": "https://astro.build/_astro/og.m5r1T33i.webp"
-    },
-    {
-      "id": "f15b8cc4d8db",
-      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-30T12:02:33.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
     },
     {
       "id": "d07aa7b55820",
