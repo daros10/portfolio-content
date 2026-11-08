@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:59:35.652Z",
+  "generatedAt": "2026-11-08T16:27:39.735Z",
   "items": [
     {
       "id": "6d7526357c23",
@@ -146,15 +146,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png"
     },
     {
-      "id": "adafdd4764cb",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-11-03T17:01:49.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
-    },
-    {
       "id": "89375f5d5154",
       "title": "Modern CSS Might Make Your Front-End More Complex",
       "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
@@ -197,6 +188,14 @@
       "category": "tools",
       "publishedAt": "2026-11-06T22:15:59.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png"
+    },
+    {
+      "id": "e14a5e738593",
+      "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-11-06T19:48:00.000Z"
     },
     {
       "id": "2c2f6c870eaa",
@@ -313,15 +312,6 @@
       "publishedAt": "2026-11-04T16:34:13.000Z"
     },
     {
-      "id": "9bc464ef8a07",
-      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
-      "url": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg"
-    },
-    {
       "id": "41552834405f",
       "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
       "url": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
@@ -365,6 +355,15 @@
       "category": "languages",
       "publishedAt": "2026-10-30T12:02:33.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
+    },
+    {
+      "id": "9e0baf15d40d",
+      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
     },
     {
       "id": "02eb758bb46a",
