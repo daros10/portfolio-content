@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-11-08T16:27:39.735Z",
+  "generatedAt": "2026-11-09T20:19:13.606Z",
   "items": [
     {
-      "id": "6d7526357c23",
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "id": "a3f795d16cf8",
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-11-09T17:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
+    },
+    {
+      "id": "819d0c1ccd00",
+      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-09T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_1_legacy_software_blog_8uCnV8N.max-1000x1000.png"
+    },
+    {
+      "id": "e79ab6af73d9",
+      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_with_google_cloud.max-600x600.jpg"
+      "publishedAt": "2026-11-09T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-600x600.png"
     },
     {
-      "id": "4e545977b446",
-      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
-      "url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "id": "4cc997d5eb68",
+      "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
       "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/nutanix_CyX4UCq.max-1000x1000.jpg"
+      "category": "cloud",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1-architecture_6N0ck5s.max-1000x1000.png"
     },
     {
-      "id": "8701fa3f5588",
-      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
-      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Mito-hero.max-600x600.png"
+      "id": "b2982d30c350",
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6SMAP95G344HRNFK6NRMGZN.png"
     },
     {
       "id": "67b8c97dc4a8",
@@ -134,16 +152,16 @@
       "source": "Apple Developer",
       "category": "mobile",
       "publishedAt": "2026-11-04T16:00:56.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/A6247A25-56E3-4B91-8D4C-AD5CA7DD198E/2048.jpeg"
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1A6769C9-CED6-4B3D-B1C8-2FD454186C72/2048.jpeg"
     },
     {
-      "id": "19361844fc32",
-      "title": "See the agents, set the terms: new visibility and control for personal agents",
-      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-04T14:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png"
+      "id": "adafdd4764cb",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "89375f5d5154",
@@ -164,21 +182,45 @@
       "imageUrl": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg"
     },
     {
-      "id": "1802721ebc5f",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-02T17:45:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
+      "id": "9c331579e229",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "category": "cloud",
+      "publishedAt": "2026-11-09T19:00:00.000Z"
     },
     {
-      "id": "317a771eb373",
-      "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+      "id": "c17142ddb1c0",
+      "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-11-09T18:30:00.000Z"
+    },
+    {
+      "id": "e8b8ffe6c4d6",
+      "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
+      "source": "AWS",
+      "category": "ai",
+      "publishedAt": "2026-11-09T18:30:00.000Z"
+    },
+    {
+      "id": "0e395262658f",
+      "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-06T22:47:00.000Z"
+      "publishedAt": "2026-11-09T16:00:00.000Z"
+    },
+    {
+      "id": "e65a7ee16614",
+      "title": "CSS-Tricks, Version 20",
+      "url": "https://css-tricks.com/css-tricks-version-20/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-09T15:49:48.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
     },
     {
       "id": "5cecc12e376b",
@@ -190,14 +232,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png"
     },
     {
-      "id": "e14a5e738593",
-      "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
-      "source": "AWS",
-      "category": "ai",
-      "publishedAt": "2026-11-06T19:48:00.000Z"
-    },
-    {
       "id": "2c2f6c870eaa",
       "title": "RSS Club: CSS-Tricks Redesign Preview",
       "url": "https://css-tricks.com/css-tricks-redesign-preview/",
@@ -205,14 +239,6 @@
       "category": "frontend",
       "publishedAt": "2026-11-06T18:52:59.000Z",
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-    },
-    {
-      "id": "d52d67ed0704",
-      "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-06T16:00:00.000Z"
     },
     {
       "id": "73da5c2802b2",
@@ -295,23 +321,6 @@
       "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
-      "id": "3eb96fe66d60",
-      "title": "A Bootiful Podcast: Temporal.io's Cornelia Davis",
-      "url": "https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "889dda4bf23b",
-      "title": "Your .NET parallel loop can become serial in a one-CPU container",
-      "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-04T16:34:13.000Z"
-    },
-    {
       "id": "41552834405f",
       "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
       "url": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
@@ -357,15 +366,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
     },
     {
-      "id": "9e0baf15d40d",
-      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/CLO23_WorkAnywhere_025.jpg"
-    },
-    {
       "id": "02eb758bb46a",
       "title": "What's new in Astro - October 2026",
       "url": "https://astro.build/blog/whats-new-october-2026/",
@@ -392,24 +392,6 @@
       "publishedAt": "2026-10-27T04:30:00.000Z"
     },
     {
-      "id": "7976df2ce6c6",
-      "title": "How to fund Rust contributors",
-      "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "b19d44d93223",
-      "title": "Our Response To The eMudhra Key Disclosure Incident",
-      "url": "https://go.dev/blog/emudhra-incident",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
       "id": "56a7035cf57d",
       "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
       "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
@@ -426,6 +408,24 @@
       "category": "languages",
       "publishedAt": "2026-10-20T17:53:06.000Z",
       "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
+    },
+    {
+      "id": "7976df2ce6c6",
+      "title": "How to fund Rust contributors",
+      "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
+      "id": "b19d44d93223",
+      "title": "Our Response To The eMudhra Key Disclosure Incident",
+      "url": "https://go.dev/blog/emudhra-incident",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     }
   ]
 }
