@@ -1,31 +1,41 @@
 {
-  "generatedAt": "2026-11-11T17:36:29.364Z",
+  "generatedAt": "2026-11-12T17:49:15.533Z",
   "items": [
     {
-      "id": "f28f90d2895a",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
-      "category": "ai",
-      "publishedAt": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "5458547ac28e",
-      "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
-      "url": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
+      "id": "20b69209b0cb",
+      "title": "Chrome Enterprise brings more protections to healthcare technologies",
+      "url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
       "source": "Google Cloud Blog",
       "category": "cloud",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Lemonflow-Blueprint-Header.max-600x600.png"
+      "publishedAt": "2026-11-12T18:55:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini_Generated_Image_xay3nkxay3nkxay3.max-600x600.jpg"
     },
     {
-      "id": "fa2da1956d62",
-      "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
-      "url": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+      "id": "ae101ce5b72b",
+      "title": "Powering agentic cloud governance: What's new in Organization Policy",
+      "url": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
       "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1-OrgPolicy_audit_dashboard_using_MCP.max-1000x1000.png"
+    },
+    {
+      "id": "c20431e651bd",
+      "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
+      "url": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_smdkA5c.max-600x600.png"
+    },
+    {
+      "id": "ebb2101084be",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "source": "Smashing Magazine",
       "category": "ai",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/PAA_blog_header_approved.max-600x600.png"
+      "publishedAt": "2026-11-12T10:00:00.000Z",
+      "imageUrl": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg"
     },
     {
       "id": "bad6ee94c356",
@@ -35,15 +45,6 @@
       "category": "ai",
       "publishedAt": "2026-11-11T16:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e879c6fc35d4",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-11-11T15:00:15.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "1e25c4d1d22c",
@@ -64,15 +65,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"
     },
     {
-      "id": "b73105fe4ec5",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "Announcing the Swift Student Challenge 2027",
       "url": "https://developer.apple.com/news/?id=jkykd58d",
@@ -80,15 +72,6 @@
       "category": "languages",
       "publishedAt": "2026-11-10T17:00:12.000Z",
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1C4143E7-E040-48E6-B9DA-0D5278138EE1/2048.jpeg"
-    },
-    {
-      "id": "f8c1a7370c13",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-11-10T12:02:28.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "a3f795d16cf8",
@@ -154,40 +137,80 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483"
     },
     {
-      "id": "fa69cf987a95",
-      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
-      "url": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/CLO20b_Jean_Alain_casual_office_003.jpg"
-    },
-    {
-      "id": "8d0224de36d0",
-      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Cadence-Xcelium-RTLSimulation-Throughput-1-1024x575.jpg"
-    },
-    {
-      "id": "5dcd3e9eb13e",
-      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
-      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
-      "source": "Docker Blog",
+      "id": "dcbcf9e40c6c",
+      "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+      "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+      "source": "Stack Overflow Blog",
       "category": "tools",
-      "publishedAt": "2026-11-05T15:28:22.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/11/DHI-x-ActiveState-Reference-Architecture-selection-1-2320x1095.png"
+      "publishedAt": "2026-11-12T16:16:25.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/751dae65e9dfa3fa920e2e69dd68f6a3b9970f5b-12000x6293.jpg?rect=7,0,11987,6293&w=1200&h=630&auto=format"
     },
     {
-      "id": "e518ae11154e",
-      "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
-      "url": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-05T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image3-3.png"
+      "id": "23da4d4ec2e6",
+      "title": "Beyond 12 Columns: Designing Layouts With Personality",
+      "url": "https://css-tricks.com/beyond-12-columns/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-12T16:06:55.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
+    },
+    {
+      "id": "6d2e94a4c8bd",
+      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-12T13:36:10.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)"
+    },
+    {
+      "id": "0990939c7d6e",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "id": "b06379671ede",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "f28f90d2895a",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "56dac742ff29",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
+    },
+    {
+      "id": "f3cf1418c926",
+      "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-11T23:36:00.000Z"
+    },
+    {
+      "id": "2a6900735ada",
+      "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-11T23:18:00.000Z"
     },
     {
       "id": "1e031bfb939c",
@@ -208,13 +231,13 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.3%20(LTS)"
     },
     {
-      "id": "66ec64361cd0",
-      "title": "Node.js 22.23.5 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.23.5",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-11T16:44:58.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.5%20(LTS)"
+      "id": "28b485a42bd5",
+      "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
+      "url": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/1007_ABL_134_How_Smile_ID_Scaled_Identity_Verification_with_Camera_X_Strapi_788bf73f23_1eG2SV.webp"
     },
     {
       "id": "ea9f98ddcc2c",
@@ -224,22 +247,6 @@
       "category": "languages",
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "17645413b90f",
-      "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-10T23:22:00.000Z"
-    },
-    {
-      "id": "bc8f521b9645",
-      "title": "Amazon EC2 G7 instances now available in additional regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-10T19:30:00.000Z"
     },
     {
       "id": "b840bc26c8ce",
@@ -322,30 +329,13 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png"
     },
     {
-      "id": "2c2f6c870eaa",
-      "title": "RSS Club: CSS-Tricks Redesign Preview",
-      "url": "https://css-tricks.com/css-tricks-redesign-preview/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-06T18:52:59.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-    },
-    {
-      "id": "73da5c2802b2",
-      "title": "Welcome to life in the chip age",
-      "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-06T08:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
       "id": "62df8fdc1d26",
       "title": "Build for an expanding lineup of Android XR devices with production-ready tools from Android Developer Summit",
       "url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools",
       "source": "Android Developers",
       "category": "mobile",
-      "publishedAt": "2026-11-06T00:00:00.000Z"
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_149_Strapi_A2_B_8fa837edce_Z1vNdw4.webp"
     },
     {
       "id": "2e92d8d7a0a8",
@@ -357,22 +347,22 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KM-social-BlogSocialShare-1280x720-1.png"
     },
     {
-      "id": "4e62dd342954",
-      "title": "What’s new in intelligent apps at the Android Developer Summit",
-      "url": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ADS_Intelligent_Aps_df6b69d7ef_Z1LuzQ9.webp"
+      "id": "5dcd3e9eb13e",
+      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
+      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-05T15:28:22.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/DHI-x-ActiveState-Reference-Architecture-selection-1-2320x1095.png"
     },
     {
-      "id": "89375f5d5154",
-      "title": "Modern CSS Might Make Your Front-End More Complex",
-      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-      "source": "Smashing Magazine",
-      "category": "frontend",
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/comment-paragraph-devtools.png"
+      "id": "e518ae11154e",
+      "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
+      "url": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-05T14:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image3-3.png"
     },
     {
       "id": "f15b8cc4d8db",
@@ -426,6 +416,15 @@
       "source": "Kubernetes Blog",
       "category": "backend",
       "publishedAt": "2026-10-27T04:30:00.000Z"
+    },
+    {
+      "id": "7976df2ce6c6",
+      "title": "How to fund Rust contributors",
+      "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     }
   ]
 }
