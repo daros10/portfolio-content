@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-15T16:43:42.074Z",
+  "generatedAt": "2026-11-16T19:56:56.609Z",
   "items": [
+    {
+      "id": "0bc322583e6f",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c2fb696d2a52",
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Multi-agent_LLM_offensive_framewo.max-1000x1000.jpg"
+    },
+    {
+      "id": "6ff28044edff",
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud Operational Database Management Systems",
+      "url": "https://cloud.google.com/blog/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-16T08:30:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure1_jY7VxtF.max-1000x1000.png"
+    },
+    {
+      "id": "427a44748fe9",
+      "title": "Enabling the parallel frontend on nightly",
+      "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
+    },
     {
       "id": "09e5e80125ce",
       "title": "Kitesurf is now open source",
@@ -18,24 +54,6 @@
       "category": "ai",
       "publishedAt": "2026-11-13T19:26:07.000Z",
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
-    },
-    {
-      "id": "a324048b9a56",
-      "title": "New AI agent observability and governance across BigQuery and Looker",
-      "url": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-13T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_Unified_Agent_Observability_Framework_.max-1000x1000.png"
-    },
-    {
-      "id": "cf4f434cd34d",
-      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
-      "url": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-13T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/From_OLAP_to_OLTP_-_Image_1.max-1000x1000.png"
     },
     {
       "id": "813e40fce5f8",
@@ -74,15 +92,6 @@
       "imageUrl": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg"
     },
     {
-      "id": "bad6ee94c356",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-11T16:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
-    },
-    {
       "id": "e879c6fc35d4",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -92,39 +101,63 @@
       "imageUrl": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
     },
     {
+      "id": "f26f2a4dfd6b",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "id": "b1c71d07875a",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "category": "ai",
+      "publishedAt": "2026-11-16T17:00:00.000Z"
+    },
+    {
       "id": "7d7079a0abaf",
-      "title": "Announcing the Swift Student Challenge 2027",
-      "url": "https://developer.apple.com/news/?id=jkykd58d",
+      "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=oqng0zjk",
       "source": "Apple Developer",
-      "category": "languages",
-      "publishedAt": "2026-11-10T17:00:12.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1C4143E7-E040-48E6-B9DA-0D5278138EE1/2048.jpeg"
+      "category": "mobile",
+      "publishedAt": "2026-11-16T16:00:11.000Z",
+      "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png"
     },
     {
-      "id": "a3f795d16cf8",
-      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
-      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
+      "id": "df92106bce12",
+      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
+      "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
+      "source": "Docker Blog",
       "category": "tools",
-      "publishedAt": "2026-11-09T17:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
     },
     {
-      "id": "2427bacb74a9",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-11-13T18:00:39.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
+      "id": "bf88efe14217",
+      "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-16T08:00:00.000Z"
     },
     {
-      "id": "7ffc1af26978",
-      "title": "Your coding agent shouldn't grade its own homework",
-      "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/",
-      "source": "Stack Overflow Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-13T17:27:39.000Z"
+      "id": "59639c12a3bc",
+      "title": "AgentCore runtime instances are now available in six more AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-16T07:30:00.000Z"
+    },
+    {
+      "id": "e5355fd18e10",
+      "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
+      "url": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_158_Beyond_the_App_A_bd07c85947_Z2gA7nM.webp"
     },
     {
       "id": "a23c21722554",
@@ -133,23 +166,6 @@
       "source": "AWS",
       "category": "cloud",
       "publishedAt": "2026-11-13T16:00:00.000Z"
-    },
-    {
-      "id": "a97c7cf547a2",
-      "title": "10 Big Ol’ 2027 Black Friday Deals",
-      "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-13T14:05:24.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
-    },
-    {
-      "id": "134ab56ca337",
-      "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-13T13:13:00.000Z"
     },
     {
       "id": "7614a098bacc",
@@ -161,30 +177,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "f9eaeae795b4",
-      "title": "Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-13T08:00:00.000Z"
-    },
-    {
-      "id": "dcbcf9e40c6c",
+      "id": "e37102c99760",
       "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
-      "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+      "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human/",
       "source": "Stack Overflow Blog",
       "category": "tools",
       "publishedAt": "2026-11-12T16:16:25.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/751dae65e9dfa3fa920e2e69dd68f6a3b9970f5b-12000x6293.jpg?rect=7,0,11987,6293&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "23da4d4ec2e6",
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "url": "https://css-tricks.com/beyond-12-columns/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-12T16:06:55.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
     },
     {
       "id": "6d2e94a4c8bd",
@@ -259,15 +258,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-security-github-logo-blue.png"
     },
     {
-      "id": "8d158b6adbec",
-      "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-      "url": "https://css-tricks.com/css-using-declarations-just-once/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-10T16:42:18.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
-    },
-    {
       "id": "6b1f60daad37",
       "title": "Powering Seamless Player Sign-In: Introducing the Open-Source Sign in with Google Plugin for Unity",
       "url": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity",
@@ -302,6 +292,15 @@
       "category": "languages",
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "a3f795d16cf8",
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-11-09T17:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
     },
     {
       "id": "67b8c97dc4a8",
@@ -349,24 +348,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/11/DHI-x-ActiveState-Reference-Architecture-selection-1-2320x1095.png"
     },
     {
-      "id": "e518ae11154e",
-      "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
-      "url": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-05T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/10/image3-3.png"
-    },
-    {
-      "id": "62df8fdc1d26",
-      "title": "Build for an expanding lineup of Android XR devices with production-ready tools from Android Developer Summit",
-      "url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_149_Strapi_A2_B_8fa837edce_Z1vNdw4.webp"
-    },
-    {
       "id": "2e92d8d7a0a8",
       "title": "The Kotlin Multiplatform Contest Is Open: Win a Trip to KotlinConf",
       "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-multiplatform-contest-2027/",
@@ -385,15 +366,6 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "35fb88327d65",
-      "title": "Announcing rustup 1.29.3",
-      "url": "https://blog.rust-lang.org/2026/11/03/Rustup-1.29.3/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-03T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
       "id": "f15b8cc4d8db",
       "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
@@ -401,15 +373,6 @@
       "category": "languages",
       "publishedAt": "2026-10-30T12:02:33.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
-    },
-    {
-      "id": "7028f0740bab",
-      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-10-26T16:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg"
     },
     {
       "id": "02eb758bb46a",
@@ -427,6 +390,42 @@
       "source": "Kubernetes Blog",
       "category": "backend",
       "publishedAt": "2026-10-27T04:30:00.000Z"
+    },
+    {
+      "id": "7028f0740bab",
+      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-10-26T16:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg"
+    },
+    {
+      "id": "56a7035cf57d",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
+    },
+    {
+      "id": "72099188aed0",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "TypeScript DevBlog",
+      "category": "languages",
+      "publishedAt": "2026-10-20T17:53:06.000Z",
+      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
+    },
+    {
+      "id": "6f41e119c0a1",
+      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
+      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T23:11:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
