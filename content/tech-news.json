@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-11-17T18:52:55.083Z",
+  "generatedAt": "2026-11-18T18:31:21.977Z",
   "items": [
     {
-      "id": "82aaae6fc61f",
-      "title": "Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect",
-      "url": "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/",
-      "source": "Google Cloud Blog",
+      "id": "8e6075d168e0",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "af17318c693b",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "source": "Cloudflare Blog",
       "category": "cloud",
-      "publishedAt": "2026-11-17T18:35:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_JZez7Jh.max-1000x1000.png"
+      "publishedAt": "2026-11-18T14:52:10.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7QEX0WPTPFDDEE77HAVYYGB.01M7QEX1A784VKSE3C9SPC0P30.png"
+    },
+    {
+      "id": "7d7079a0abaf",
+      "title": "App Store Award finalists announced",
+      "url": "https://developer.apple.com/news/?id=vb753j92",
+      "source": "Apple Developer",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T14:00:18.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
+    },
+    {
+      "id": "f77cb680c486",
+      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+      "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/image2.png"
+    },
+    {
+      "id": "340c2ff0827f",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-17T20:24:27.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
     },
     {
       "id": "dfa52e89374f",
@@ -47,22 +83,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
     },
     {
-      "id": "66207e9d38c8",
-      "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_sot3w8r.max-1000x1000.png"
-    },
-    {
-      "id": "709ca2affc8d",
-      "title": "Congratulations to our 2026 Google Cloud Partner All-stars",
-      "url": "https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/blog_2026_partner_allstars.max-600x600.png"
+      "id": "90309880d44d",
+      "title": "Kotlin Toolchain 0.14: Agentic Development and iOS Publishing",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-toolchain-0-14-agentic-development-and-ios-publishing/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-11-17T15:25:05.000Z",
+      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
     },
     {
       "id": "ea1bd15d2eac",
@@ -110,24 +137,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M53647Q1KNRABY8VM2G7.png"
     },
     {
-      "id": "4766c254790f",
-      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-      "source": "Cloudflare Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-13T19:26:07.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
-    },
-    {
-      "id": "813e40fce5f8",
-      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
-      "url": "https://blog.cloudflare.com/spend-management/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M79507GNA08VSCSPAXM0NCC3.png"
-    },
-    {
       "id": "779ddc48195a",
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -135,6 +144,66 @@
       "category": "tools",
       "publishedAt": "2026-11-13T00:20:16.000Z",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/11/oct5-actions-jobs-starting-late.png?resize=1024%2C466"
+    },
+    {
+      "id": "1dbbf5f7a98e",
+      "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-18T17:00:00.000Z"
+    },
+    {
+      "id": "57ce14f5ec88",
+      "title": "Amazon Cognito now supports point-in-time recovery",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-18T17:00:00.000Z"
+    },
+    {
+      "id": "4894f3284b73",
+      "title": "Amazon RDS now supports fast storage volume initialization",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-18T16:00:00.000Z"
+    },
+    {
+      "id": "940edf162a5f",
+      "title": "When Everything Has Changed, What Do We Do Next?",
+      "url": "https://css-tricks.com/when-everything-has-changed/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-18T14:55:21.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+    },
+    {
+      "id": "2d78d7e130fb",
+      "title": "Elevating apps: New adaptive quality standards on Google Play",
+      "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_163_Elevating_Adaptive_App_Quality_Blue_30a2165ec7_PzLhg.webp"
+    },
+    {
+      "id": "0cafa650df0a",
+      "title": "Elevating games: New large screens and foldables quality standards on Google Play",
+      "url": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
+    },
+    {
+      "id": "89c64076e8d6",
+      "title": "This Week in Spring - November 18th, 2026",
+      "url": "https://spring.io/blog/2026/11/18/this-week-in-spring-november-18th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "f320540b0b83",
@@ -155,28 +224,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "841a27b30f2f",
-      "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-17T08:00:00.000Z"
-    },
-    {
-      "id": "676d1c265a69",
-      "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-17T08:00:00.000Z"
-    },
-    {
-      "id": "0a9c6c46d43a",
-      "title": "Amazon ECR now replicates image deletions across regions and accounts",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-16T22:07:00.000Z"
+      "id": "010625e64a9e",
+      "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
+      "url": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/1109_ABL_160_Ship_smarter_keep_rules_How_library_providers_can_unblock_app_level_DEX_code_optimization_1_44aba4f3cd_XBpnS.webp"
     },
     {
       "id": "156836d6c9f6",
@@ -188,15 +242,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=oqng0zjk",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-11-16T16:00:11.000Z",
-      "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png"
-    },
-    {
       "id": "df92106bce12",
       "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
       "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
@@ -204,15 +249,6 @@
       "category": "tools",
       "publishedAt": "2026-11-16T14:00:00.000Z",
       "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
-      "id": "e5355fd18e10",
-      "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
-      "url": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-16T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_158_Beyond_the_App_A_bd07c85947_Z2gA7nM.webp"
     },
     {
       "id": "615fe9482638",
@@ -242,15 +278,6 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "23da4d4ec2e6",
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "url": "https://css-tricks.com/beyond-12-columns/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-12T16:06:55.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
-    },
-    {
       "id": "6d2e94a4c8bd",
       "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
@@ -275,33 +302,6 @@
       "source": "Rust Blog",
       "category": "languages",
       "publishedAt": "2026-11-12T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
-      "id": "1e031bfb939c",
-      "title": "Node.js 26.13.1 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v26.13.1",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-11T16:45:20.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)"
-    },
-    {
-      "id": "28b485a42bd5",
-      "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
-      "url": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/1007_ABL_134_How_Smile_ID_Scaled_Identity_Verification_with_Camera_X_Strapi_788bf73f23_1eG2SV.webp"
-    },
-    {
-      "id": "ea9f98ddcc2c",
-      "title": "Google Summer of Code 2026 results",
-      "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
@@ -332,31 +332,31 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/CLO20b_Jean_Alain_casual_office_003.jpg"
     },
     {
-      "id": "5dcd3e9eb13e",
-      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
-      "url": "https://www.docker.com/blog/docker-activestate-trusted-content/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-05T15:28:22.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/11/DHI-x-ActiveState-Reference-Architecture-selection-1-2320x1095.png"
+      "id": "8d0224de36d0",
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+      "source": "Azure",
+      "category": "cloud",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Cadence-Xcelium-RTLSimulation-Throughput-1-1024x575.jpg"
     },
     {
-      "id": "6b1f60daad37",
-      "title": "Powering Seamless Player Sign-In: Introducing the Open-Source Sign in with Google Plugin for Unity",
-      "url": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_Sign_in_with_Google_Plugin_for_Unity_Gaming_DESIGN_Header_and_metadata_V01_26433b75fe_Z1DTBjX.webp"
-    },
-    {
-      "id": "cfeaedcb835d",
-      "title": "Announcing a New Home for Spring for Apache Pulsar",
-      "url": "https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf",
-      "source": "Spring Blog",
+      "id": "1e031bfb939c",
+      "title": "Node.js 26.13.1 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v26.13.1",
+      "source": "Node.js Blog",
       "category": "backend",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "publishedAt": "2026-11-11T16:45:20.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)"
+    },
+    {
+      "id": "ea9f98ddcc2c",
+      "title": "Google Summer of Code 2026 results",
+      "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "3b4cedcfd49e",
@@ -377,15 +377,6 @@
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KM-social-BlogSocialShare-1280x720-1.png"
     },
     {
-      "id": "aed4d9c60c01",
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-04T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
       "id": "f15b8cc4d8db",
       "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
       "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
@@ -393,6 +384,15 @@
       "category": "languages",
       "publishedAt": "2026-10-30T12:02:33.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
+    },
+    {
+      "id": "aed4d9c60c01",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "02eb758bb46a",
