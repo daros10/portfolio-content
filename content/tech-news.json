@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-18T18:31:21.977Z",
+  "generatedAt": "2026-11-19T18:45:03.642Z",
   "items": [
+    {
+      "id": "b00f82b6db94",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "2adef6bfeca0",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "84db2c6bfcd7",
+      "title": "Helping our partners market smarter, together, with Gemini",
+      "url": "https://cloud.google.com/blog/topics/partners/helping-our-partners-market-smarter-together-with-gemini/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/partner-marketing-studio-ai-gemini-launch-he.max-600x600.png"
+    },
+    {
+      "id": "643802172908",
+      "title": "Introducing object enrichments: Transform unstructured data into agent-ready context",
+      "url": "https://cloud.google.com/blog/products/storage-data-transfer/cost-effective-ai-context-extraction-from-unstructured-gcs-data/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/object_enrichments_blog_1.max-1000x1000.png"
+    },
+    {
+      "id": "899c4b9dc79c",
+      "title": "Meet the New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/blog-frame-2320x957.png"
+    },
+    {
+      "id": "a67e4808fe94",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
+    },
+    {
+      "id": "79b71893e69d",
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "url": "https://blog.cloudflare.com/open-clairic/",
+      "source": "Cloudflare Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R8CJQT5KFR9NBMZB2FTDQ3.01M7R8CK3P86K910EXDKQFBE6N.png"
+    },
     {
       "id": "8e6075d168e0",
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -35,52 +98,16 @@
       "source": "Docker Blog",
       "category": "ai",
       "publishedAt": "2026-11-18T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/11/image2.png"
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/image3.png"
     },
     {
-      "id": "340c2ff0827f",
-      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-17T20:24:27.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
-    },
-    {
-      "id": "dfa52e89374f",
-      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-      "source": "GitHub Blog",
+      "id": "f71a79de0ac7",
+      "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+      "source": "Azure",
       "category": "ai",
-      "publishedAt": "2026-11-17T18:29:29.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/01-participating-projects.png?resize=1024%2C576"
-    },
-    {
-      "id": "964aca3f2d3b",
-      "title": "Building the Agent Host Protocol for sessions that continue across devices",
-      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-17T18:20:40.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/ahp-protocol-state.png?resize=1024%2C512"
-    },
-    {
-      "id": "9dc9285371a9",
-      "title": "Engineering AI Discover",
-      "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1000/1*MSAqZ2TgZxKfGifhug2wuA.gif"
-    },
-    {
-      "id": "cb1d8f8bc84f",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
+      "publishedAt": "2026-11-17T18:35:00.000Z",
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/azure_workload_health_upscaled.webp"
     },
     {
       "id": "90309880d44d",
@@ -92,15 +119,6 @@
       "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
     },
     {
-      "id": "ea1bd15d2eac",
-      "title": "Meet AI 2027 Conference (Dec 1)",
-      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "source": "Smashing Magazine",
-      "category": "ai",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "imageUrl": "https://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
-    },
-    {
       "id": "72fd99be9787",
       "title": "Scheduling the removal of the kube-proxy IPVS backend",
       "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
@@ -108,15 +126,6 @@
       "category": "backend",
       "publishedAt": "2026-11-16T18:35:00.000Z",
       "imageUrl": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/ipvs-vs-nftables.svg"
-    },
-    {
-      "id": "0bc322583e6f",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
     },
     {
       "id": "427a44748fe9",
@@ -128,46 +137,82 @@
       "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
     },
     {
-      "id": "09e5e80125ce",
-      "title": "Kitesurf is now open source",
-      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-13T20:20:21.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M53647Q1KNRABY8VM2G7.png"
+      "id": "ae9dfbfde2f4",
+      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
+      "url": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-19T17:38:08.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.jpg"
     },
     {
-      "id": "779ddc48195a",
-      "title": "GitHub availability report: October 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "id": "13030d4f70c5",
+      "title": "Introducing in-place migration to GKE Dataplane V2",
+      "url": "https://cloud.google.com/blog/products/networking/gke-dataplane-v2-in-place-migration/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Networking.max-2500x2500.jpg"
+    },
+    {
+      "id": "6043cb0c299f",
+      "title": "The best things in open source are built together",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "source": "GitHub Blog",
       "category": "tools",
-      "publishedAt": "2026-11-13T00:20:16.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/oct5-actions-jobs-starting-late.png?resize=1024%2C466"
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/67977d9dac0cf6bc4f8b12cd3a64c4867b87c2f1a9fffa39fc77255b7c0247c3-1920x1080-1.png"
     },
     {
-      "id": "1dbbf5f7a98e",
-      "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+      "id": "bda2dfc723ef",
+      "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-18T17:00:00.000Z"
+      "publishedAt": "2026-11-19T15:56:00.000Z"
     },
     {
-      "id": "57ce14f5ec88",
-      "title": "Amazon Cognito now supports point-in-time recovery",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-18T17:00:00.000Z"
+      "id": "f1b2d3570214",
+      "title": "scroll-state()",
+      "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-19T14:57:54.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
     },
     {
-      "id": "4894f3284b73",
-      "title": "Amazon RDS now supports fast storage volume initialization",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
+      "id": "d9ae11c33ecf",
+      "title": "AWS Marketplace now supports buyer contact sharing at subscription",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-18T16:00:00.000Z"
+      "publishedAt": "2026-11-19T13:00:00.000Z"
+    },
+    {
+      "id": "79f923ae3347",
+      "title": "AWS Systems Manager Parameter Store raises API throughput limits",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-19T09:00:00.000Z"
+    },
+    {
+      "id": "7a380725c666",
+      "title": "Expanding Android developer verification in 2027",
+      "url": "https://developer.android.com/blog/posts/android-developer-verification-2027",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_139_Android_developer_verification_Going_global_together_Strapi_01_png_12aa1e5aae_oj9p3.webp"
+    },
+    {
+      "id": "5c74d930eb39",
+      "title": "A Bootiful Podcast: JobRunr founder Ronald Dehuysser",
+      "url": "https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "940edf162a5f",
@@ -179,15 +224,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
     },
     {
-      "id": "2d78d7e130fb",
-      "title": "Elevating apps: New adaptive quality standards on Google Play",
-      "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_163_Elevating_Adaptive_App_Quality_Blue_30a2165ec7_PzLhg.webp"
-    },
-    {
       "id": "0cafa650df0a",
       "title": "Elevating games: New large screens and foldables quality standards on Google Play",
       "url": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
@@ -197,13 +233,13 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
     },
     {
-      "id": "89c64076e8d6",
-      "title": "This Week in Spring - November 18th, 2026",
-      "url": "https://spring.io/blog/2026/11/18/this-week-in-spring-november-18th-2026",
-      "source": "Spring Blog",
-      "category": "backend",
+      "id": "c61729b4289d",
+      "title": "What's new in the Jetpack Compose November '26 release",
+      "url": "https://developer.android.com/blog/posts/jetpack-compose-november-2026-release",
+      "source": "Android Developers",
+      "category": "mobile",
       "publishedAt": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
+      "imageUrl": "https://developer.android.com/static/blog/assets/0420_Compose_1_11_Strapi_812f851abd_8LPoU.webp"
     },
     {
       "id": "f320540b0b83",
@@ -224,13 +260,13 @@
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
     },
     {
-      "id": "010625e64a9e",
-      "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
-      "url": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
-      "source": "Android Developers",
-      "category": "mobile",
+      "id": "757a24b5cf1f",
+      "title": "This Week in Spring - November 17th, 2026",
+      "url": "https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026",
+      "source": "Spring Blog",
+      "category": "backend",
       "publishedAt": "2026-11-17T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/1109_ABL_160_Ship_smarter_keep_rules_How_library_providers_can_unblock_app_level_DEX_code_optimization_1_44aba4f3cd_XBpnS.webp"
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "156836d6c9f6",
@@ -242,15 +278,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
     },
     {
-      "id": "df92106bce12",
-      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
-      "url": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.png"
-    },
-    {
       "id": "615fe9482638",
       "title": "Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov",
       "url": "https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30",
@@ -258,51 +285,6 @@
       "category": "backend",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "a97c7cf547a2",
-      "title": "10 Big Ol’ 2027 Black Friday Deals",
-      "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-13T14:05:24.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
-    },
-    {
-      "id": "7614a098bacc",
-      "title": "Agentic search doesn't find pages, it assembles answers",
-      "url": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-13T08:40:00.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
-    },
-    {
-      "id": "6d2e94a4c8bd",
-      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
-      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-12T13:36:10.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)"
-    },
-    {
-      "id": "78fdddee7000",
-      "title": "A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more",
-      "url": "https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "b8c82d5c01fe",
-      "title": "Announcing Rust 1.100.0",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "a3f795d16cf8",
@@ -323,22 +305,22 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
     },
     {
-      "id": "fa69cf987a95",
-      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
-      "url": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/CLO20b_Jean_Alain_casual_office_003.jpg"
+      "id": "6d2e94a4c8bd",
+      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-12T13:36:10.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)"
     },
     {
-      "id": "8d0224de36d0",
-      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
-      "source": "Azure",
-      "category": "cloud",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Cadence-Xcelium-RTLSimulation-Throughput-1-1024x575.jpg"
+      "id": "b8c82d5c01fe",
+      "title": "Announcing Rust 1.100.0",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "1e031bfb939c",
@@ -428,6 +410,23 @@
       "category": "languages",
       "publishedAt": "2026-10-26T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+    },
+    {
+      "id": "6f41e119c0a1",
+      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
+      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T23:11:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "c11712eb305e",
+      "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+      "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+      "source": "React Native",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
     }
   ]
 }
