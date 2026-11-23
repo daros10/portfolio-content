@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-22T17:31:15.882Z",
+  "generatedAt": "2026-11-23T21:50:43.137Z",
   "items": [
+    {
+      "id": "39c2da17cef6",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0703d1f701e4",
+      "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_alloydb-omni-local-models.max-1000x1000.png"
+    },
+    {
+      "id": "d1d3915e5322",
+      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+      "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "source": "Google Cloud Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_OgG7rWd.max-1000x1000.png"
+    },
+    {
+      "id": "61dcf1169479",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "id": "58df1ef0cea6",
+      "title": "Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/",
+      "source": "Kotlin Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-23T14:13:29.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Kotlin-Benchmark-2.0-leaderboard-infographic-1920x1080-23-Nov-2026.png"
+    },
+    {
+      "id": "9f50a7fbeba1",
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-23T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7XNSAD6F3PP947NHEMWKBFV.png"
+    },
     {
       "id": "f93ea93941f6",
       "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
@@ -20,24 +74,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76DTFTZ4PHVTH5XWJ37KT.png"
     },
     {
-      "id": "86db41def986",
-      "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
-      "url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-20T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/1_-_authoring-clickstream-dag.gif"
-    },
-    {
-      "id": "7ec62e10e147",
-      "title": "Frontier and Center: Why your data agents need a “wind tunnel”",
-      "url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-20T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_JHmwdEP.max-1000x1000.png"
-    },
-    {
       "id": "6b91d491134f",
       "title": "The momentum across the global Angular ecosystem never slows down!",
       "url": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
@@ -45,15 +81,6 @@
       "category": "frontend",
       "publishedAt": "2026-11-20T05:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*2rxzF9rTeE6qXDF32Rownw.png"
-    },
-    {
-      "id": "ff4da9032d2d",
-      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "url": "https://blog.cloudflare.com/nginx2root/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-20T01:58:29.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png"
     },
     {
       "id": "913a0c1689ff",
@@ -92,15 +119,6 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/11/blog-frame-2320x957.png"
     },
     {
-      "id": "8e6075d168e0",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-18T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
-    },
-    {
       "id": "7d7079a0abaf",
       "title": "App Store Award finalists announced",
       "url": "https://developer.apple.com/news/?id=vb753j92",
@@ -108,42 +126,6 @@
       "category": "mobile",
       "publishedAt": "2026-11-18T14:00:18.000Z",
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
-    },
-    {
-      "id": "f77cb680c486",
-      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
-      "url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
-      "source": "Docker Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/11/image3.png"
-    },
-    {
-      "id": "f71a79de0ac7",
-      "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-11-17T18:35:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/azure_workload_health_upscaled.webp"
-    },
-    {
-      "id": "2f84abf2face",
-      "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
-      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-11-17T18:35:00.000Z",
-      "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1307382-azurecatalyst"
-    },
-    {
-      "id": "7c4d82be4673",
-      "title": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
-      "source": "Azure",
-      "category": "ai",
-      "publishedAt": "2026-11-17T18:35:00.000Z",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg"
     },
     {
       "id": "90309880d44d",
@@ -155,46 +137,54 @@
       "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
     },
     {
-      "id": "72fd99be9787",
-      "title": "Scheduling the removal of the kube-proxy IPVS backend",
-      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "id": "408d097bd252",
+      "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-23T18:35:00.000Z"
+    },
+    {
+      "id": "d0de866e1fe5",
+      "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-23T18:00:00.000Z"
+    },
+    {
+      "id": "ceaf20732c1f",
+      "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-23T17:36:00.000Z"
+    },
+    {
+      "id": "db193f283658",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
       "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-16T18:35:00.000Z",
-      "imageUrl": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/ipvs-vs-nftables.svg"
-    },
-    {
-      "id": "427a44748fe9",
-      "title": "Enabling the parallel frontend on nightly",
-      "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-16T00:00:00.000Z",
-      "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
-    },
-    {
-      "id": "4746aad7e3f3",
-      "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
-      "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-21T02:58:00.000Z"
+      "publishedAt": "2026-11-23T16:00:00.000Z"
     },
     {
-      "id": "feca2cc8580a",
-      "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-21T01:10:00.000Z"
+      "id": "eee56382e551",
+      "title": "Using Fallbacks for a Robust Front-End",
+      "url": "https://css-tricks.com/using-frontend-fallbacks/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-23T14:21:44.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
     },
     {
-      "id": "a951a5231e7f",
-      "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-21T00:27:00.000Z"
+      "id": "66a13e16f0a3",
+      "title": "Dev Material Archive",
+      "url": "https://css-tricks.com/dev-material-archive/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-23T14:18:50.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
     },
     {
       "id": "33eee93603ca",
@@ -204,6 +194,15 @@
       "category": "tools",
       "publishedAt": "2026-11-20T17:18:38.000Z",
       "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format"
+    },
+    {
+      "id": "de342ea9ec0e",
+      "title": "Ultimate guide for fixing your team’s API keys",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/11_-_Developers__Practitioners_a4Y5EGr.max-2600x2600.jpg"
     },
     {
       "id": "f9d528cd3606",
@@ -260,15 +259,6 @@
       "imageUrl": "https://github.blog/wp-content/uploads/2026/11/67977d9dac0cf6bc4f8b12cd3a64c4867b87c2f1a9fffa39fc77255b7c0247c3-1920x1080-1.png"
     },
     {
-      "id": "f1b2d3570214",
-      "title": "scroll-state()",
-      "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-19T14:57:54.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
-    },
-    {
       "id": "7a380725c666",
       "title": "Expanding Android developer verification in 2027",
       "url": "https://developer.android.com/blog/posts/android-developer-verification-2027",
@@ -278,13 +268,13 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_139_Android_developer_verification_Going_global_together_Strapi_01_png_12aa1e5aae_oj9p3.webp"
     },
     {
-      "id": "940edf162a5f",
-      "title": "When Everything Has Changed, What Do We Do Next?",
-      "url": "https://css-tricks.com/when-everything-has-changed/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-18T14:55:21.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+      "id": "2d78d7e130fb",
+      "title": "Elevating apps: New adaptive quality standards on Google Play",
+      "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_163_Elevating_Adaptive_App_Quality_Blue_30a2165ec7_PzLhg.webp"
     },
     {
       "id": "0cafa650df0a",
@@ -296,15 +286,6 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
     },
     {
-      "id": "c61729b4289d",
-      "title": "What's new in the Jetpack Compose November '26 release",
-      "url": "https://developer.android.com/blog/posts/jetpack-compose-november-2026-release",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/0420_Compose_1_11_Strapi_812f851abd_8LPoU.webp"
-    },
-    {
       "id": "f320540b0b83",
       "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
@@ -314,13 +295,22 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)"
     },
     {
-      "id": "a3f795d16cf8",
-      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
-      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
-      "source": "Netflix Tech",
-      "category": "tools",
-      "publishedAt": "2026-11-09T17:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
+      "id": "72fd99be9787",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "source": "Kubernetes Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-16T18:35:00.000Z",
+      "imageUrl": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/ipvs-vs-nftables.svg"
+    },
+    {
+      "id": "427a44748fe9",
+      "title": "Enabling the parallel frontend on nightly",
+      "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
     },
     {
       "id": "6d2e94a4c8bd",
@@ -368,6 +358,15 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
+      "id": "a3f795d16cf8",
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "source": "Netflix Tech",
+      "category": "tools",
+      "publishedAt": "2026-11-09T17:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
+    },
+    {
       "id": "67b8c97dc4a8",
       "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
       "url": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
@@ -395,15 +394,6 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
-      "id": "f15b8cc4d8db",
-      "title": "Kodee’s Kotlin Roundup: Shipaton 2026 Winners, Kotlin 2.5.0-Beta2, and KotlinConf 2027",
-      "url": "https://blog.jetbrains.com/kotlin/2026/10/kodee-s-kotlin-roundup-shipaton-2026-winners-kotlin-2-5-0-beta2-and-kotlinconf-2027/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-30T12:02:33.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/10/Kotlin-Release-X-LinkedIn-FB-Bluesky-1200x675-1-3.webp"
-    },
-    {
       "id": "02eb758bb46a",
       "title": "What's new in Astro - October 2026",
       "url": "https://astro.build/blog/whats-new-october-2026/",
@@ -413,12 +403,22 @@
       "imageUrl": "https://astro.build/_astro/og.m5r1T33i.webp"
     },
     {
-      "id": "d9d01bde1a56",
-      "title": "Announcing the Workload Conformance Working Group",
-      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
-      "source": "Kubernetes Blog",
-      "category": "backend",
-      "publishedAt": "2026-10-27T04:30:00.000Z"
+      "id": "56a7035cf57d",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
+    },
+    {
+      "id": "72099188aed0",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "TypeScript DevBlog",
+      "category": "languages",
+      "publishedAt": "2026-10-20T17:53:06.000Z",
+      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
       "id": "b19d44d93223",
