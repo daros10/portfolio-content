@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-23T21:50:43.137Z",
+  "generatedAt": "2026-11-24T20:26:43.920Z",
   "items": [
+    {
+      "id": "e2544bc1aeb2",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "307ec7853a39",
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/Universe-4-4.jpg?resize=1024%2C576"
+    },
+    {
+      "id": "5416011d3855",
+      "title": "Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium",
+      "url": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+      "source": "Google Cloud Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-24T15:02:00.000Z",
+      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/28803_CHEC_ALLEN_Career_Institute_BlogHeader.max-600x600.png"
+    },
+    {
+      "id": "a283193da833",
+      "title": "Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart",
+      "url": "https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261126/tool-call-confirmation-sequence.svg"
+    },
     {
       "id": "39c2da17cef6",
       "title": "A more tailored Google Search that’s uniquely yours",
@@ -18,15 +54,6 @@
       "category": "ai",
       "publishedAt": "2026-11-23T17:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_alloydb-omni-local-models.max-1000x1000.png"
-    },
-    {
-      "id": "d1d3915e5322",
-      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
-      "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
-      "source": "Google Cloud Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-23T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_OgG7rWd.max-1000x1000.png"
     },
     {
       "id": "61dcf1169479",
@@ -101,15 +128,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
     },
     {
-      "id": "2adef6bfeca0",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
-    },
-    {
       "id": "899c4b9dc79c",
       "title": "Meet the New Docker: Built to Run on Trust",
       "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
@@ -128,37 +146,44 @@
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
     },
     {
-      "id": "90309880d44d",
-      "title": "Kotlin Toolchain 0.14: Agentic Development and iOS Publishing",
-      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-toolchain-0-14-agentic-development-and-ios-publishing/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-11-17T15:25:05.000Z",
-      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
+      "id": "344c05df906b",
+      "title": "Prompt Injection Fixes Need Regression Tests",
+      "url": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-24T16:24:41.000Z"
     },
     {
-      "id": "408d097bd252",
-      "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-23T18:35:00.000Z"
+      "id": "e7e3f50b1800",
+      "title": "A Reboot Is Still a Deployment",
+      "url": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-24T15:52:06.000Z"
     },
     {
-      "id": "d0de866e1fe5",
-      "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+      "id": "00f0c903683d",
+      "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-23T18:00:00.000Z"
+      "publishedAt": "2026-11-23T23:21:00.000Z"
     },
     {
-      "id": "ceaf20732c1f",
-      "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+      "id": "3bb923736857",
+      "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
       "source": "AWS",
       "category": "cloud",
-      "publishedAt": "2026-11-23T17:36:00.000Z"
+      "publishedAt": "2026-11-23T23:14:00.000Z"
+    },
+    {
+      "id": "8edf455cb89b",
+      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-23T20:00:00.000Z"
     },
     {
       "id": "db193f283658",
@@ -187,24 +212,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
     },
     {
-      "id": "33eee93603ca",
-      "title": "Dispatches from O'Reilly: Inside a software factory",
-      "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-20T17:18:38.000Z",
-      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format"
-    },
-    {
-      "id": "de342ea9ec0e",
-      "title": "Ultimate guide for fixing your team’s API keys",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
-      "source": "Google Cloud Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-20T17:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/11_-_Developers__Practitioners_a4Y5EGr.max-2600x2600.jpg"
-    },
-    {
       "id": "f9d528cd3606",
       "title": "Andy Clarke answers six questions about Standout Designs for the Web",
       "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
@@ -217,15 +224,6 @@
       "id": "d91d1c588775",
       "title": "Spring Boot 4.0.10 available now",
       "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
-      "id": "f5738990b4d4",
-      "title": "Spring Boot 4.1.3 available now",
-      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now",
       "source": "Spring Blog",
       "category": "backend",
       "publishedAt": "2026-11-20T00:00:00.000Z",
@@ -286,13 +284,13 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
     },
     {
-      "id": "f320540b0b83",
-      "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
-      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-17T08:41:07.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)"
+      "id": "90309880d44d",
+      "title": "Kotlin Toolchain 0.14: Agentic Development and iOS Publishing",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-toolchain-0-14-agentic-development-and-ios-publishing/",
+      "source": "Kotlin Blog",
+      "category": "mobile",
+      "publishedAt": "2026-11-17T15:25:05.000Z",
+      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
     },
     {
       "id": "72fd99be9787",
@@ -311,6 +309,15 @@
       "category": "languages",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
+    },
+    {
+      "id": "f320540b0b83",
+      "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-17T08:41:07.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)"
     },
     {
       "id": "6d2e94a4c8bd",
@@ -349,15 +356,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "3b4cedcfd49e",
-      "title": "Go Turns 17",
-      "url": "https://go.dev/blog/17years",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
       "id": "a3f795d16cf8",
       "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
       "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
@@ -374,6 +372,15 @@
       "category": "frontend",
       "publishedAt": "2026-11-06T15:01:04.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
+    },
+    {
+      "id": "3b4cedcfd49e",
+      "title": "Go Turns 17",
+      "url": "https://go.dev/blog/17years",
+      "source": "Go Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
       "id": "2e92d8d7a0a8",
@@ -410,15 +417,6 @@
       "category": "frontend",
       "publishedAt": "2026-10-23T14:58:56.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
-    },
-    {
-      "id": "72099188aed0",
-      "title": "Announcing TypeScript 7.1 Beta",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
-      "source": "TypeScript DevBlog",
-      "category": "languages",
-      "publishedAt": "2026-10-20T17:53:06.000Z",
-      "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/10/ts71-beta-wall-compare-1.png"
     },
     {
       "id": "b19d44d93223",
