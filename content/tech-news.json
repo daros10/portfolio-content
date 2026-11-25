@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-24T20:26:43.920Z",
+  "generatedAt": "2026-11-25T19:40:56.597Z",
   "items": [
+    {
+      "id": "20cfc938493f",
+      "title": "Prove your AI agent guardrails work",
+      "url": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
+      "source": "Docker Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-25T16:57:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/Figure1.png"
+    },
+    {
+      "id": "170ba12c1bad",
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "source": "Cloudflare Blog",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M87EH6J3AHBJGMX9NR8JGR2V.png"
+    },
     {
       "id": "e2544bc1aeb2",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -27,6 +45,15 @@
       "category": "cloud",
       "publishedAt": "2026-11-24T15:02:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/28803_CHEC_ALLEN_Career_Institute_BlogHeader.max-600x600.png"
+    },
+    {
+      "id": "f14a6f6dfd19",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "a283193da833",
@@ -92,15 +119,6 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
     },
     {
-      "id": "7066f202a884",
-      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
-      "source": "Cloudflare Blog",
-      "category": "cloud",
-      "publishedAt": "2026-11-20T20:00:45.000Z",
-      "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76DTFTZ4PHVTH5XWJ37KT.png"
-    },
-    {
       "id": "6b91d491134f",
       "title": "The momentum across the global Angular ecosystem never slows down!",
       "url": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
@@ -108,24 +126,6 @@
       "category": "frontend",
       "publishedAt": "2026-11-20T05:01:02.000Z",
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*2rxzF9rTeE6qXDF32Rownw.png"
-    },
-    {
-      "id": "913a0c1689ff",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "source": "Spring Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261119/spring-ai-project-map.svg"
-    },
-    {
-      "id": "b00f82b6db94",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
     },
     {
       "id": "899c4b9dc79c",
@@ -137,13 +137,72 @@
       "imageUrl": "https://www.docker.com/app/uploads/2026/11/blog-frame-2320x957.png"
     },
     {
-      "id": "7d7079a0abaf",
-      "title": "App Store Award finalists announced",
-      "url": "https://developer.apple.com/news/?id=vb753j92",
-      "source": "Apple Developer",
-      "category": "mobile",
-      "publishedAt": "2026-11-18T14:00:18.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
+      "id": "d71cbf26a999",
+      "title": "Kotlin Heroes: Episode 15 – Anniversary Edition",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-heroes-episode-15-anniversary-edition/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-25T17:30:19.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Group-1.png"
+    },
+    {
+      "id": "8463994a91b3",
+      "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T17:15:00.000Z"
+    },
+    {
+      "id": "91244f3c396f",
+      "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T17:10:00.000Z"
+    },
+    {
+      "id": "25580fdca239",
+      "title": "Amazon EC2 C9gd instances now available in additional regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T16:49:00.000Z"
+    },
+    {
+      "id": "f8f83d059f8d",
+      "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+      "url": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-25T15:32:42.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+    },
+    {
+      "id": "b45d58e25dc6",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/38b3dc4817bfb01261d608e093dda2cdf3392f0886a14b95208bc6f1cd49e58d-1920x1080-1.png"
+    },
+    {
+      "id": "0f441275f550",
+      "title": "Style Queries as Conditional Modifiers",
+      "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+      "source": "CSS-Tricks",
+      "category": "frontend",
+      "publishedAt": "2026-11-25T14:06:34.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+    },
+    {
+      "id": "7c0ada0cfecf",
+      "title": "Idempotency when you don't control the other end",
+      "url": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-24T17:01:51.000Z"
     },
     {
       "id": "344c05df906b",
@@ -154,36 +213,13 @@
       "publishedAt": "2026-11-24T16:24:41.000Z"
     },
     {
-      "id": "e7e3f50b1800",
-      "title": "A Reboot Is Still a Deployment",
-      "url": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-24T15:52:06.000Z"
-    },
-    {
-      "id": "00f0c903683d",
-      "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-23T23:21:00.000Z"
-    },
-    {
-      "id": "3bb923736857",
-      "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-23T23:14:00.000Z"
-    },
-    {
-      "id": "8edf455cb89b",
-      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-23T20:00:00.000Z"
+      "id": "57c98ac774dd",
+      "title": "This Week in Spring - November 24th, 2026",
+      "url": "https://spring.io/blog/2026/11/24/this-week-in-spring-november-24-2026",
+      "source": "Spring Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "imageUrl": "https://spring.io/img/og-spring.png"
     },
     {
       "id": "db193f283658",
@@ -203,33 +239,6 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
     },
     {
-      "id": "66a13e16f0a3",
-      "title": "Dev Material Archive",
-      "url": "https://css-tricks.com/dev-material-archive/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-23T14:18:50.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
-    },
-    {
-      "id": "f9d528cd3606",
-      "title": "Andy Clarke answers six questions about Standout Designs for the Web",
-      "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
-      "source": "CSS-Tricks",
-      "category": "frontend",
-      "publishedAt": "2026-11-20T15:03:47.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
-    },
-    {
-      "id": "d91d1c588775",
-      "title": "Spring Boot 4.0.10 available now",
-      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "dddbbe9eaa15",
       "title": "What's New in SwiftPM - Nov 2026",
       "url": "https://forums.swift.org/t/whats-new-in-swiftpm-nov-2026/90908",
@@ -245,16 +254,7 @@
       "source": "Docker Blog",
       "category": "tools",
       "publishedAt": "2026-11-19T17:38:08.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2025/03/image.jpg"
-    },
-    {
-      "id": "6043cb0c299f",
-      "title": "The best things in open source are built together",
-      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-      "source": "GitHub Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/11/67977d9dac0cf6bc4f8b12cd3a64c4867b87c2f1a9fffa39fc77255b7c0247c3-1920x1080-1.png"
+      "imageUrl": "https://www.docker.com/app/uploads/brand/social/docker-og-default.png"
     },
     {
       "id": "7a380725c666",
@@ -266,22 +266,13 @@
       "imageUrl": "https://developer.android.com/static/blog/assets/ABL_139_Android_developer_verification_Going_global_together_Strapi_01_png_12aa1e5aae_oj9p3.webp"
     },
     {
-      "id": "2d78d7e130fb",
-      "title": "Elevating apps: New adaptive quality standards on Google Play",
-      "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
-      "source": "Android Developers",
+      "id": "7d7079a0abaf",
+      "title": "App Store Award finalists announced",
+      "url": "https://developer.apple.com/news/?id=vb753j92",
+      "source": "Apple Developer",
       "category": "mobile",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_163_Elevating_Adaptive_App_Quality_Blue_30a2165ec7_PzLhg.webp"
-    },
-    {
-      "id": "0cafa650df0a",
-      "title": "Elevating games: New large screens and foldables quality standards on Google Play",
-      "url": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
+      "publishedAt": "2026-11-18T14:00:18.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
     },
     {
       "id": "90309880d44d",
@@ -311,6 +302,24 @@
       "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
     },
     {
+      "id": "2d78d7e130fb",
+      "title": "Elevating apps: New adaptive quality standards on Google Play",
+      "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_163_Elevating_Adaptive_App_Quality_Blue_30a2165ec7_PzLhg.webp"
+    },
+    {
+      "id": "0cafa650df0a",
+      "title": "Elevating games: New large screens and foldables quality standards on Google Play",
+      "url": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_162_2000x1000_1_ce7dba8d2a_1b7M3A.webp"
+    },
+    {
       "id": "f320540b0b83",
       "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
@@ -338,24 +347,6 @@
       "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
-      "id": "1e031bfb939c",
-      "title": "Node.js 26.13.1 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v26.13.1",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-11T16:45:20.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)"
-    },
-    {
-      "id": "ea9f98ddcc2c",
-      "title": "Google Summer of Code 2026 results",
-      "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
       "id": "a3f795d16cf8",
       "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
       "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
@@ -374,6 +365,24 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
     },
     {
+      "id": "1e031bfb939c",
+      "title": "Node.js 26.13.1 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v26.13.1",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-11T16:45:20.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)"
+    },
+    {
+      "id": "ea9f98ddcc2c",
+      "title": "Google Summer of Code 2026 results",
+      "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    },
+    {
       "id": "3b4cedcfd49e",
       "title": "Go Turns 17",
       "url": "https://go.dev/blog/17years",
@@ -381,15 +390,6 @@
       "category": "languages",
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
-    },
-    {
-      "id": "2e92d8d7a0a8",
-      "title": "The Kotlin Multiplatform Contest Is Open: Win a Trip to KotlinConf",
-      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-multiplatform-contest-2027/",
-      "source": "Kotlin Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-05T22:05:21.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KM-social-BlogSocialShare-1280x720-1.png"
     },
     {
       "id": "aed4d9c60c01",
