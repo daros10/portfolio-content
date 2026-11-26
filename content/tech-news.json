@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-25T19:40:56.597Z",
+  "generatedAt": "2026-11-26T19:21:32.196Z",
   "items": [
+    {
+      "id": "d8fe47121776",
+      "title": "Decision Models in Spring AI 2.1: Yes, No, and How Sure",
+      "url": "https://spring.io/blog/2026/11/26/spring-ai-decision-models-guardrails-judges",
+      "source": "Spring Blog",
+      "category": "ai",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "imageUrl": "https://raw.githubusercontent.com/spring-io/spring-io-static/refs/heads/main/blog/tzolov/20261119/decision-triage-example.svg"
+    },
     {
       "id": "20cfc938493f",
       "title": "Prove your AI agent guardrails work",
@@ -47,15 +56,6 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/28803_CHEC_ALLEN_Career_Institute_BlogHeader.max-600x600.png"
     },
     {
-      "id": "f14a6f6dfd19",
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-11-24T13:07:53.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo"
-    },
-    {
       "id": "a283193da833",
       "title": "Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart",
       "url": "https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume",
@@ -81,15 +81,6 @@
       "category": "ai",
       "publishedAt": "2026-11-23T17:00:00.000Z",
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_alloydb-omni-local-models.max-1000x1000.png"
-    },
-    {
-      "id": "61dcf1169479",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "DeepMind",
-      "category": "ai",
-      "publishedAt": "2026-11-23T16:59:40.000Z",
-      "imageUrl": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "58df1ef0cea6",
@@ -128,13 +119,38 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*2rxzF9rTeE6qXDF32Rownw.png"
     },
     {
-      "id": "899c4b9dc79c",
-      "title": "Meet the New Docker: Built to Run on Trust",
-      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
-      "source": "Docker Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/2026/11/blog-frame-2320x957.png"
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "category": "ai",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png"
+    },
+    {
+      "id": "5b8c071e7a78",
+      "title": "Node.js 27.0.0-alpha.0.2.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0",
+      "source": "Node.js Blog",
+      "category": "backend",
+      "publishedAt": "2026-11-26T10:30:16.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.2.0%20(Alpha)"
+    },
+    {
+      "id": "c94d258cf5d6",
+      "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "id": "e2c5bf857dad",
+      "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-25T20:00:00.000Z"
     },
     {
       "id": "d71cbf26a999",
@@ -152,22 +168,6 @@
       "source": "AWS",
       "category": "cloud",
       "publishedAt": "2026-11-25T17:15:00.000Z"
-    },
-    {
-      "id": "91244f3c396f",
-      "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-25T17:10:00.000Z"
-    },
-    {
-      "id": "25580fdca239",
-      "title": "Amazon EC2 C9gd instances now available in additional regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-25T16:49:00.000Z"
     },
     {
       "id": "f8f83d059f8d",
@@ -239,31 +239,13 @@
       "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
     },
     {
-      "id": "dddbbe9eaa15",
-      "title": "What's New in SwiftPM - Nov 2026",
-      "url": "https://forums.swift.org/t/whats-new-in-swiftpm-nov-2026/90908",
-      "source": "Swift Forums",
-      "category": "mobile",
-      "publishedAt": "2026-11-19T19:09:24.000Z",
-      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
-    },
-    {
-      "id": "ae9dfbfde2f4",
-      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
-      "url": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
+      "id": "899c4b9dc79c",
+      "title": "Meet the New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
       "source": "Docker Blog",
       "category": "tools",
-      "publishedAt": "2026-11-19T17:38:08.000Z",
-      "imageUrl": "https://www.docker.com/app/uploads/brand/social/docker-og-default.png"
-    },
-    {
-      "id": "7a380725c666",
-      "title": "Expanding Android developer verification in 2027",
-      "url": "https://developer.android.com/blog/posts/android-developer-verification-2027",
-      "source": "Android Developers",
-      "category": "mobile",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_139_Android_developer_verification_Going_global_together_Strapi_01_png_12aa1e5aae_oj9p3.webp"
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/2026/11/blog-frame-2320x957.png"
     },
     {
       "id": "7d7079a0abaf",
@@ -302,6 +284,33 @@
       "imageUrl": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/nalgebra-0.33.png"
     },
     {
+      "id": "dddbbe9eaa15",
+      "title": "What's New in SwiftPM - Nov 2026",
+      "url": "https://forums.swift.org/t/whats-new-in-swiftpm-nov-2026/90908",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-11-19T19:09:24.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
+    },
+    {
+      "id": "ae9dfbfde2f4",
+      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
+      "url": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
+      "source": "Docker Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-19T17:38:08.000Z",
+      "imageUrl": "https://www.docker.com/app/uploads/brand/social/docker-og-default.png"
+    },
+    {
+      "id": "7a380725c666",
+      "title": "Expanding Android developer verification in 2027",
+      "url": "https://developer.android.com/blog/posts/android-developer-verification-2027",
+      "source": "Android Developers",
+      "category": "mobile",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "imageUrl": "https://developer.android.com/static/blog/assets/ABL_139_Android_developer_verification_Going_global_together_Strapi_01_png_12aa1e5aae_oj9p3.webp"
+    },
+    {
       "id": "2d78d7e130fb",
       "title": "Elevating apps: New adaptive quality standards on Google Play",
       "url": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
@@ -329,24 +338,6 @@
       "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)"
     },
     {
-      "id": "6d2e94a4c8bd",
-      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
-      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
-      "source": "Node.js Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-12T13:36:10.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)"
-    },
-    {
-      "id": "b8c82d5c01fe",
-      "title": "Announcing Rust 1.100.0",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "source": "Rust Blog",
-      "category": "languages",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
-    },
-    {
       "id": "a3f795d16cf8",
       "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
       "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
@@ -365,13 +356,22 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
     },
     {
-      "id": "1e031bfb939c",
-      "title": "Node.js 26.13.1 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v26.13.1",
+      "id": "6d2e94a4c8bd",
+      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
       "source": "Node.js Blog",
       "category": "backend",
-      "publishedAt": "2026-11-11T16:45:20.000Z",
-      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)"
+      "publishedAt": "2026-11-12T13:36:10.000Z",
+      "imageUrl": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)"
+    },
+    {
+      "id": "b8c82d5c01fe",
+      "title": "Announcing Rust 1.100.0",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "Rust Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
     },
     {
       "id": "ea9f98ddcc2c",
