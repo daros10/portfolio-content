@@ -56,7 +56,9 @@
     "subtitle": "Lo que he construido",
     "professional": "Profesionales",
     "personal": "Personales",
-    "viewProject": "Ver Proyecto"
+    "viewProject": "Ver Proyecto",
+    "readMore": "Leer más",
+    "close": "Cerrar"
   },
   "contact": {
     "title": "Contacto",

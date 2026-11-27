@@ -56,7 +56,9 @@
     "subtitle": "What I've built",
     "professional": "Professional",
     "personal": "Personal",
-    "viewProject": "View Project"
+    "viewProject": "View Project",
+    "readMore": "Read more",
+    "close": "Close"
   },
   "contact": {
     "title": "Get In Touch",
