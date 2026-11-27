@@ -114,6 +114,8 @@
     "G": "Functional testing of systems in JavaEE."
   },
   "projectDescriptions": {
+    "sobra": "A personal finance web app that centralizes income, expenses, accounts and debts to answer one question: how much money you have left this month. Built on a double-entry ledger, with budgets, trends and an optional AI assistant.",
+    "cvGenerator": "A fully static CV builder: write your résumé in Markdown with YAML frontmatter and get a live, print-accurate A4 preview with 6 selectable templates and PDF export.",
     "goSpace": "Aidra is spatial AI that transforms in-office collaboration by understanding your team's needs, autonomously bringing them together in the right space at the right time.",
     "timeTracker": "A web application developed for ioet's internal staff that expands the functionalities of the TSheets payment tool.",
     "dish": "A web system to control and plan employee nutrition. Manages roles for administrators and users to optimize catering costs.",

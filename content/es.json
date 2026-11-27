@@ -114,6 +114,8 @@
     "G": "Pruebas funcionales a sistemas en JavaEE."
   },
   "projectDescriptions": {
+    "sobra": "Aplicación web de finanzas personales que centraliza ingresos, gastos, cuentas y deudas para responder una pregunta: cuánto dinero te sobra este mes. Construida sobre un libro contable de partida doble, con presupuestos, tendencias y un asistente IA opcional.",
+    "cvGenerator": "Generador de CV 100% estático: escribe tu currículum en Markdown con frontmatter YAML y obtén una vista previa A4 en vivo, fiel a la impresión, con 6 plantillas y exportación a PDF.",
     "goSpace": "Aidra es una IA espacial que transforma la colaboración en oficina al comprender las necesidades del equipo, reuniéndolos autónomamente en el espacio adecuado.",
     "timeTracker": "Aplicación web para el personal interno de ioet que expande las funcionalidades de la herramienta de pago TSheets.",
     "dish": "Sistema web para controlar y planificar la alimentación de empleados. Maneja roles de administrador y usuario para optimizar costos de catering.",

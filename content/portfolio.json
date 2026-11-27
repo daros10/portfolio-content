@@ -127,6 +127,29 @@
   ],
   "personalProjects": [
     {
+      "name": "Sobra",
+      "descriptionKey": "projectDescriptions.sobra",
+      "url": "https://sobra-financial.netlify.app/",
+      "tags": [
+        "Flutter",
+        "FastAPI",
+        "Python",
+        "PostgreSQL",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "Markdown CV Generator",
+      "descriptionKey": "projectDescriptions.cvGenerator",
+      "url": "https://markdown-cv-generator.netlify.app/",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Markdown"
+      ]
+    },
+    {
       "name": "Home Automation System",
       "descriptionKey": "projectDescriptions.home",
       "url": "https://github.com/daros10/Tesis_Security_System_Iot_mobile_app",
