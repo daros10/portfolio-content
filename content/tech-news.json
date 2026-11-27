@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-26T19:21:32.196Z",
+  "generatedAt": "2026-11-27T19:16:52.391Z",
   "items": [
+    {
+      "id": "abfbff255404",
+      "title": "Introducing the Kotlin Security Newsletter",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-27T13:56:11.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/image-76.png"
+    },
     {
       "id": "d8fe47121776",
       "title": "Decision Models in Spring AI 2.1: Yes, No, and How Sure",
@@ -56,6 +65,15 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/28803_CHEC_ALLEN_Career_Institute_BlogHeader.max-600x600.png"
     },
     {
+      "id": "f14a6f6dfd19",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "DeepMind",
+      "category": "ai",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo"
+    },
+    {
       "id": "a283193da833",
       "title": "Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart",
       "url": "https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume",
@@ -83,13 +101,13 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_-_alloydb-omni-local-models.max-1000x1000.png"
     },
     {
-      "id": "58df1ef0cea6",
-      "title": "Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code",
-      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/",
-      "source": "Kotlin Blog",
+      "id": "61dcf1169479",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "DeepMind",
       "category": "ai",
-      "publishedAt": "2026-11-23T14:13:29.000Z",
-      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Kotlin-Benchmark-2.0-leaderboard-infographic-1920x1080-23-Nov-2026.png"
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "9f50a7fbeba1",
@@ -110,22 +128,39 @@
       "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
     },
     {
-      "id": "6b91d491134f",
-      "title": "The momentum across the global Angular ecosystem never slows down!",
-      "url": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
+      "id": "b1cddf2a539b",
+      "title": "Using light-dark() without getting caught out",
+      "url": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+      "source": "CSS-Tricks",
       "category": "frontend",
-      "publishedAt": "2026-11-20T05:01:02.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*2rxzF9rTeE6qXDF32Rownw.png"
+      "publishedAt": "2026-11-27T16:01:31.000Z",
+      "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/12/candles-lightbulb-1024x512.png"
     },
     {
-      "id": "02a088434703",
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "source": "Hugging Face",
-      "category": "ai",
-      "publishedAt": "2026-11-26T11:37:17.000Z",
-      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png"
+      "id": "3f85cd3a284d",
+      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+      "url": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+      "source": "Stack Overflow Blog",
+      "category": "tools",
+      "publishedAt": "2026-11-27T08:40:00.000Z",
+      "imageUrl": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+    },
+    {
+      "id": "438ae8686040",
+      "title": "Advent of Code 2026: ’Tis the Season to Code in Kotlin",
+      "url": "https://blog.jetbrains.com/kotlin/2026/11/advent-of-code-2026-in-kotlin/",
+      "source": "Kotlin Blog",
+      "category": "languages",
+      "publishedAt": "2026-11-26T22:35:00.000Z",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/KT-social-BlogSocialShare-1280x720-1-7.png"
+    },
+    {
+      "id": "49132acb4dd8",
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
+      "source": "AWS",
+      "category": "cloud",
+      "publishedAt": "2026-11-26T17:00:00.000Z"
     },
     {
       "id": "5b8c071e7a78",
@@ -160,14 +195,6 @@
       "category": "languages",
       "publishedAt": "2026-11-25T17:30:19.000Z",
       "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Group-1.png"
-    },
-    {
-      "id": "8463994a91b3",
-      "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
-      "source": "AWS",
-      "category": "cloud",
-      "publishedAt": "2026-11-25T17:15:00.000Z"
     },
     {
       "id": "f8f83d059f8d",
@@ -205,23 +232,6 @@
       "publishedAt": "2026-11-24T17:01:51.000Z"
     },
     {
-      "id": "344c05df906b",
-      "title": "Prompt Injection Fixes Need Regression Tests",
-      "url": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/",
-      "source": "Stack Overflow Blog",
-      "category": "tools",
-      "publishedAt": "2026-11-24T16:24:41.000Z"
-    },
-    {
-      "id": "57c98ac774dd",
-      "title": "This Week in Spring - November 24th, 2026",
-      "url": "https://spring.io/blog/2026/11/24/this-week-in-spring-november-24-2026",
-      "source": "Spring Blog",
-      "category": "backend",
-      "publishedAt": "2026-11-24T00:00:00.000Z",
-      "imageUrl": "https://spring.io/img/og-spring.png"
-    },
-    {
       "id": "db193f283658",
       "title": "Kubernetes v1.38 Sneak Peek",
       "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
@@ -230,13 +240,13 @@
       "publishedAt": "2026-11-23T16:00:00.000Z"
     },
     {
-      "id": "eee56382e551",
-      "title": "Using Fallbacks for a Robust Front-End",
-      "url": "https://css-tricks.com/using-frontend-fallbacks/",
-      "source": "CSS-Tricks",
+      "id": "6b91d491134f",
+      "title": "The momentum across the global Angular ecosystem never slows down!",
+      "url": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
       "category": "frontend",
-      "publishedAt": "2026-11-23T14:21:44.000Z",
-      "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
+      "publishedAt": "2026-11-20T05:01:02.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*2rxzF9rTeE6qXDF32Rownw.png"
     },
     {
       "id": "899c4b9dc79c",
@@ -255,15 +265,6 @@
       "category": "mobile",
       "publishedAt": "2026-11-18T14:00:18.000Z",
       "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/17485106-BDD1-4988-9B7B-F95BC2AFFE79/2048.jpeg"
-    },
-    {
-      "id": "90309880d44d",
-      "title": "Kotlin Toolchain 0.14: Agentic Development and iOS Publishing",
-      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-toolchain-0-14-agentic-development-and-ios-publishing/",
-      "source": "Kotlin Blog",
-      "category": "mobile",
-      "publishedAt": "2026-11-17T15:25:05.000Z",
-      "imageUrl": "https://admin.blog.jetbrains.com/wp-content/uploads/2026/11/templates1.png"
     },
     {
       "id": "72fd99be9787",
@@ -347,15 +348,6 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png"
     },
     {
-      "id": "67b8c97dc4a8",
-      "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
-      "url": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
-      "source": "Angular Blog",
-      "category": "frontend",
-      "publishedAt": "2026-11-06T15:01:04.000Z",
-      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
-    },
-    {
       "id": "6d2e94a4c8bd",
       "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
       "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
@@ -392,6 +384,15 @@
       "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
     },
     {
+      "id": "67b8c97dc4a8",
+      "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
+      "url": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
+      "source": "Angular Blog",
+      "category": "frontend",
+      "publishedAt": "2026-11-06T15:01:04.000Z",
+      "imageUrl": "https://cdn-images-1.medium.com/max/960/1*SyiJrP7RFTeoCV7C3mXyKQ.png"
+    },
+    {
       "id": "aed4d9c60c01",
       "title": "A new Go API for JSON",
       "url": "https://go.dev/blog/jsonv2",
@@ -419,13 +420,13 @@
       "imageUrl": "https://cdn-images-1.medium.com/max/960/1*B3UyEwp9pIBKdU-anBraJQ.png"
     },
     {
-      "id": "b19d44d93223",
-      "title": "Our Response To The eMudhra Key Disclosure Incident",
-      "url": "https://go.dev/blog/emudhra-incident",
-      "source": "Go Blog",
-      "category": "languages",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "imageUrl": "https://go.dev/doc/gopher/runningsquare.jpg"
+      "id": "6f41e119c0a1",
+      "title": "Slim source distributions via SwiftPM registries: a use case for exact version matching",
+      "url": "https://forums.swift.org/t/slim-source-distributions-via-swiftpm-registries-a-use-case-for-exact-version-matching/90155",
+      "source": "Swift Forums",
+      "category": "mobile",
+      "publishedAt": "2026-10-19T23:11:38.000Z",
+      "imageUrl": "https://global.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png"
     }
   ]
 }
